@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monthly Reports on Baltic Security Foundation</title>
+    <link>https://balticsecurityfoundation.github.io/categories/monthly-reports/</link>
+    <description>Recent content in Monthly Reports on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://balticsecurityfoundation.github.io/categories/monthly-reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baltic Security Foundation Team Activities in November</title>
+      <link>https://balticsecurityfoundation.github.io/november_activities/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurityfoundation.github.io/november_activities/</guid>
+      <description>This month the Baltic Security Foundation team has been very active on both sides of the Atlantic Ocean, continuing existing projects and pursuing new areas of cooperation with likeminded experts and stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Regional Activities</title>
+      <link>https://balticsecurityfoundation.github.io/regional_activities/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurityfoundation.github.io/regional_activities/</guid>
+      <description>October 2019 has been busy for the Baltic Security Foundation, pursuing our goal of fostering and promoting Baltic defense and security.</description>
+    </item>
+    
+  </channel>
+</rss>
