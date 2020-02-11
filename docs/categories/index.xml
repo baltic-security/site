@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Baltic Security Foundation</title>
-    <link>https://balticsecurityfoundation.github.io/categories/</link>
+    <link>https://balticsecurity.github.io/site/categories/</link>
     <description>Recent content in Categories on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://balticsecurityfoundation.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://balticsecurity.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monthly Reports</title>
-      <link>https://balticsecurityfoundation.github.io/categories/monthly-reports/</link>
+      <link>https://balticsecurity.github.io/site/categories/monthly-reports/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://balticsecurityfoundation.github.io/categories/monthly-reports/</guid>
+      <guid>https://balticsecurity.github.io/site/categories/monthly-reports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geopolitics</title>
-      <link>https://balticsecurityfoundation.github.io/categories/geopolitics/</link>
+      <link>https://balticsecurity.github.io/site/categories/geopolitics/</link>
       <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://balticsecurityfoundation.github.io/categories/geopolitics/</guid>
+      <guid>https://balticsecurity.github.io/site/categories/geopolitics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobility</title>
-      <link>https://balticsecurityfoundation.github.io/categories/mobility/</link>
+      <link>https://balticsecurity.github.io/site/categories/mobility/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://balticsecurityfoundation.github.io/categories/mobility/</guid>
+      <guid>https://balticsecurity.github.io/site/categories/mobility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maritime Policy</title>
-      <link>https://balticsecurityfoundation.github.io/categories/maritime-policy/</link>
+      <link>https://balticsecurity.github.io/site/categories/maritime-policy/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://balticsecurityfoundation.github.io/categories/maritime-policy/</guid>
+      <guid>https://balticsecurity.github.io/site/categories/maritime-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>https://balticsecurityfoundation.github.io/categories/conference/</link>
+      <link>https://balticsecurity.github.io/site/categories/conference/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://balticsecurityfoundation.github.io/categories/conference/</guid>
+      <guid>https://balticsecurity.github.io/site/categories/conference/</guid>
       <description></description>
     </item>
     

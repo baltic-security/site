@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germany on Baltic Security Foundation</title>
-    <link>https://balticsecurityfoundation.github.io/tags/germany/</link>
+    <link>https://balticsecurity.github.io/site/tags/germany/</link>
     <description>Recent content in Germany on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://balticsecurityfoundation.github.io/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://balticsecurity.github.io/site/tags/germany/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Regional Activities</title>
-      <link>https://balticsecurityfoundation.github.io/regional_activities/</link>
+      <link>https://balticsecurity.github.io/site/regional_activities/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://balticsecurityfoundation.github.io/regional_activities/</guid>
+      <guid>https://balticsecurity.github.io/site/regional_activities/</guid>
       <description>October 2019 has been busy for the Baltic Security Foundation, pursuing our goal of fostering and promoting Baltic defense and security.</description>
     </item>
     
