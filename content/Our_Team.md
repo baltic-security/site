@@ -18,6 +18,7 @@ Matthew Thomas, _**Editor**_ <br>
 <br>
 
 ## Biographies
+-----------
 #### Olevs Nikers, President
 
 <p align="justify">
@@ -40,6 +41,8 @@ Olevs holds a Master's degree in Political Science from University of Latvia (20
 He is a member of Latvian Association of Political Scientists and the Association for Advancement of Baltic Studies. 
 </p>
 
+-----------
+
 #### Otto Tabuns, Director
 
 <p align="justify">
@@ -57,6 +60,8 @@ Between 2017 and 2019, Otto was Executive Director of the Baltic Security Strate
 
 </p>
 
+-----------
+
 #### Matthew Thomas
 
 <p align="justify">
@@ -70,6 +75,8 @@ With Baltic Security Foundation, Mr. Thomas serves as an expert contributor and 
 
 </p>
 
+-----------
+
 #### Andreis Purim
 
 <p align="justify">
@@ -81,5 +88,18 @@ Andreis previously worked with Industrial Automation and Research and Developmen
 <br/><br/>
 Andreis was born in Curitiba, from one of the first Latvian families to arrive in Brazil, and has long worked to preserve his Latvian heritage. He is the Head of the Media Department of the Brazilian Association of Latvian Culture and worked extensively with the Latvian Consulate and the Latvian As-
 sociation of Latin America and the Caribbean.
+</p>
+
+-----------
+
+#### Jacob Myers
+
+<p align="justify">
+<img src="../images/team/jacob.jpg" alt="Jacob Myers" style="float:right;width:260px;" hspace="20"/>
+
+Mr. Jacob Myers is an international risk specialist, who since 2017, has focused on Baltic regional security. His research has focused on a wide variety of conventional and non-traditional risks in the Baltic region including energy security, foreign investment and transportation. He has previously served as a researcher and analyst in the defence and due diligence sector.
+<br/><br/>
+
+Jacob is a native of the United Kingdom and is now based in Washington, DC.  He has a MA in International Relations from the University of Manchester, and a BA from the University of Leeds.
 
 </p>
