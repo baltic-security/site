@@ -34,7 +34,7 @@ All this brings up yet another question: how far should countries go pursuing in
 
 Greater cooperation between Finland and Sweden on military affairs reflects a newfound seriousness about defense matters in Helsinki and Stockholm. These two are an integral part of military operations in the Baltic Sea theater, and as such, this news is welcome on NATO’s northeastern flank. An increase in the deterrent capacity of both countries changes the strategic calculus in the region. Even more so, NATO accession would radically alter the operational theater, and the possibility should be given thorough consideration. But this is not the end; maritime capabilities, structures, and strategies all need serious improvements throughout the region. Without these, all the interoperability in the world will not save them. Indeed, for all its benefits, allies and partners in the region need to find the right balance on interoperability. Governments throughout the region must be willing to keep improving, with both the aim to prevent war and be prepared for it should it come. Complacency kills. 
 
-**By [Matthew Thomas](../meet_the_team)**
+**By [Matthew Thomas](../our_team)**
 
 Cover image: FNS Uusimaa, ShipSpotting.com
 

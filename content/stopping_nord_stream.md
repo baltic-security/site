@@ -1,4 +1,4 @@
----
+﻿---
 title: "Why Stopping Nord Stream 2 Matters for the Baltics"
 date: 2019-10-10
 description: "Why Stopping Nord Stream 2 Matters for the Baltics"
@@ -10,7 +10,7 @@ tags:
   - "Nord Stream 2"
 ---
 
-<p align="justify">
+
 Nord Stream 2 is a Russian gas pipeline project running mostly parallel to the current Nord Stream
 pipeline from Vyborg to Greifswald, Germany. This second line would allow for additional gas flows
 directly from Russia to Western Europe up to a potential 110 billion cubic meters annually. At face value,
@@ -20,8 +20,7 @@ Russia contain security risks. For precisely this reason, Nord Stream 2 faces op
 European nations and the Baltic States, as well as from the United States. By cozying up to Russia for
 cheap gas, Germany is making a Faustian bargain that will not only endanger its allies to the east, but
 itself as well.
-</p>
-<p align="justify">
+
 Russia has long used energy supplies as a foreign policy tool. From the name of the Soviet-era Druzhba
 (“Friendship”) pipeline on up to Russia’s nearly annual cutting of Ukrainian gas supplies during the
 winter, it is clear that energy supply has been a key component of Moscow’s soft and hard power tactics
@@ -35,8 +34,7 @@ have begun preparations to exit the BRELL Agreement, and these positive steps sh
 for others to reduce their dependence on Russian energy. But, as Europe’s dependence on foreign energy
 supplies continues to grow, many other European nations lack the political will to follow the Baltics’
 lead, particularly those that do not share the threat perception evident in the east.
-</p>
-<p align="justify">
+
 Energy has likewise served as a point of contention historically between the United States and the
 European allies. When Egypt, Jordan, and Syria attacked Israel during the 1967 Six Day War, the United
 States called upon the Europeans to support the Israelis. The Europeans, however, were not so keen to
@@ -50,8 +48,7 @@ previously supported. Now, Schröder, who has long been cozy with Putin, is Chai
 Nord Stream AG. This inspired the term Schroederizatsiya (“Schröderization”), which refers to the
 corruption of another country’s political elite. Alongside “state capture,” and often a key component of it,
 Schröderization is an important part of Russia’s broader hybrid warfare strategy.
-</p>
-<p align="justify">
+
 Just as in 2003, Germany and France once again are leading the anti-American bloc among the
 Europeans. These two are also united with the Kremlin on promoting the Steinmeier Formula for peace in
 Donetsk and Luhansk. Should the Steinmeier Formula be adopted in Ukraine, France and Germany would
@@ -59,14 +56,10 @@ be responsible for legitimizing Russia’s actions not only in Ukraine, but in G
 well. With so little else in common with Russia, it is not difficult to ascertain that Germany and France
 have a vested interest in securing Russian energy supplies and are thus willing to side with the Kremlin
 against Ukraine, NATO allies along the Eastern Flank, and the United States.
-</p>
 
-<figure>
-  <img src="../images/masonary-post/stopping_nord_stream-1.jpg" alt="Gas transit in Europe">
-  <figcaption>Photo Credit: Radio Free Europe/Radio Liberty</figcaption>
-</figure>
+![Gas Transit in Europe](../images/masonary-post/stopping_nord_stream-1.jpg)
+_Photo Credit: Radio Free Europe/Radio Liberty_
 
-<p align="justify">
 What, then, does this all mean? Nord Stream 2, along with the southern Turk Stream route, will enable
 Russia to bypass old routes through Ukraine and Eastern Europe, ensuring a continuous stream of supply
 to Western European customers while at the same time denying that security to Eastern European nations
@@ -81,8 +74,7 @@ time since the Cold War. By cozying up to Russia on Nord Stream, however, German
 allies and increasing Russian influence at home. This dangerous policy alignment sets Germany down the
 path towards state capture and could do serious, lasting damage to NATO’s effectiveness as a defensive
 alliance.
-</p>
-<p align="justify">
+
 Unfortunately, what good news there was on stopping Nord Stream 2 took a decidedly negative turn this
 week. Along with U.S. sanctions on companies affiliated with Nord Stream, Denmark was holding up
 progress laying the pipeline through its territorial waters via its permitting process. The Danes have been
@@ -102,15 +94,11 @@ way of Bulgaria, where the energy sector is dominated by Gazprom and the politic
 more resembles that of Russia than when it first joined the European Union. Should Nord Stream 2
 prevail, Germany will betray its allies and weaken the defensive alliance, dividing Europe between East
 and West once more.
-</p>
 
-<figure>
-  <img src="../images/masonary-post/stopping_nord_stream-2.jpg" alt="missing">
-  <figcaption><i>A single section of the pipeline remains incomplete around the Danish island of Bornholm, but Denmark approved
-the permits to build the pipeline on Wednesday, October 30.</i>. Photo credit: neftegaz.ru</figcaption>
-</figure>
+![The Nord-stream pipeline](../images/masonary-post/stopping_nord_stream-2.jpg)
+_A single section of the pipeline remains incomplete around the Danish island of Bornholm, but Denmark approved
+the permits to build the pipeline on Wednesday, October 30._ Photo credit: neftegaz.ru<
 
-<p align="justify">
 For the Baltic States, Nord Stream 2 is not an immediate threat to their energy supplies. They have greatly
 reduced their dependence on Russia in the energy sector. Their primary concern regarding Russia’s ability
 to cut off their energy supplies is not the route those supplies take, but the insecurity of their
@@ -125,6 +113,5 @@ Germany an even weaker link in NATO than it already is. Many Western European na
 have such heightened threat perception with regard to Russia, and that have a greater affinity towards the
 German-led European Union over NATO, will be tempted to follow Germany’s lead. For Russia, a
 weakened NATO is an opportunity. For the Baltics, a weakened NATO is an existential threat.
-</p>
 
-**By [Matthew Thomas](../meet_the_team)**
+**By [Matthew Thomas](../our_team)**

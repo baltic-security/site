@@ -36,7 +36,7 @@ By connecting Central and Eastern Europe along a north-south axis, the Three Sea
 
 Cover Photo: Three Seas Initiative member states. Source: southfront.org
 
-**By [Matthew Thomas](../meet_the_team)**
+**By [Matthew Thomas](../our_team)**
 
 ----------
 _Sources:_

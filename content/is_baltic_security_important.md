@@ -1,4 +1,4 @@
----
+﻿---
 title: "Is Baltic Security Important for the U.S., NATO, and Europe? Absolutely!"
 date: 2019-08-25
 description: "An article about the importance of Baltic Security to US and Nato"
@@ -13,13 +13,12 @@ tags:
   - "US"
 ---
 
-<p align="justify">
+
 The three Baltic States are key members of the NATO defensive alliance. Since regaining independence after the illegal Soviet occupation, Latvia, Lithuania, and Estonia have all become deeply integrated into Western institutions, such as NATO and the EU. These small countries, understanding the potential peril
 of reoccupation by a resurgent Russia after the annexation of Crimea, have been extremely vocal in
 sounding the alarm that Russia remains a security threat. They understand that the West must get serious
 about security lest its more vulnerable members once more get trampled.
-</p>
-<p align="justify">
+
 Thirty years ago this month, the Baltic States sent Gorbachev a clear message by forming a
 massive, 2 million member human chain from Tallinn, Estonia all the way to Vilnius, Lithuania. This
 show of resolve, known as the Baltic Way, demonstrated that the Estonian, Latvian, and Lithuanian
@@ -28,8 +27,7 @@ scale, peaceful popular protest was a remarkable event within the broader miracl
 Europe, and has today inspired the people of Hong Kong to make their own “Hong Kong Way.” But, as
 we in the West celebrate the 30th anniversary of the Baltic Way, let us not forget the 80th anniversary of
 the Molotov-Ribbentrop Pact and the danger posed by ambitious neighbors.
-</p>
-<p align="justify">
+
 The Baltic States’ geographic situation is an unfortunate one. They are largely cut off by land
 from their NATO allies, their terrain has few natural barriers to an invading force, and the Russian Baltic
 Sea Fleet operates to the Baltic States’ north and south in St. Petersburg and Kaliningrad. The Suwałki
@@ -38,8 +36,7 @@ between the Baltic States and the rest of NATO. This tiny strip with two highway
 and Kaliningrad, meaning that Russia could easily seal it off, making a logistical nightmare for NATO to
 come to the Baltics’ aid. At sea, the Russian Navy is not particularly impressive, but is more than capable
 of harassing ships and conducting grey zone operations on infrastructure and the port and supply chains.
-</p>
-<p align="justify">
+
 This unfortunate geographic situation, combined with Russian military buildup in the Western Military
 District and Russia’s propensity to meddle in its neighbors’ affairs, makes Baltic Security of vital
 importance to NATO. As things currently stand, Russia prefers to stay below the threshold of
@@ -51,8 +48,7 @@ utilizing hybrid warfare against the spectrum of a state’s governmental and so
 economizes the use of force and is able to continuously adjust the intensity of conflict. It is important to
 remember that Russia views itself in conflict with NATO, even though the two are not locked in
 conventional war.
-</p>
-<p align="justify">
+
 As the situation stands now, Russia is probably unlikely to conduct conventional military
 operations against the Baltic States. Its economy cannot sustain this kind of war, and it is currently mired
 in other theaters. Nevertheless, Russia will absolutely continue its hybrid efforts against Baltic society and
@@ -67,8 +63,7 @@ credibility hangs. Likewise, the Baltic States must continue to make strides on 
 infrastructural security (including energy security), financial security, cyber-security, and
 defense/deterrence. The work being done in the region is good, and needs to continue in order to maintain
 freedom in the Baltics.
-</p>
-<p align="justify">
+
 From the “Year of Terror” in 1941 to re-independence in 1991, the Baltic States suffered under
 tyranny. For Estonia, Latvia, and Lithuania, national security is a matter of state survival. Freedom is
 vulnerable, and must be guarded with vigilance and enthusiasm. Russia must be taken seriously: all too
@@ -82,7 +77,6 @@ affinity – the U.S. seeks to defend liberty in the face of tyranny wherever it
 not only threatens security in Europe, but also threatens security in the U.S. After all, Russia seeks to
 undermine American political stability as well. In geopolitics, everything is interconnected, and the U.S.
 and Europe cannot afford to neglect any region, especially not the Baltics.
-</p>
 
 ![](../images/masonary-post/is_baltic_security_important-1.jpg)
 
@@ -91,5 +85,5 @@ Photo Credit: US Embassy, Latvia
 
 Cover Photo: NATO (nato.int)
 
-**By [Matthew Thomas](../meet_the_team/)**
+**By [Matthew Thomas](../our_team/)**
 
