@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cooperation on Baltic Security Foundation</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Cooperation on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/categories/cooperation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Three Seas Initiative</title>
+      <link>https://balticsecurity.eu/three_seas_initiative/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/three_seas_initiative/</guid>
+      <description>Last month, U.S. Secretary of State Mike Pompeo announced that the United States would commit up to $1 Billion in support for the Three Seas Initiative.</description>
+    </item>
     
     <item>
       <title>Interoperability at Sea</title>

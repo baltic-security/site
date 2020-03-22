@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baltic Security Foundation</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Three Seas Initiative</title>
+      <link>https://balticsecurity.eu/three_seas_initiative/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/three_seas_initiative/</guid>
+      <description>Last month, U.S. Secretary of State Mike Pompeo announced that the United States would commit up to $1 Billion in support for the Three Seas Initiative.</description>
+    </item>
     
     <item>
       <title>Interoperability at Sea</title>
@@ -35,7 +44,7 @@
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/baltic_fund/</guid>
-      <description>On November 28, 2019, Baltic Security Foundation team participated in the NATO Eastern Flank Security conference, hosted by Warsaw Institute.</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,7 +53,7 @@
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/baltic_sea_security_initiative/</guid>
-      <description>BSSI gathers Baltic Sea region experts to assess and recommend better solutions in the fields of defence, societal security, economic security and cybersecurity.</description>
+      <description></description>
     </item>
     
     <item>
@@ -53,7 +62,7 @@
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/young_leaders_mobility/</guid>
-      <description>October 2019: Texas A&amp;M University The Bush School of Government &amp; Public Service students led by Associate Professor Gabriela Thornton visited Latvia.</description>
+      <description></description>
     </item>
     
     <item>
@@ -62,7 +71,7 @@
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/november_activities/</guid>
-      <description>This month the Baltic Security Foundation team has been very active on both sides of the Atlantic Ocean, continuing existing projects and pursuing new areas of cooperation with likeminded experts and stakeholders.</description>
+      <description>By Otto Tabuns</description>
     </item>
     
     <item>
@@ -71,7 +80,8 @@
       <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/belarus_an_overlooked_key/</guid>
-      <description>Winston Churchill once famously quipped that “Russia is a riddle wrapped in a mystery inside an enigma”.</description>
+      <description>Cover Photo Credit: kremlin.ru
+By Matthew Thomas</description>
     </item>
     
     <item>
@@ -80,7 +90,7 @@
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/regional_activities/</guid>
-      <description>October 2019 has been busy for the Baltic Security Foundation, pursuing our goal of fostering and promoting Baltic defense and security.</description>
+      <description>By Otto Tabuns</description>
     </item>
     
     <item>
@@ -89,7 +99,7 @@
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/texas_atm_mobility_program/</guid>
-      <description>In October 2019, Baltic Security Foundation hosted Master of International Affairs students from Texas A&amp;M University’s Bush School of Government and Public Service for the Young Leaders Mobility Program in Rīga.</description>
+      <description></description>
     </item>
     
     <item>
@@ -98,7 +108,7 @@
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/stopping_nord_stream/</guid>
-      <description>Nord Stream 2 is a Russian gas pipeline project running mostly parallel to the current Nord Stream pipeline from Vyborg to Greifswald, Germany.</description>
+      <description>By Matthew Thomas</description>
     </item>
     
     <item>
@@ -107,7 +117,8 @@
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/improving_maritime_security/</guid>
-      <description>Maritime operations have once again been a major theme of recent headlines in Estonia, Latvia, and Lithuania.</description>
+      <description>By Matthew Thomas
+Cover Photo: BALTOPS 2019 / Benas Gerdžiūnas / LRT</description>
     </item>
     
     <item>
@@ -116,7 +127,7 @@
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/wroclaw_conference_2019/</guid>
-      <description>BSF President Mr. Olevs Nikers and BSF Director Mr. Otto Tabuns took part in the panel “Addressing Security Challenges in the Baltic Region through Multilateral Cooperation” of the European Consortium for Political Research (ECPR) 13th General Conference September 5, 2019 in Wrocław, Poland.</description>
+      <description></description>
     </item>
     
     <item>
@@ -125,7 +136,9 @@
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/is_baltic_security_important/</guid>
-      <description>The three Baltic States are key members of the NATO defensive alliance.</description>
+      <description>Photo Credit: US Embassy, Latvia
+Cover Photo: NATO (nato.int)
+By Matthew Thomas</description>
     </item>
     
     <item>
@@ -134,7 +147,7 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://balticsecurity.eu/our_team/</guid>
-      <description>Our Team Olevs Nikers, President Otto Tabuns, Director Andreis Purim, Representative in South America Bobby Brooks, U.</description>
+      <description>Our Team Olevs Nikers, President Otto Tabuns, Director Andreis Purim, Representative in South America Bobby Brooks, _U.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Baltic Security Foundation</title>
@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Baltic</title>
+      <link>https://balticsecurity.eu/tags/baltic/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tags/baltic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naval</title>
+      <link>https://balticsecurity.eu/tags/naval/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tags/naval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US</title>
+      <link>https://balticsecurity.eu/tags/us/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tags/us/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Finland</title>
@@ -17,15 +44,6 @@
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/tags/finland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Naval</title>
-      <link>https://balticsecurity.eu/tags/naval/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/tags/naval/</guid>
       <description></description>
     </item>
     
@@ -62,15 +80,6 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/tags/poland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>US</title>
-      <link>https://balticsecurity.eu/tags/us/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/tags/us/</guid>
       <description></description>
     </item>
     

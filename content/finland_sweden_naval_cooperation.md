@@ -1,4 +1,4 @@
----
+﻿---
 title: "Interoperability at Sea"
 date: 2020-03-12
 description: "Last week, Finland and Sweden conducted naval cooperation exercises in the Baltic Sea."
