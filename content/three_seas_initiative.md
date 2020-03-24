@@ -34,7 +34,7 @@ The Three Seas Initiative consists of twelve members: Estonia, Latvia, Lithuania
 
 By connecting Central and Eastern Europe along a north-south axis, the Three Seas Initiative will enhance security and end a legacy of Soviet subjugation that still effects Europe today. It is a step in the right direction for ensuring stability, prosperity, and freedom for posterity. In short, it is a no-brainer for its member states and the U.S. alike. 
 
-Cover Photo: Three Seas Initiative member states. Source: southfront.org
+Cover Photo: Three Seas Initiative member states. Source: prezydent.pl
 
 **By [Matthew Thomas](../our_team)**
 
