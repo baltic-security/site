@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Baltic Security Foundation</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Geopolitics</title>
+      <link>https://balticsecurity.eu/categories/geopolitics/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/categories/geopolitics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cooperation</title>
@@ -26,15 +35,6 @@
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/categories/monthly-reports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geopolitics</title>
-      <link>https://balticsecurity.eu/categories/geopolitics/</link>
-      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/categories/geopolitics/</guid>
       <description></description>
     </item>
     

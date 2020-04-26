@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baltic Security Foundation</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Javelin Deliveries and the Prospects of Tank Warfare in the Baltics</title>
+      <link>https://balticsecurity.eu/tank_warfare_baltics/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tank_warfare_baltics/</guid>
+      <description>At the beginning of this month, the U.S. delivered 128 javelin anti-tank missiles to Estonia, part of ongoing cooperation between the two countries.</description>
+    </item>
     
     <item>
       <title>The Three Seas Initiative</title>
@@ -143,7 +152,7 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://balticsecurity.eu/our_team/</guid>
-      <description>Our Team Olevs Nikers, President Otto Tabuns, Director Andreis Purim, Representative in South America Bobby Brooks, _U.</description>
+      <description>Our Team Olevs Nikers, President Otto Tabuns, Director Andreis Purim, Representative in South America Bobby Brooks, U.</description>
     </item>
     
   </channel>
