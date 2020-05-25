@@ -1,0 +1,40 @@
+﻿---
+title: "Interoperability at Sea"
+date: 2020-03-12
+description: "Last week, Finland and Sweden conducted naval cooperation exercises in the Baltic Sea."
+type: "post"
+image: "images/masonary-post/finland_sweden_naval_cooperation.jpg"
+categories: 
+  - "Cooperation"
+tags:
+  - "Finland"
+  - "Sweden"
+  - "Naval" 
+---
+
+Last week, Finland and Sweden conducted naval cooperation exercises in the Baltic Sea. Given that these two countries have a long tradition of close cooperation in military affairs, this seems fairly mundane. But these exercises were highly unusual, as Finland’s FNS Uusimaa took orders from Swedish naval command, and Sweden’s HMS Helsingborg received orders from Finland’s command center in Turku. This was the first time in the history of Finnish-Swedish naval cooperation that ships took orders from the opposite country’s command. While interoperability continues to be a buzzword throughout the Baltic Sea Region as countries prepare for scenarios of Russian aggression, switching commands remains uncommon, and indeed, questions about command structure abound. 
+
+What, then, is the added value for this exercise? Anders Åkermark, representing the Swedish Naval Operations department, was quoted by News Now Finland saying, “it increases the credibility of both countries’ naval forces if we can lead each other’s vessels when needed and exchange information about the maritime situation.” This also parallels the idea that has been floating around of joint Finnish-Swedish brigades. In each case, Finland and Sweden have determined that pooling their resources will make their defenses more credible, deterring Russian attack. 
+
+In all maritime issues in the Baltic Sea Region, small countries’ limitations in manpower and financial resources present a key weakness. Even Finland and Sweden face the manpower gap, underscoring why both countries would seek to increase operability even so far as being able to take orders from the opposite command. The two, though they have long had amicable relations with NATO, are growing ever closer to the alliance and increasing cooperation with it. In the political realm, Sweden and Finland both are seeing a shift in attitude toward NATO membership as well. If Finland and Sweden were to join NATO, this would both facilitate cooperation on military operations throughout the Baltic Sea Region and bring the two ever closer to their partners in Latvia, Lithuania, and Estonia. 
+
+![Sweden and NATO](../images/masonary-post/finland_sweden_naval_cooperation-1.jpg#center)
+_Sweden has increased cooperation with NATO in recent years._ Photo source: nato.int
+
+Indeed, British military expert Glen Grant has argued that NATO should push for Finland and Sweden to join, as it would then legally obligate Stockholm and Helsinki to join the fight in the event of war in the Baltics. Apart from NATO, he argues, the two can be more easily cowed by Russia to stay out. 
+
+Others may argue that NATO accession for Finland and Sweden would be escalatory and prompt Russia to go on the attack. Though Russia would be expected to protest against NATO aggression in such an event, the reality is that NATO is a defensive alliance, and Russia’s fears are both baseless and, frankly little more that political grandstanding. Certainly Russia could use the usual line about NATO aggression as an excuse to go on the offensive, and as a tool to spin the narrative of just who started what, but it will nevertheless be a lie. Besides, in nuclear deterrence, there is the concept of “escalate to de-escalate,” raising the stake to the point where an adversary is less likely to deem the punishment worth the reward. The same applies here; two more militaries under NATO command, and all the manpower and weapons systems that go with it, will likely make Russia see merit in avoiding conventional conflict. Though hybrid warfare would likely intensify, the Baltic Sea Region is already a hotbed for such activity, and this would certainly be preferable to outright war anyhow. 
+
+As alluded to earlier, one of the key problems of joint operations and interoperability is the need for combatants to know just what is going on at any given moment. They need to know not only what the adversary is doing, but what their partners are doing. In order to do this, information sharing and situational awareness are critical. Throughout the Baltic Sea Region, nations are deficient in intelligence, surveillance, and reconnaissance (ISR) capabilities in the maritime domain. Likewise, the Baltic and Nordic countries need more flexible command and control structures and improved common coordination mechanisms to ensure the security of critical sea lines of communication and supply. These, too, will augment ISR needs, facilitating smoother operations. In all this, there is an implicit need for greater structural thinking both in national governments and among allies and strategic partners. Part and parcel of that, is the need for a cohesive and coherent strategy at the regional level to enhance and facilitate cooperation. Without structure and clearly defined roles and objectives, even the best laid plans descend into disaster.
+
+![HMS Helsinborg](../images/masonary-post/finland_sweden_naval_cooperation-2.jpg#center)
+_Swedish naval vessel HSM Helsinborg, as seen from Finnish naval vessel Uusimaa_ / Credit: Finish Navy, acessed via News Now Finland_
+
+All this brings up yet another question: how far should countries go pursuing interoperability? You can, after all, have too much of a good thing. This question needs to be considered, especially with regard to added value. If Latvia purchases an inferior, outdated tank, Lithuania should not purchase the same tank just because the two could swap mechanics. Two broken down tanks are always worse than one operational one. But, if both countries can make joint procurements of a superior tank, this would both positively impact interoperability and operational effectiveness. As in all things, there is a balance, and this balance will always be different for small countries with limited manpower and financial resources than it is for say, the United States. Strategic, structural, and tactical thinking needs to be lucid and organized, and no facet should supersede another lest it fall to the wayside.
+
+Greater cooperation between Finland and Sweden on military affairs reflects a newfound seriousness about defense matters in Helsinki and Stockholm. These two are an integral part of military operations in the Baltic Sea theater, and as such, this news is welcome on NATO’s northeastern flank. An increase in the deterrent capacity of both countries changes the strategic calculus in the region. Even more so, NATO accession would radically alter the operational theater, and the possibility should be given thorough consideration. But this is not the end; maritime capabilities, structures, and strategies all need serious improvements throughout the region. Without these, all the interoperability in the world will not save them. Indeed, for all its benefits, allies and partners in the region need to find the right balance on interoperability. Governments throughout the region must be willing to keep improving, with both the aim to prevent war and be prepared for it should it come. Complacency kills. 
+
+**By [Matthew Thomas](../our_team)**
+
+Cover image: FNS Uusimaa, ShipSpotting.com
+

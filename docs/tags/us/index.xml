@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>US on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/tags/us/</link>
+    <description>Recent content in US on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://balticsecurity.eu/tags/us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Javelin Deliveries and the Prospects of Tank Warfare in the Baltics</title>
+      <link>https://balticsecurity.eu/tank_warfare_baltics/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tank_warfare_baltics/</guid>
+      <description>At the beginning of this month, the U.S. delivered 128 javelin anti-tank missiles to Estonia, part of ongoing cooperation between the two countries.</description>
+    </item>
+    
+    <item>
+      <title>The Three Seas Initiative</title>
+      <link>https://balticsecurity.eu/three_seas_initiative/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/three_seas_initiative/</guid>
+      <description>Last month, U.S. Secretary of State Mike Pompeo announced that the United States would commit up to $1 Billion in support for the Three Seas Initiative.</description>
+    </item>
+    
+    <item>
+      <title>Baltic Security Foundation Team Activities in November</title>
+      <link>https://balticsecurity.eu/november_activities/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/november_activities/</guid>
+      <description>This month the Baltic Security Foundation team has been very active on both sides of the Atlantic Ocean, continuing existing projects and pursuing new areas of cooperation with likeminded experts and stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Is Baltic Security Important for the U.S., NATO, and Europe? Absolutely!</title>
+      <link>https://balticsecurity.eu/is_baltic_security_important/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/is_baltic_security_important/</guid>
+      <description>The three Baltic States are key members of the NATO defensive alliance.</description>
+    </item>
+    
+  </channel>
+</rss>
