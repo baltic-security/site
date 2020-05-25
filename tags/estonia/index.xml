@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estonia on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/tags/estonia/</link>
+    <description>Recent content in Estonia on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://balticsecurity.eu/tags/estonia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Javelin Deliveries and the Prospects of Tank Warfare in the Baltics</title>
+      <link>https://balticsecurity.eu/tank_warfare_baltics/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tank_warfare_baltics/</guid>
+      <description>At the beginning of this month, the U.S. delivered 128 javelin anti-tank missiles to Estonia, part of ongoing cooperation between the two countries.</description>
+    </item>
+    
+  </channel>
+</rss>
