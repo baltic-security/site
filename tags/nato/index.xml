@@ -6,10 +6,19 @@
     <description>Recent content in NATO on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/tags/nato/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring Storm Exercises Demonstrate Ongoing Commitment to Deterrence, Readiness</title>
+      <link>https://balticsecurity.eu/spring_storm/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/spring_storm/</guid>
+      <description>Each year, Estonia hosts Spring Storm (Kevadtorm), bringing together forces from all across NATO to conduct field and live-fire exercises.</description>
+    </item>
     
     <item>
       <title>Is Baltic Security Important for the U.S., NATO, and Europe? Absolutely!</title>
@@ -18,15 +27,6 @@
       
       <guid>https://balticsecurity.eu/is_baltic_security_important/</guid>
       <description>The three Baltic States are key members of the NATO defensive alliance.</description>
-    </item>
-    
-    <item>
-      <title>Spring Storm Exercises Demonstrate Ongoing Commitment to Deterrence, Readiness</title>
-      <link>https://balticsecurity.eu/spring_storm/</link>
-      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/spring_storm/</guid>
-      <description></description>
     </item>
     
   </channel>

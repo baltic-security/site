@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Estonia</title>
       <link>https://balticsecurity.eu/tags/estonia/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/tags/estonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NATO</title>
+      <link>https://balticsecurity.eu/tags/nato/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tags/nato/</guid>
       <description></description>
     </item>
     
@@ -170,15 +179,6 @@
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/tags/important/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NATO</title>
-      <link>https://balticsecurity.eu/tags/nato/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/tags/nato/</guid>
       <description></description>
     </item>
     
