@@ -3,7 +3,7 @@ title: "Moving the Front Lines: Could Recent Moves in Europe Signal an Adjustmen
 date: 2020-07-31
 description: "In June the Trump administration announced its decision to pull 9,500 U.S. troops from Germany."
 type: "post"
-image: "images/Moving_Front_Lines1.jpg"
+image: "images/Moving_Front_Lines1.png"
 categories:
  - "NATO"
 tags:
@@ -19,7 +19,7 @@ Much ink has been spilled about how President Trump is angry with Germany’s fa
 
 During the Cold War, West Germany was NATO’s primary Eastern boundary (Greece and Turkey also bordered the Warsaw Pact, but these zones were not as militarized). It made sense for the allies to maintain a significant military frontline presence there, facing off the Warsaw Pact. Both sides focused considerable energy on plans and preparations for invasion scenarios centered on the Fulda Gap, today in the center of reunified Germany. Today, the United States’ military presence in western Germany is far from the front line. Russian strategy tells us that this makes a difference. 
 
-![Fulda Gap](../images/Moving_Front_Lines2.jpg)
+![Fulda Gap](../images/Moving_Front_Lines2.png)
 Fulda Gap Deployments ca. 1985 – Creative Commons illustration by W.B. Wilson. https://en.wikipedia.org/wiki/File:Cold_War_Germany.png
 
 Russia is often viewed one of two ways: as a paranoid defender, facing off the specter of Western invasion, or as an opportunist, seeking to make gains in power where it is able. In reality, Russia is both of these at once. Its deluded fears of the West drive its desire for a buffer zone it can control in Ukraine, Belarus, and Moldova, as well as its desire to prevent the spread of NATO to Ukraine and Georgia. Yet, in its conflicts in Moldova, Ukraine, and Georgia, there is a clear sense of opportunism. Russia attacked swiftly in times and locations where it calculated the West would not respond strongly. To this day, Moldova’s Transnistria barely registers on anyone’s foreign policy radar in the West. Russia attacked Georgia during a lame duck presidency in an election year while the U.S. was focused on Islamist terrorism. When Russia attacked Crimea, it knew the U.S. was not particularly interested in Europe, and indeed, the U.S. still naively believed a reset with Russia could be possible. For nearly six years, the United States and Europe have done little beyond economic sanctions to seriously punish Russia or help Ukraine. Indeed, France and Germany have poised themselves to give Russia what it wants out of the protracted conflict in the Donbass with the Steinmeier Formula. 
@@ -32,7 +32,7 @@ Taking Russia’s interestingly offensive deterrence strategy into perspective, 
 
 Many have suggested that a more forward posture could provoke a desperate Russia, resulting in the escalation of conflict. What we must understand, however, is that the conflict is already ongoing and is in a state of continuously fluctuating intensity. By deploying troops and equipment further east, the U.S. and NATO can simultaneously be prepared for a more rapid response to ensure no fait accompli can be achieved while signaling to Russia that the cost of aggression will be too high.
 
-![NATO Presence in Poland](../images/Moving_Front_Lines3.jpg)
+![NATO Presence in Poland](../images/Moving_Front_Lines3.png)
 Source: U.S. Embassy Poland https://pl.usembassy.gov/nato_us/
 
 Thus, moving troops from Germany to Poland makes strategic sense, regardless of outwardly stated objectives. It will be potentially costly, yes, but if the United States and NATO want to prevent a fait accompli in the Baltics, positioning troops and equipment in closer proximity to the Suwałki Gap (on the Polish-Lithuanian border) is crucial for the allies to come aid the Baltics quickly and prevent Russia from isolating them. The key to success in this, however, is a combination of clear strategic thinking at the upper levels and clear messaging to Russia. NATO should seek to put forth not necessarily the greatest number of troops, but the troops and equipment best suited for rapid response as a first wave into the Baltic theater, allowing for a second wave to follow from bases in Germany and beyond. Ideally, this should not involve any significant troop reduction in Europe as a whole; indeed, it may be better to increase the number of troops there. However, the numbers themselves ultimately matter less than the capabilities NATO possesses.
