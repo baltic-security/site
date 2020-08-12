@@ -20,7 +20,7 @@ The internal unrest in Belarus also worries international observers, as the coun
     
 Lukashenko infamously quipped that “the country is not ready for a female president”, but it appears he does not believe the country is ready for another president at all. The following months may radically change the region, so what can be expected for the future of Belarus?
 
-# The Lukashenko Ideology
+### The Lukashenko Ideology
 
 ![]({{site.baseurl}}/images/the_future_of_belarus2.jpg)
 President Alexander Lukashenko. Credits to Reuters.
@@ -45,7 +45,7 @@ But, by keeping the soviet structure of government to stabilize the economy came
 
 Today, Belarus not only has poor dynamism in the economy but also poor political pluralism. Lukashenko’s policies are often described as “stale and stable”, the country has improved very little since 1991, but by avoiding the economic and political chaos of Ukraine or poverty rates of the Baltics he gained the loyalty of the working class, older generations, and government officials. His decisions, however, sidelined the new, growing middle class.
 
-# Bela-Russia
+### Bela-Russia
 
 Lukashenko’s refusal to change comes at the cost of geopolitics. By prohibiting a dynamic, market-oriented market, the economy remains completely tied to Russia, which buys almost half of all Belarus’ exports. The country also is heavily dependent on Russian trade subsidizes, such as oil (for which it pays 80% of the international prices) and natural gas (for which it pays half the market price).
 
@@ -62,7 +62,7 @@ Lukashenko’s “neutrality” is threatened, as keeping good economic relation
 
 Belarus also regards Russia as its only alternative to the politically liberal European Union. For trade deals, the country would have to modernize its outdated political machinery and curtail its human rights abuses to fit European standards. Its southern neighbor, Ukraine, experimented more extensively with liberal and democratic ideals and tried closer ties to the EU, suffered the consequences in form of social upheaval and armed conflict.
 
-# The International Players
+### The International Players
 
 Until 1991, Belarus never had an independent state (excluding a brief moment after World War I). It sits on the frontier of the European Union, NATO, and Russia. Its location in the middle of the European Plain - a prime location for army movement - has made the region see countless wars in history.
 
@@ -83,7 +83,7 @@ In the past decade, the three international players tried to maintain the balanc
 
 This apprehension about the future of Belarus was brought to the forefront on July 29th, when 32 Russian Private Military Contractors were arrested in Minsk. Even if their true mission was not related to Belarus (a similar event happened in 2017), the incident has raised tensions between Belarus, Russia, and NATO. Incidents like this highlight how internal or international actions might make a domino effect in the country.
 
-# The Elections and the Opposition
+### The Elections and the Opposition
 
 ![]({{site.baseurl}}/images/the_future_of_belarus8.jpg)
 The opposition candidate, Svetlana Tikhanovskaya. Photograph: Sergei Grits/AP
@@ -107,7 +107,7 @@ In the past 26 years, the Belarusian economy has been safeguarded from instabili
 
 However, the economic stagnation and a disastrous coronavirus response showed how little the government can deliver. Lukashenko might further unnerve the population if the elections are proved to be rigged. The repression against the protest demonstrates that, so far, the Belarusian system cannot change. It remains to be seen if the majority of the population realizes protesting is not enough to change, and if an escalation of violence is the answer.
 
-# Future Scenario: Will it be like Ukraine?
+### Future Scenario: Will it be like Ukraine?
 
 ![the_future_of_belarus9.jpg]({{site.baseurl}}/images/the_future_of_belarus9.jpg)
 The Ukrainian Maidan that deposed president Yanukovych. By Jeff J Mitchell / Getty Images file
@@ -134,7 +134,7 @@ As said before, it is still too early to believe a Maidan would happen in Belaru
 
 This will fracture the opposition and will make Russian backlash and interference easier. Even if an opposition government takes place, there’s a considerable chance that in the 2024 elections a “Lukashenkean” figure will run, reminding people of “the good old days” - and win.
 
-# Future scenario: Will it be like Venezuela?
+### Future scenario: Will it be like Venezuela?
 
 The year is 202_. The protests in 2020 were short-lived and soon Belarus is quiet again, Lukashenko has used the last years in the same way he used his past 26 in power: stale but stable. He then announces his exit from the government, and in his place another government worker takes place.
 
@@ -148,7 +148,7 @@ Yet, in the long term, this scenario is still unstable. Lukashenko’s successor
 
 A variation of this scenario is if Lukashenko himself is still in power when the economic downturn and government power struggle. Lukashenko or not, the chaotic outcome is still the same. 
 
-# Conclusion
+### Conclusion
 
 Wishful thinking and personal biases can lead to very wrong conclusions. Predicting the future is an ungrateful duty - yet, in geopolitics, it must be done anyway. Lukashenko’s Belarus has many times before defied outsider spectators, who tried to predict his downfall and might continue to defy in the following years.
 
