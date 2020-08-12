@@ -34,7 +34,7 @@ He was elected in 1994 and is Belarus’ first and, to date, only president. Soo
 
 Compared to the Baltic States, which radically modernized their economies and joined the EU shortly after re-independence. The Baltics, however, experienced enormous growth in poverty, as soviet factories were closed and the population emigrated to other EU countries. Belarus lagged along with other post-Soviet economies. GPD, Economic Growth, and Quality of Life in Belarus resemble their final Soviet years.
 
-![](../images/the_future_of_belarus3.jpg)
+![](../images/the_future_of_belarus3.jpg#center)
 GDP per Capita (PPP) in post-soviet economies based on the _International Monetary Fund's World Economic Outlook (WEO) Database, October 2015 Edition,_ by Heycci.
 
 Under his rule, the Belarusians didn’t lose their jobs after independence. However, its slow, incomplete, transition to capitalism also kept industries under semi-government control, reducing poverty - which is estimated to be 0.8%, a figure smaller than any of its post-soviet friends. This slow but stable growth made Lukashenko a popular figure amongst workers and farmers.
