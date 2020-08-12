@@ -22,7 +22,7 @@ Lukashenko infamously quipped that “the country is not ready for a female pres
 
 ### The Lukashenko Ideology
 
-![]({{site.baseurl}}/images/the_future_of_belarus2.jpg)
+![](../images/the_future_of_belarus2.jpg)
 President Alexander Lukashenko. Credits to Reuters.
 
 Alexander Lukashenko, sometimes called by western observers as the “Last Dictator of Europe”, is a former kolkhoz (Soviet collective farm) director. He was elected Deputy Supreme Council of the Republic of Belarus in 1990, gaining a reputation as a young anti-corruption crusader. 
@@ -33,12 +33,12 @@ He was elected in 1994 and is Belarus’ first and, to date, only president. Soo
 
 Compared to the Baltic States, which radically modernized their economies and joined the EU shortly after re-independence. The Baltics, however, experienced enormous growth in poverty, as soviet factories were closed and the population emigrated to other EU countries. Belarus lagged along with other post-Soviet economies. GPD, Economic Growth, and Quality of Life in Belarus resemble their final Soviet years.
 
-![]({{site.baseurl}}/images/the_future_of_belarus3.jpg)
+![](../images/the_future_of_belarus3.jpg)
 GDP per Capita (PPP) in post-soviet economies based on the _International Monetary Fund's World Economic Outlook (WEO) Database, October 2015 Edition,_ by Heycci.
 
 Under his rule, the Belarusians didn’t lose their jobs after independence. However, its slow, incomplete, transition to capitalism also kept industries under semi-government control, reducing poverty - which is estimated to be 0.8%, a figure smaller than any of its post-soviet friends. This slow but stable growth made Lukashenko a popular figure amongst workers and farmers.
 
-![]({{site.baseurl}}/images/the_future_of_belarus4.jpg)
+![](../images/the_future_of_belarus4.jpg)
 Poverty rates in post-soviet economies. Credits to Marc Champion and Aliaksandr Kudrytski.
 
 But, by keeping the soviet structure of government to stabilize the economy came at the cost of liberty. The reduction of poverty meant it was necessary to tightly control the country, and therefore, it was necessary to suppress opposition and change. Suppressing opposition and change meant controlling the country, and the cycle continued.
@@ -53,7 +53,7 @@ Russia controls such soft power over Belarus that it could create a crisis by st
 
 Belarus kept itself in Russia’s sphere of influence as a way to appease this giant power, going so far as proclaiming the “Union State of Russia and Belarus”, one of the many post-soviet webs of trade and foreign relations. Like Soviet control of Finnish foreign policy in the cold war (described as “Finlandization”),  Lukashenko complied in some things and pushed back on others, trying to maintain his balance in this tightrope.
 
-![]({{site.baseurl}}/images/the_future_of_belarus5.jpg)
+![](../images/the_future_of_belarus5.jpg)
 Relations of the supranational organizations in the post-soviet shere, by Aris Katsaris
 
 Lukashenko’s good economic relations with Russia kept the country from avoiding the Russian sanctions, political interference, and territorial dismemberment that befell countries like Ukraine and Georgia. But as a result of the Russian economic downturn that began in 2014, planned tax changes will make the country pay full price for Russian commodities by 2025.
@@ -74,7 +74,7 @@ Internal bureaucracy and lack of political will make it unlikely that the EU wil
 
 **NATO:** NATO sees Belarus as a pivotal player in the region. Its central location between means Belarus can seal off the Baltic States from Europe, threaten Poland, and control northern Ukraine. Whoever controls Belarus controls whether that country is a strategic asset or a strategic liability, and if the country falls into civil strife or armed conflict, NATO’s position in eastern Europe is compromised. A mass influx of migrants, border violence, and political shockwaves would destabilize the region.
 
-![]({{site.baseurl}}/images/the_future_of_belarus6.jpg)
+![](../images/the_future_of_belarus6.jpg)
 The military alliances of NATO and CSTO in Eastern Europe, by Stratfor.
 
 **Russia:** Russia under Putin pursues a path to restore its former geopolitical power and influence, lost after the fall of the Soviet Union. Russia fears being surrounded and isolated from Europe as NATO and the EU enlarge their spheres, taking post-soviet countries. Russia needs Belarus not only as a buffer zone but as an ally, since closing the Suwalki Gap (shown in the map above) works as a deterrence to NATO actions in the region. Russia’s soft power has since been strained by international sanctions applied in 2014 and this may force the Russian government to curtail Belarusian privileges and expect greater Belarusian cooperation.
@@ -85,7 +85,7 @@ This apprehension about the future of Belarus was brought to the forefront on Ju
 
 ### The Elections and the Opposition
 
-![]({{site.baseurl}}/images/the_future_of_belarus8.jpg)
+![](../images/the_future_of_belarus8.jpg)
 The opposition candidate, Svetlana Tikhanovskaya. Photograph: Sergei Grits/AP
 
 
@@ -109,10 +109,10 @@ However, the economic stagnation and a disastrous coronavirus response showed ho
 
 ### Future Scenario: Will it be like Ukraine?
 
-![the_future_of_belarus9.jpg]({{site.baseurl}}/images/the_future_of_belarus9.jpg)
+![the_future_of_belarus9.jpg](../images/the_future_of_belarus9.jpg)
 The Ukrainian Maidan that deposed president Yanukovych. By Jeff J Mitchell / Getty Images file
 
-Lukashenko is dealing with the protests, so far, in the same manner he always dealt with political opposition: police crackdowns. While he accused the opposition of fermenting a “Maidan'' (a reference to the violent clashes between protesters and the government in 2014 that toppled president Yanukovych in Ukraine), his KGB security forces have violently put down protesters. Lukashenko, despite wishing not to escalate the unrest, has no other way to deal with the protests.
+Lukashenko is dealing with the protests, so far, in the same manner he always dealt with political opposition: police crackdowns. While he accused the opposition of fermenting a ["Maidan"](https://www.themoscowtimes.com/2020/08/06/a-color-revolution-in-belarus-not-yet-a71065) (a reference to the violent clashes between protesters and the government in 2014 that toppled president Yanukovych in Ukraine), his KGB security forces have violently put down protesters. Lukashenko, despite wishing not to escalate the unrest, has no other way to deal with the protests.
 
 He also cannot let them take power in any form, since it would mean judicial investigations against him and his government. Not only is his position as president in peril, as is his freedom. His only solution in this case would be exile in Russia, however, Moscow would not be very content in taking the man who jeopardized their efforts in the region.
 
@@ -127,7 +127,7 @@ In Ukraine, while the opposition wanted to remove Yanukovych, they also rallied 
 
 **Linguistic and Ethnic differences:** The linguistic and ethnic “contrast” in Ukraine is also starkly different from Belarus. While Crimea and Eastern Ukraine formed two contiguous Russian-ethnic populations, Belarus is a mix of Belarusian and Russian regions. When Ukraine drifted apart from Russia in 2014, Russia launched operations to back ethnic Russian or Russian speaking separatists in those regions. There’s no easy way to divide Belarus between “Belarusian” or “Russian” areas. This makes small annexations like Crimea harder for Russia but surely makes a nation-wide takeover easier. 
 
-![the_future_of_belarus7.jpg]({{site.baseurl}}/images/the_future_of_belarus7.jpg)
+![the_future_of_belarus7.jpg](../images/the_future_of_belarus7.jpg)
 Ethnic Russians and Russian speaking citizens in Belarus and Ukraine, by RFE. 
 
 As said before, it is still too early to believe a Maidan would happen in Belarus. While neighbors, the same revolution in Ukraine and Belarus could have two very different outcomes. The 2020 protests may lead to major changes in Belarus, but the power struggle and restructuring of society will bring uncertain years of unemployment and economic downturn.
@@ -155,4 +155,7 @@ Wishful thinking and personal biases can lead to very wrong conclusions. Predict
 However, it is undeniable that in the long-term Belarus stands in a crossroads: its internal politics will be stressed by prolonged economic stagnation and the international dispute between NATO/EU and Russia for Eastern Europe.	The fate of Belarus is unknown, but the decisions taken in Minsk, either by protesters or the government, can bring great consequences to the region. 
 
 Lukashenko is the exemplary long-time strongman president, and if his government falls, what can be said about other countries like Russia, Uzbekistan, and Venezuela? On the other hand, if the protesters fail and Lukashenko outlives his crisis, then his government will be a model for others, and will raise doubts in other post-soviet countries that strayed away from the Soviet and Russian influence. The consequences are enormous.
+
+**By Andreis Purim**
+
 
