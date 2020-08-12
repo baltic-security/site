@@ -1,12 +1,7 @@
 ---
 title: The Future of Belarus?
-date: {}
-description: >-
-  The Belarusian elections occurred last Sunday, August 9th, and pitted
-  incumbent president Alexander Lukashenko against political outsider Svetlana
-  Tikhanovskaya. For what was supposed to be another easy campaign in
-  Lukashenko’s winning streak, the protests leading up, and following the
-  elections have sparked internal turmoil in Belarus.
+date: 2020-08-12
+description: "The Belarusian elections occurred last Sunday, August 9th, and pitted incumbent president Alexander Lukashenko against political outsider Svetlana Tikhanovskaya. For what was supposed to be another easy campaign in Lukashenko’s winning streak, the protests leading up, and following the elections have sparked internal turmoil in Belarus."
 type: post
 image: images/the_future_of_belarus1.jpg
 categories:
