@@ -74,7 +74,7 @@ Internal bureaucracy and lack of political will make it unlikely that the EU wil
 
 **NATO:** NATO sees Belarus as a pivotal player in the region. Its central location between means Belarus can seal off the Baltic States from Europe, threaten Poland, and control northern Ukraine. Whoever controls Belarus controls whether that country is a strategic asset or a strategic liability, and if the country falls into civil strife or armed conflict, NATO’s position in eastern Europe is compromised. A mass influx of migrants, border violence, and political shockwaves would destabilize the region.
 
-![](../images/the_future_of_belarus6.jpg)
+![](../images/the_future_of_belarus6.jpg#center)
 The military alliances of NATO and CSTO in Eastern Europe, by Stratfor.
 
 **Russia:** Russia under Putin pursues a path to restore its former geopolitical power and influence, lost after the fall of the Soviet Union. Russia fears being surrounded and isolated from Europe as NATO and the EU enlarge their spheres, taking post-soviet countries. Russia needs Belarus not only as a buffer zone but as an ally, since closing the Suwalki Gap (shown in the map above) works as a deterrence to NATO actions in the region. Russia’s soft power has since been strained by international sanctions applied in 2014 and this may force the Russian government to curtail Belarusian privileges and expect greater Belarusian cooperation.
@@ -157,5 +157,18 @@ However, it is undeniable that in the long-term Belarus stands in a crossroads: 
 Lukashenko is the exemplary long-time strongman president, and if his government falls, what can be said about other countries like Russia, Uzbekistan, and Venezuela? On the other hand, if the protesters fail and Lukashenko outlives his crisis, then his government will be a model for others, and will raise doubts in other post-soviet countries that strayed away from the Soviet and Russian influence. The consequences are enormous.
 
 **By Andreis Purim**
+
+--------------
+
+**Sources:**
+
+- Gennady Rudkevich (2020), ‘A Color Revolution in Belarus? Not Yet’, The Moscow Times
+- Mike Eckel (2020), ''A Win That Weakens': What Does Russia Want From Belarus's Election?', RFE/RL.
+- iSans (2020), '“Maidan” in Belarus: threats or a real scenario'.
+- Deutches Welle (2020), 'Belarus President Lukashenko slams Moscow 'lies' as row with Russia escalates'.
+- Richard Giragosian (2020), 'Belarus poll gives Putin a choice of nightmares', Asia Times.
+- Kevin Rothrock (2020), 'Moscow’s cozy vista Belarusian and Russian political experts explain the Kremlin’s options in Minsk ahead of an uncertain presidential election', Meduza.
+- Grigory Ioffe (2020), 'Belarus: Elections and Sovereignty', The Jamestown Foundation.
+- Marc Champion and Aliaksandr Kudrytski (2019), 'Europe’s Last Soviet Economy Approaches Its ‘Hour of Reckoning’', Bloomberg.
 
 
