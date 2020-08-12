@@ -85,6 +85,10 @@ This apprehension about the future of Belarus was brought to the forefront on Ju
 
 # The Elections and the Opposition
 
+![]({{site.baseurl}}/images/the_future_of_belarus8.jpg)
+The opposition candidate, Svetlana Tikhanovskaya. Photograph: Sergei Grits/AP
+
+
 The official results show the winner as Lukashenko, with 80% of the vote. Many doubts, however, were raised about the results, as Lukashenko himself admitted to changing the results in 2006.
 
 The true percentage of Lukashenko is unknown, since independent opinion polls - even online surveys - are prohibited. While he certainly has a strong base of support among the elites and the older workers, he never achieved great popularity among the middle class and younger voters. For the first time, those already born in the Lukashenko-era can vote.
@@ -105,6 +109,9 @@ However, the economic stagnation and a disastrous coronavirus response showed ho
 
 # Future Scenario: Will it be like Ukraine?
 
+![the_future_of_belarus9.jpg]({{site.baseurl}}/images/the_future_of_belarus9.jpg)
+The Ukrainian Maidan that deposed president Yanukovych. By Jeff J Mitchell / Getty Images file
+
 Lukashenko is dealing with the protests, so far, in the same manner he always dealt with political opposition: police crackdowns. While he accused the opposition of fermenting a “Maidan'' (a reference to the violent clashes between protesters and the government in 2014 that toppled president Yanukovych in Ukraine), his KGB security forces have violently put down protesters. Lukashenko, despite wishing not to escalate the unrest, has no other way to deal with the protests.
 
 He also cannot let them take power in any form, since it would mean judicial investigations against him and his government. Not only is his position as president in peril, as is his freedom. His only solution in this case would be exile in Russia, however, Moscow would not be very content in taking the man who jeopardized their efforts in the region.
@@ -120,10 +127,32 @@ In Ukraine, while the opposition wanted to remove Yanukovych, they also rallied 
 
 **Linguistic and Ethnic differences:** The linguistic and ethnic “contrast” in Ukraine is also starkly different from Belarus. While Crimea and Eastern Ukraine formed two contiguous Russian-ethnic populations, Belarus is a mix of Belarusian and Russian regions. When Ukraine drifted apart from Russia in 2014, Russia launched operations to back ethnic Russian or Russian speaking separatists in those regions. There’s no easy way to divide Belarus between “Belarusian” or “Russian” areas. This makes small annexations like Crimea harder for Russia but surely makes a nation-wide takeover easier. 
 
-
+![the_future_of_belarus7.jpg]({{site.baseurl}}/images/the_future_of_belarus7.jpg)
+Ethnic Russians and Russian speaking citizens in Belarus and Ukraine, by RFE. 
 
 As said before, it is still too early to believe a Maidan would happen in Belarus. While neighbors, the same revolution in Ukraine and Belarus could have two very different outcomes. The 2020 protests may lead to major changes in Belarus, but the power struggle and restructuring of society will bring uncertain years of unemployment and economic downturn.
 
 This will fracture the opposition and will make Russian backlash and interference easier. Even if an opposition government takes place, there’s a considerable chance that in the 2024 elections a “Lukashenkean” figure will run, reminding people of “the good old days” - and win.
 
+# Future scenario: Will it be like Venezuela?
+
+The year is 202_. The protests in 2020 were short-lived and soon Belarus is quiet again, Lukashenko has used the last years in the same way he used his past 26 in power: stale but stable. He then announces his exit from the government, and in his place another government worker takes place.
+
+This is a very likely scenario because of the governmental control over life and his power against the opposition parties. However, Lukashenko cannot hold his power much longer due to the economic recession and the rise of oil and gas prices. He does not have the ideological power to make his ruling elites and government officials loyal.
+
+His successor will work as a scapegoat. The rising cost of energy would make industries lay off workers. The economic stagnation would then turn into recession as poverty rates rise and pensions are lowered. The economic downturn leftover by Lukashenko will turn his successor into a Maduro-like figure, and Lukashenko will be remembered as a prosperous president.
+
+For Russia, with or without Lukashenko, this outcome is still positive, since it would rather have a chaotic Belarus as a buffer state than see it drift into a western sphere of influence. Russia could even try to reduce pressure in unification and extend economic help if it kept reformers from rising in neighboring countries.
+
+Yet, in the long term, this scenario is still unstable. Lukashenko’s successor would struggle to keep the same elites and government officials in check. If another wave of civil unrest begins, a power struggle inside the government would ensue. Medium-level government officials would try to pursue a union with Russia if it meant keeping their jobs and privileges, but this would also mean high-level government officials would lose their jobs.
+
+A variation of this scenario is if Lukashenko himself is still in power when the economic downturn and government power struggle. Lukashenko or not, the chaotic outcome is still the same. 
+
+# Conclusion
+
+Wishful thinking and personal biases can lead to very wrong conclusions. Predicting the future is an ungrateful duty - yet, in geopolitics, it must be done anyway. Lukashenko’s Belarus has many times before defied outsider spectators, who tried to predict his downfall and might continue to defy in the following years.
+
+However, it is undeniable that in the long-term Belarus stands in a crossroads: its internal politics will be stressed by prolonged economic stagnation and the international dispute between NATO/EU and Russia for Eastern Europe.	The fate of Belarus is unknown, but the decisions taken in Minsk, either by protesters or the government, can bring great consequences to the region. 
+
+Lukashenko is the exemplary long-time strongman president, and if his government falls, what can be said about other countries like Russia, Uzbekistan, and Venezuela? On the other hand, if the protesters fail and Lukashenko outlives his crisis, then his government will be a model for others, and will raise doubts in other post-soviet countries that strayed away from the Soviet and Russian influence. The consequences are enormous.
 
