@@ -38,6 +38,9 @@ GDP per Capita (PPP) in post-soviet economies based on the _International Moneta
 
 Under his rule, the Belarusians didn’t lose their jobs after independence. However, its slow, incomplete, transition to capitalism also kept industries under semi-government control, reducing poverty - which is estimated to be 0.8%, a figure smaller than any of its post-soviet friends. This slow but stable growth made Lukashenko a popular figure amongst workers and farmers.
 
+![]({{site.baseurl}}/images/the_future_of_belarus4.jpg)
+Poverty rates in post-soviet economies. Credits to Marc Champion and Aliaksandr Kudrytski.
+
 But, by keeping the soviet structure of government to stabilize the economy came at the cost of liberty. The reduction of poverty meant it was necessary to tightly control the country, and therefore, it was necessary to suppress opposition and change. Suppressing opposition and change meant controlling the country, and the cycle continued.
 
 Today, Belarus not only has poor dynamism in the economy but also poor political pluralism. Lukashenko’s policies are often described as “stale and stable”, the country has improved very little since 1991, but by avoiding the economic and political chaos of Ukraine or poverty rates of the Baltics he gained the loyalty of the working class, older generations, and government officials. His decisions, however, sidelined the new, growing middle class.
@@ -50,7 +53,77 @@ Russia controls such soft power over Belarus that it could create a crisis by st
 
 Belarus kept itself in Russia’s sphere of influence as a way to appease this giant power, going so far as proclaiming the “Union State of Russia and Belarus”, one of the many post-soviet webs of trade and foreign relations. Like Soviet control of Finnish foreign policy in the cold war (described as “Finlandization”),  Lukashenko complied in some things and pushed back on others, trying to maintain his balance in this tightrope.
 
-![]({{site.baseurl}}/images/the_future_of_belarus4.jpg)
+![]({{site.baseurl}}/images/the_future_of_belarus5.jpg)
 Relations of the supranational organizations in the post-soviet shere, by Aris Katsaris
+
+Lukashenko’s good economic relations with Russia kept the country from avoiding the Russian sanctions, political interference, and territorial dismemberment that befell countries like Ukraine and Georgia. But as a result of the Russian economic downturn that began in 2014, planned tax changes will make the country pay full price for Russian commodities by 2025.
+
+Lukashenko’s “neutrality” is threatened, as keeping good economic relations with Russia means exchanging national sovereignty. Russia has since 2019 pushed for closer integration, control over foreign policy, and even demanded the opening Russian military bases in Belarus. Lukashenko cannot refuse the Kremlin’s offer without bringing the same punishments brought upon Ukraine or Georgia.
+
+Belarus also regards Russia as its only alternative to the politically liberal European Union. For trade deals, the country would have to modernize its outdated political machinery and curtail its human rights abuses to fit European standards. Its southern neighbor, Ukraine, experimented more extensively with liberal and democratic ideals and tried closer ties to the EU, suffered the consequences in form of social upheaval and armed conflict.
+
+# The International Players
+
+Until 1991, Belarus never had an independent state (excluding a brief moment after World War I). It sits on the frontier of the European Union, NATO, and Russia. Its location in the middle of the European Plain - a prime location for army movement - has made the region see countless wars in history.
+
+It is unfair to compare Russia (a country) with the EU (an economic block) and NATO (a military alliance), but the past decade has demonstrated that the balance between the “western” sphere of influence and Russia can cause armed conflicts, such as Georgia in 2008 (NATO influence vs. Russia backed separatists) and Ukraine in 2014 (EU influence vs. Russia backed separatists). As it stands today, the three international players have the following objectives in Belarus:
+
+**The European Union:** although the European Union appears to have the same goals as NATO, it does not. By referring to the “European Union,” this article is referring to social and cultural ideas – mainly supported by France and Germany – of liberalism and reduced political oppression. The European influence comes in the form of economic trade deals and international rulings.
+
+Internal bureaucracy and lack of political will make it unlikely that the EU will support Belarus in any significant form. For France and Germany, should Belarus ever fall to armed conflict, Poland still acts as a buffer zone. At most, the leading EU countries would apply sanctions on Russia, as it did in when it invaded Ukraine, but no more can be expected.
+
+**NATO:** NATO sees Belarus as a pivotal player in the region. Its central location between means Belarus can seal off the Baltic States from Europe, threaten Poland, and control northern Ukraine. Whoever controls Belarus controls whether that country is a strategic asset or a strategic liability, and if the country falls into civil strife or armed conflict, NATO’s position in eastern Europe is compromised. A mass influx of migrants, border violence, and political shockwaves would destabilize the region.
+
+![]({{site.baseurl}}/images/the_future_of_belarus6.jpg)
+The military alliances of NATO and CSTO in Eastern Europe, by Stratfor.
+
+**Russia:** Russia under Putin pursues a path to restore its former geopolitical power and influence, lost after the fall of the Soviet Union. Russia fears being surrounded and isolated from Europe as NATO and the EU enlarge their spheres, taking post-soviet countries. Russia needs Belarus not only as a buffer zone but as an ally, since closing the Suwalki Gap (shown in the map above) works as a deterrence to NATO actions in the region. Russia’s soft power has since been strained by international sanctions applied in 2014 and this may force the Russian government to curtail Belarusian privileges and expect greater Belarusian cooperation.
+
+In the past decade, the three international players tried to maintain the balance of power in Belarus to avoid escalation. This Realpolitik worked well under Lukashenko’s neutrality but this tightrope is being threatened as the internal politics may soon change drastically.
+
+This apprehension about the future of Belarus was brought to the forefront on July 29th, when 32 Russian Private Military Contractors were arrested in Minsk. Even if their true mission was not related to Belarus (a similar event happened in 2017), the incident has raised tensions between Belarus, Russia, and NATO. Incidents like this highlight how internal or international actions might make a domino effect in the country.
+
+# The Elections and the Opposition
+
+The official results show the winner as Lukashenko, with 80% of the vote. Many doubts, however, were raised about the results, as Lukashenko himself admitted to changing the results in 2006.
+
+The true percentage of Lukashenko is unknown, since independent opinion polls - even online surveys - are prohibited. While he certainly has a strong base of support among the elites and the older workers, he never achieved great popularity among the middle class and younger voters. For the first time, those already born in the Lukashenko-era can vote.
+
+His opponent in this election was Svetlana Tikhanovskaya, a former English teacher and stay-at-home mother of 2 with no experience in politics. She made her presidential bid after her husband was arrested in May 2020, for political activism. Her “outsider stance” from traditional Belarusian politics and grassroots campaign made her prominent and attracted international attention.
+
+The opposition parties in Belarus exist in paper only, as leading figures and political activists have been arrested or fled the country. Svetlana was an exception since Lukashenko did not believe she could seriously challenge his reign, going as far as declaring that the country was not ready for a female president. Svetlana has since left the country and will probably not take further part in politics, but her impact is permanent.
+
+Lukashenko’s commentaries, the government’s declared sabotage of her campaign, and her charming naivité made Svetlana a symbolic figure to the people. But Svetlana’s rise also meant the many opposition factions had to revolve around a single idea: removing Lukashenko. The protests that followed the elections are a result of the same, single, idea. This means the opposition has no agreement in even the most basic policies if they ever come to power.
+
+It is possible to label the current political camps in Belarus: pro-western liberals, pro-Russian hardliners, soviet nostalgics, and the like. However, by clustering the rival political camps, we fail to see the fundamental internal working of a society like Belarus.
+
+Charles King, analyzing Andrei Almarik’s predictions on the fall of the Soviet Union, came to a wise conclusion: “A better way to think about political cleavages was to observe which portions of society are most threatened by change and which ones seek to hasten it—and then to imagine how states might manage the differences between the two. (...) Where is the breaking point? How long can a political system seek to remake itself before triggering one of two reactions—a devastating backlash from those most threatened by change or a realization by the change-makers that their goals can no longer be realized within the institutions and ideologies of the present order?”
+
+In the past 26 years, the Belarusian economy has been safeguarded from instability, the old methods of political repression are now too rusty to work and too inhuman to be ignored. Capitalism, as incomplete as it is in Belarus, has created a complex web of classes and ideas, forefronted by a young middle class. As long as Belarus had a minimal, but identifiable growth in quality of life, Belarusians could believe in the gradual change and reform.
+
+However, the economic stagnation and a disastrous coronavirus response showed how little the government can deliver. Lukashenko might further unnerve the population if the elections are proved to be rigged. The repression against the protest demonstrates that, so far, the Belarusian system cannot change. It remains to be seen if the majority of the population realizes protesting is not enough to change, and if an escalation of violence is the answer.
+
+# Future Scenario: Will it be like Ukraine?
+
+Lukashenko is dealing with the protests, so far, in the same manner he always dealt with political opposition: police crackdowns. While he accused the opposition of fermenting a “Maidan'' (a reference to the violent clashes between protesters and the government in 2014 that toppled president Yanukovych in Ukraine), his KGB security forces have violently put down protesters. Lukashenko, despite wishing not to escalate the unrest, has no other way to deal with the protests.
+
+He also cannot let them take power in any form, since it would mean judicial investigations against him and his government. Not only is his position as president in peril, as is his freedom. His only solution in this case would be exile in Russia, however, Moscow would not be very content in taking the man who jeopardized their efforts in the region.
+
+It is still too early to predict an escalation of nation-wide protests like in Ukraine, while there is enough incentive (a violent police force and a population in uproar, organized through social media), but the particularities that led to a Maidan in Ukraine are not the same in Belarus.
+
+The only way for a Ukraine-like Maidan to occur is if the factory workers and small farmers, mentioned before, decide to support the opposition, however, they still have a fresh memory of the chaos that followed Ukraine in 2014. These workers will probably choose the faithful stability of the past. Lukashenko also has a stronger base of support in the elites and government (especially the military) built over the past 26 years, with a better (and more controlled) economy - a privilege Yanukovych did not have. His KGB is bigger and more loyal than the Ukrainian Berkut.
+
+Even with the odds against it, if the protests in Minsk somehow grow bigger and topple Lukashenko, then the following months will be even more chaotic than 2014 due to two major factors:
+
+**The Opposition Factionalism:** As mentioned before, the current movement has the single goal of removing Lukashenko. If he is removed, the different factions will divide and struggle for power. This will become clear as “western” factions of the opposition will pursue closer ties with NATO and EU to protect Belarus, while “Russian” factions will try to maintain the ties with Russia without Lukashenko.
+In Ukraine, while the opposition wanted to remove Yanukovych, they also rallied behind the failed EU-Ukraine agreement, this led to more unified “pro-western” opposition. 
+
+**Linguistic and Ethnic differences:** The linguistic and ethnic “contrast” in Ukraine is also starkly different from Belarus. While Crimea and Eastern Ukraine formed two contiguous Russian-ethnic populations, Belarus is a mix of Belarusian and Russian regions. When Ukraine drifted apart from Russia in 2014, Russia launched operations to back ethnic Russian or Russian speaking separatists in those regions. There’s no easy way to divide Belarus between “Belarusian” or “Russian” areas. This makes small annexations like Crimea harder for Russia but surely makes a nation-wide takeover easier. 
+
+
+
+As said before, it is still too early to believe a Maidan would happen in Belarus. While neighbors, the same revolution in Ukraine and Belarus could have two very different outcomes. The 2020 protests may lead to major changes in Belarus, but the power struggle and restructuring of society will bring uncertain years of unemployment and economic downturn.
+
+This will fracture the opposition and will make Russian backlash and interference easier. Even if an opposition government takes place, there’s a considerable chance that in the 2024 elections a “Lukashenkean” figure will run, reminding people of “the good old days” - and win.
 
 
