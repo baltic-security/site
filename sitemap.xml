@@ -4,12 +4,42 @@
   
   <url>
     <loc>https://balticsecurity.eu/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/belarus/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://balticsecurity.eu/categories/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/categories/geopolitics/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/nato/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/russia/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/the_future_of_belarus/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,18 +58,8 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/tags/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/tags/transatlantic-relations/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/categories/geopolitics/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,22 +78,12 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/tags/russia/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/categories/cooperation/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://balticsecurity.eu/tags/estonia/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/nato/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,11 +130,6 @@
   <url>
     <loc>https://balticsecurity.eu/tags/sweden/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/belarus/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -295,10 +300,6 @@
   <url>
     <loc>https://balticsecurity.eu/support/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/the_future_of_belarus/</loc>
   </url>
   
 </urlset>
