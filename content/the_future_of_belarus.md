@@ -53,7 +53,7 @@ Russia controls such soft power over Belarus that it could create a crisis by st
 
 Belarus kept itself in Russia’s sphere of influence as a way to appease this giant power, going so far as proclaiming the “Union State of Russia and Belarus”, one of the many post-soviet webs of trade and foreign relations. Like Soviet control of Finnish foreign policy in the cold war (described as “Finlandization”),  Lukashenko complied in some things and pushed back on others, trying to maintain his balance in this tightrope.
 
-![](../images/the_future_of_belarus5.jpg)
+![](../images/the_future_of_belarus5.jpg#center)
 Relations of the supranational organizations in the post-soviet shere, by Aris Katsaris
 
 Lukashenko’s good economic relations with Russia kept the country from avoiding the Russian sanctions, political interference, and territorial dismemberment that befell countries like Ukraine and Georgia. But as a result of the Russian economic downturn that began in 2014, planned tax changes will make the country pay full price for Russian commodities by 2025.
@@ -74,8 +74,7 @@ Internal bureaucracy and lack of political will make it unlikely that the EU wil
 
 **NATO:** NATO sees Belarus as a pivotal player in the region. Its central location between means Belarus can seal off the Baltic States from Europe, threaten Poland, and control northern Ukraine. Whoever controls Belarus controls whether that country is a strategic asset or a strategic liability, and if the country falls into civil strife or armed conflict, NATO’s position in eastern Europe is compromised. A mass influx of migrants, border violence, and political shockwaves would destabilize the region.
 
-![](../images/the_future_of_belarus6.jpg#center)
-
+![](../images/the_future_of_belarus6.jpg)
 The military alliances of NATO and CSTO in Eastern Europe, by Stratfor.
 
 **Russia:** Russia under Putin pursues a path to restore its former geopolitical power and influence, lost after the fall of the Soviet Union. Russia fears being surrounded and isolated from Europe as NATO and the EU enlarge their spheres, taking post-soviet countries. Russia needs Belarus not only as a buffer zone but as an ally, since closing the Suwalki Gap (shown in the map above) works as a deterrence to NATO actions in the region. Russia’s soft power has since been strained by international sanctions applied in 2014 and this may force the Russian government to curtail Belarusian privileges and expect greater Belarusian cooperation.
