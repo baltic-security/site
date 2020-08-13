@@ -32,7 +32,7 @@ Lukashenko contrasted sharply with his political opponents: he was a young, dedi
 
 He was elected in 1994 and is Belarus’ first and, to date, only president. Soon after taking power, he brought back much Soviet-era symbolism and institutional power. Lukashenko reverted the national flag to a variation of the soviet one, restored Russian as an official language, abolished local elections, and limited the right to buy or sell farmland. His constitutional reforms gave the president unparalleled political power, with a massive police apparatus - still called the KGB.
 
-Compared to the Baltic States, which radically modernized their economies and joined the EU shortly after re-independence. The Baltics, however, experienced enormous growth in poverty, as soviet factories were closed and the population emigrated to other EU countries. Belarus lagged along with other post-Soviet economies. GPD, Economic Growth, and Quality of Life in Belarus resemble their final Soviet years.
+The Baltic States, which radically modernized their economies and joined the EU shortly after re-independence, experienced enormous growth in poverty as soviet factories were closed and the population emigrated to other EU countries. Belarus, on the other hand, lagged along with other post-Soviet economies. GPD, Economic Growth, and Quality of Life in the country resemble their final Soviet years, but this has prevented economic and social inequality.
 
 ![](../images/the_future_of_belarus3.jpg#center)
 GDP per Capita (PPP) in post-soviet economies based on the _International Monetary Fund's World Economic Outlook (WEO) Database, October 2015 Edition,_ by Heycci.
