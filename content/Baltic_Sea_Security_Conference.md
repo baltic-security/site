@@ -1,7 +1,7 @@
 ---
 title: "Baltic Sea Security Conference"
 date: 2020-11-03
-description: "Baltic Sea Conference in Helsinki, 3 December 2020"
+description: "Baltic Sea Security Conference to deal with fragmented security approaches Baltic Sea Security Conference will take place on December 3 rd in Helsinki, Finland as well as online. The conference concludes the Baltic Sea Security Initiative, involving workshops, lectures and seminars on the regional aspects of military, societal, economic and cyber security. The initiative joined 150 participants, including Baltic experts from Europe, United States and Japan."
 type: "featured"
 image: "images/BalticSeaSecurityConferenceBG.png"
 ---
