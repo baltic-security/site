@@ -14,7 +14,7 @@ Andreis Purim, _**Representative in South America**_ <br>
 Bobby Brooks, _**U.S. Strategy and Outreach Consultant**_<br>
 Līga Lakuča, _**Project Manager (Europe)**_<br>
 Matthew Thomas, _**Editor**_ <br>
-Glen Grant<br>
+Glen Grant, _**Senior Expert**_ <br>
 
 ## Biographies
 -----------
