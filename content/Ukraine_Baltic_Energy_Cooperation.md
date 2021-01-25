@@ -3,7 +3,7 @@ title: "Ukraine-Baltic Energy Cooperation in the Context of Russian Hybrid Aggre
 date: 2021-01-21
 description: "We believe that cooperation between Ukraine on one side and Lithuania, Latvia and Estonia on the other can lay a strong foundation for a new energy security system in the Baltic-Black Sea region."
 type: "post"
-image: "images/Ukraine_energy_cooperation1.jpg"
+image: "images/Ukraine_energy_cooperation2.jpg"
 categories:
   - "Cooperation"
 tags: 
@@ -56,6 +56,6 @@ connecting the gas supply infrastructure between the Baltic States and Central a
 
 and ensuring the possibility of obtaining new partners to balance Russian influence and diversify hydrocarbons import sources; this cooperation might be established with the North Sea countries from the Baltics’ side, and relations with the Central Asian states can be strengthened to import hydrocarbons through Ukraine (primarily from Kazakhstan).
 
-Cover photo: a pressure gauge at an underground gas storage facility in Mryn, Ukraine. (REUTERS/Gleb Garanich) [Credit](https://www.atlanticcouncil.org/blogs/ukrainealert/how-to-improve-eu-ukraine-energy-cooperation-in-2021/)
+Cover photo: Ukrainian gas transmission infrastructure [Credit](https://www.ukrinform.net/rubric-economy/3045361-tso-of-ukraine-ukrenergo-to-cooperate-on-developing-ukrainian-energy-infrastructure.html)
 
 **By Iryna Zaporizka, Senior Fellow of the Ukrainian foreign policy think tank [ADASTRA](https://adastra.org.ua/)**
