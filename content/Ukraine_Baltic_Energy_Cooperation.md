@@ -12,6 +12,8 @@ tags:
   - "Energy Diplomacy"
 ---
 
+_This article provided by our Ukrainian partners, [Ad Astra](https://adastra.org.ua/)_
+
 Despite being different in so many aspects, Ukraine and the Baltic states have always had a lot of things in common, the main one being a troublesome neighbor on the eastern border that we all have to deal with.
 
 The dissolution of the Soviet Union opened a new era in Russian foreign policy towards the territories that are or were once perceived as a part of the sphere of influence of the former geopolitical empire. During the past 30 years the instruments of Russian foreign policy have transformed to better serve its regional interests. Although armed conflicts like those evolving as a result of Russian aggression in Georgia in 2008 and Ukraine in 2014 can still be found almost in every post-Soviet republic, Russian policy has in general become more complex and now includes specific elements like economic control and soft power influence. One of such instruments is Moscow’s energy diplomacy.
