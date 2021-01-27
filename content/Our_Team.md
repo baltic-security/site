@@ -15,7 +15,7 @@ Bobby Brooks, _**U.S. Strategy and Outreach Consultant**_<br>
 Līga Lakuča, _**Project Manager (Europe)**_<br>
 Matthew Thomas, _**Editor**_ <br>
 Glen Grant, _**Senior Expert**_ <br>
-Sofiia Garmash, _**
+Sofiia Garmash, _**Assistant Country Manager: Ukraine**_
 
 ## Biographies
 -----------
