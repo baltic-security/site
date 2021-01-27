@@ -105,7 +105,7 @@ Mr. Glen Grant worked as a defence and reform expert in Ukraine working for the 
 #### Sofiia Garmash
 
 <p align="justify">
-<img src="../images/  
+<img src="../images/Sofiia Garmash.jpg" alt="Sofiia Garmash" style="float:right;width:260px;" hspace="20"/>  
 
 Ms. Sofiia Garmash currently is studying at the Riga Business School. From 2018 she interned at PSI CRO, Jones Lang LaSalle, TRK Engineerintg and Vivid Tech which involved a curial experience of teamwork and set-up of international standards.
 
