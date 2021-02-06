@@ -1,15 +1,15 @@
 ---
-title: "Ukraine-Baltic Energy Cooperation in the Context of Russian Hybrid Aggression"
+title: Ukraine-Baltic Energy Cooperation in the Context of Russian Hybrid Aggression
 date: 2021-01-21
-description: "We believe that cooperation between Ukraine on one side and Lithuania, Latvia and Estonia on the other can lay a strong foundation for a new energy security system in the Baltic-Black Sea region."
-type: "post"
-image: "images/Ukraine_energy_cooperation2.jpg"
+description: We believe that cooperation between Ukraine on one side and Lithuania, Latvia and Estonia on the other can lay a strong foundation for a new energy security system in the Baltic-Black Sea region.
+type: post
+image: images/Ukraine_energy_cooperation2.jpg
 categories:
-  - "Cooperation"
+  - Cooperation
 tags: 
-  - "Ukraine-Baltic Relations"
-  - "Energy Security"
-  - "Energy Diplomacy"
+  - Ukraine-Baltic Relations
+  - Energy Security
+  - Energy Diplomacy
 ---
 
 _This article provided by our Ukrainian partners, [Ad Astra](https://adastra.org.ua/)_
