@@ -95,7 +95,7 @@ sociation of Latin America and the Caribbean.
 #### Glen Grant
 
 <p align="justify">
-<img src="../images/Glen.jpg" alt="Glen Grant" style="float:right;width:260px;" hspace="20"/>
+<img src="../images/team/Glen.jpg" alt="Glen Grant" style="float:right;width:260px;" hspace="20"/>
 
 Mr. Glen Grant worked as a defence and reform expert in Ukraine working for the Ukrainian Institute for the Future. He is also a Senior Fellow in the UK Institute for Statecraft on their Building Integrity Initiative countering Russian influence. Glen graduated from the Royal Military Academy Sandhurst, the Junior Staff Course Warminster and the Joint Staff Defence College at the Royal Naval College Greenwich. His key work in the last twenty years has been delivering reform and change for defence and security organisations in Europe. He has worked in the Defence Ministries of Ukraine, Latvia, Estonia, Bulgaria, Macedonia, Montenegro, Moldova, Poland, Albania, Kosovo, Slovenia, Serbia and Chile.  As a business consultant he has worked with telecoms, agriculture, publishing and manufacturing. During his 37 year military career Glen commanded the UK Military Prison and an Artillery battery of 8 tracked guns. He worked on the operational and policy staffs in many different British and NATO Headquarters and MOD UK. This work involved him supporting many operations including both Gulf wars, Bosnia and Kosovo. He was Defence Attaché in Finland, Estonia and Latvia. In 2016 Glen was Project Manager in MOD Ukraine running a one year UK funded project “Reform of Defence Housing” and in January 2018 published a groundbreaking paper on reform of the Ukraine military in Kiev Post. He is a skilled change manager with a Masters degree in the Leadership of Innovation and Change from York St John University in UK.  Glen lives in Latvia and is a faculty member of Riga Business School lecturing on the Bachelor of Business Administration course in Strategy, HRM, Crisis Management and Entrepreneurship.
 <br/><br/>
@@ -105,7 +105,7 @@ Mr. Glen Grant worked as a defence and reform expert in Ukraine working for the 
 #### Sofiia Garmash
 
 <p align="justify">
-<img src="../images/Sofiia Garmash.jpg" alt="Sofiia Garmash" style="float:right;width:260px;" hspace="20"/>  
+<img src="../images/team/Sofiia Garmash.jpg" alt="Sofiia Garmash" style="float:left;width:260px;" hspace="20"/>  
 
 Ms. Sofiia Garmash currently is studying at the Riga Business School. From 2018 she interned at PSI CRO, Jones Lang LaSalle, TRK Engineerintg and Vivid Tech which involved a curial experience of teamwork and set-up of international standards.
 
