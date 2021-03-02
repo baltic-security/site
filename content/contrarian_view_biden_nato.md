@@ -3,7 +3,7 @@ title: "A Contrarian View of Joe Biden and NATO"
 date: 2021-02-27
 description: "In the world of analysis, contrarian viewpoints are equally disliked and necessary."
 type: "post"
-image: images/Contrarian_View_Biden_NATO_1.jpg
+image: "images/Contrarian_View_Biden_NATO_1.jpg"
 categories:
   - "Opinion"
 tags:
