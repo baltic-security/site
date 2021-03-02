@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Opinion</title>
+      <link>https://balticsecurity.eu/categories/opinion/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/categories/opinion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cooperation</title>
