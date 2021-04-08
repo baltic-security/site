@@ -3,12 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://balticsecurity.eu/contrarian_view_biden_nato/</loc>
-    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+    <loc>https://balticsecurity.eu/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/</loc>
+    <loc>https://balticsecurity.eu/categories/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/categories/geopolitics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/germany/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/hybrid-warfare/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/nato/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/nord-stream-2/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/russia/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/perspectives_nord_stream2/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/contrarian_view_biden_nato/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,22 +63,7 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/categories/</loc>
-    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/nato/</loc>
-    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/categories/opinion/</loc>
-    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,16 +144,6 @@
   
   <url>
     <loc>https://balticsecurity.eu/tags/belarus/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/categories/geopolitics/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/russia/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,11 +298,6 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/tags/germany/</loc>
-    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/regional_activities/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
@@ -294,11 +309,6 @@
   
   <url>
     <loc>https://balticsecurity.eu/tags/mobility-program/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/nord-stream-2/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
