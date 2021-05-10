@@ -53,9 +53,13 @@ _What Has Putin Achieved?_
 Russia under Putin is an opportunistic actor. Moscow acts when it senses weakness. While the press tout the putative achievement of the drawdown of land forces, Russia’s other moves in the maritime and air domains are ignored, the assets that remain where land forces deployed are ignored, and the lessons from Moscow’s military logistics success are ignored. As Glen Grant, senior expert for Baltic Security Foundation, points out, [Moscow has successfully](https://www.facebook.com/glen.grant.908/posts/10165767361330112):
 
 •	Sealed off the Sea of Azov,
+
 •	Intimidated the U.S. into removing its naval assets from the region,
+
 •	Blackmailed the U.S. into holding a summit, something that has not occurred since about a year and a half into the Trump administration,
+
 •	Rehearsed en-masse military mobilization on the Russian rail system,
+
 •	And conducted dry runs for heavy-lift aircraft and parachute teams, amphibious assault forces, and artillery battalions
 
 Russia has done all this and more while applying yet more pressure on Ukraine - and on the West as to how to respond. Furthermore, assets [remain in place](https://jamestown.org/program/escalation-around-donbas-is-the-ukrainian-army-prepared-for-full-scale-russian-aggression/) near the Ukrainian border and on Crimea, and the naval forces [have not been drawn down](https://jamestown.org/program/declared-russian-troops-pull-out-did-the-kremlin-achieve-what-it-wanted/?fbclid=IwAR3pfA1KEJkEo5xVPaod5LadaXTQVxnC6vV9ZgETWgRfgX8tTTAoT4PbkDo) at all. 
