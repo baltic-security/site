@@ -60,7 +60,7 @@ Russia under Putin is an opportunistic actor. Moscow acts when it senses weaknes
 
 •	Rehearsed en-masse military mobilization on the Russian rail system,
 
-•	And conducted dry runs for heavy-lift aircraft and parachute teams, amphibious assault forces, and artillery battalions
+•	And conducted dry runs for heavy-lift aircraft and parachute teams, amphibious assault forces, and artillery battalions.
 
 Russia has done all this and more while applying yet more pressure on Ukraine - and on the West as to how to respond. Furthermore, assets [remain in place](https://jamestown.org/program/escalation-around-donbas-is-the-ukrainian-army-prepared-for-full-scale-russian-aggression/) near the Ukrainian border and on Crimea, and the naval forces [have not been drawn down](https://jamestown.org/program/declared-russian-troops-pull-out-did-the-kremlin-achieve-what-it-wanted/?fbclid=IwAR3pfA1KEJkEo5xVPaod5LadaXTQVxnC6vV9ZgETWgRfgX8tTTAoT4PbkDo) at all. 
 
