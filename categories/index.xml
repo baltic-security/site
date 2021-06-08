@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://balticsecurity.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Energy Security</title>
+      <link>https://balticsecurity.eu/categories/energy-security/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/categories/energy-security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Geopolitics</title>
