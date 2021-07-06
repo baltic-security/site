@@ -3,7 +3,7 @@ title: "NATO Summit 2021: Broad Goals, Few Specifics"
 date: 2021-06-30
 description: "On June 14, heads of state from all NATO members met in Brussels for the 2021 NATO summit."
 type: "post"
-image: "images/NATO_Summit_2021_1.jpg"
+image: "images/Brussels_Summit_2021_1.jpg"
 categories: 
   - "Cooperation"
 tags:
