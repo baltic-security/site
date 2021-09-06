@@ -15,4 +15,4 @@ tags:
 
 Baltic Security Foundation is proud to announce the publication of the Baltic Cyber Resilience Report. This report includes the assessment of cybersecurity issues in the three Baltic states, looking at the most important regional, bilateral and multilateral levels. This publication was made possible with the support of Microsoft NV and Mr. Uldis Šalajevs. 
 
-**To access the full report, click [here](docs/Baltic Cyber Resilience_Final (1).pdf)**
+**To access the full report, click [here]()**
