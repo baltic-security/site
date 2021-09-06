@@ -5,14 +5,14 @@ description: "The complex Baltic Sea Region lies at the top of the agenda for ma
 type: "post"
 image: "images/FRONT-COVER_Jamestown_Baltic-Sea-Security-Regional-and-Sectoral-Perspectives_-600x900.jpg"
 categories: 
-  - "Research"
-  - "Analysis"
   - "Regional Cooperation"
 tags:
   - "Jamestown Foundation"
   - "Baltic American Freedom Foundation"
   - "Latvian Political Science Association"
   - "Baltic Security Foundation"
+  - "Research"
+  - "Analysis"
 ---
 
 Baltic Security Foundation is proud to annouce the publication of the Baltic Sea Security Initiative Report in conjunction with the Jamestown Foundation (Washington, D.C.). The report is the product of cooperative research conducted between 2019-2020 with a number of regional security experts from throughout the Baltic Sea Region, providing both assessments and recommendations for policy makers in the fields of defense and deterrence, societal security, energy security, and more. Click the link below to access the full report. It is also available on the Publications tab of our website.
