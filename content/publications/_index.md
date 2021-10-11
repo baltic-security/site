@@ -6,6 +6,7 @@ description: "About the Baltic Security Foundation"
 
 Here you can find the publications of BSF and other selected individual publications by our team members.
 
+[Civic Resilience Initiative Disinformation Toolkit: 101 On How Not to be Fooled](https://drive.google.com/file/d/1E68wLVaUC6Qsb_B1_4z9yXYjdwiKYR4Y/view?usp=sharing) <br>
 [Baltic Cyber Resilience Report](https://drive.google.com/file/d/1votJ_us9lguC1mxZYvl1yh7O3Ll6fqzT/view?usp=sharing) <br>
 [Baltic Sea Security Initiative Report](https://jamestown.org/wp-content/uploads/2021/05/Baltic-Sea-Security_-Regional-and-Sectoral-Perspectives-web.pdf?x11483) <br>
 [Baltic Security Strategy Report](https://jamestown.org/wp-content/uploads/2019/09/Baltic-Security-Strategy-Report-2019.pdf?x46659) <br>
