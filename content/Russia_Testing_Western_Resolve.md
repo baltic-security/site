@@ -1,6 +1,6 @@
 ---
 title: "Russia Testing Western Resolve: How will the West Respond?"
-date: 2021-04-12
+date: 2021-12-04
 description: "From the Baltics, to Poland, to Ukraine, and even outer space, Russia has recently been testing Western resolve on numerous fronts."
 type: "post"
 image: "images/Russia_testing_western_resolve1.jpg"
