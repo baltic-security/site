@@ -3,7 +3,7 @@ title: "Major Russian Invasion of Ukraine Imminent"
 date: 2022-01-21
 description: "Russia will invade Ukraine. It is no longer a matter of if, but when."
 type: "post"
-image: "imgaes/Major_Russian_Invasion_Ukraine_Imminent1.jpg"
+image: "images/Major_Russian_Invasion_Ukraine_Imminent1.jpg"
 categories:
   - "Opinion"
 tags:
