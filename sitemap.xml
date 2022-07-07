@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://balticsecurity.eu/baltic_sea_security_conference_2022/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://balticsecurity.eu/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://balticsecurity.eu/categories/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/categories/conference/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/categories/mobility/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/transatlantic_security_exchange/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/categories/usa/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -55,6 +80,31 @@
   <url>
     <loc>https://balticsecurity.eu/tags/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/categories/cooperation/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/transatlantic-relations/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/book_exchange/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/us/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://balticsecurity.eu/tags/usa/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -208,11 +258,6 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/categories/cooperation/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/nato_summit_2021_broad_goals_few_specifics/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -284,11 +329,6 @@
   
   <url>
     <loc>https://balticsecurity.eu/tags/biden/</loc>
-    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/tags/transatlantic-relations/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,11 +458,6 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/tags/us/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/tags/naval/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
@@ -488,11 +523,6 @@
   </url>
   
   <url>
-    <loc>https://balticsecurity.eu/categories/mobility/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://balticsecurity.eu/tags/mobility-program/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -529,11 +559,6 @@
   
   <url>
     <loc>https://balticsecurity.eu/wroclaw_conference_2019/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balticsecurity.eu/categories/conference/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
