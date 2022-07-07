@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lithuania on Baltic Security Foundation</title>
@@ -6,10 +6,24 @@
     <description>Recent content in Lithuania on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/tags/lithuania/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lithuania-Kaliningrad Transit Row: A Broader EU and NATO Perspective</title>
+      <link>https://balticsecurity.eu/lithuania_kaliningrad/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/lithuania_kaliningrad/</guid>
+      <description>Through much of the end of June, Lithuania has been embroiled in a row with Russia over the implementation of EU sanctions on certain kinds of goods in transit between Russia and its Kaliningrad exclave.</description>
+    </item>
     
-	<atom:link href="https://balticsecurity.eu/tags/lithuania/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>The Belarusian Migrant Crisis in Broader Geopolitical Context</title>
+      <link>https://balticsecurity.eu/belarusian_migrant_crisis/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/belarusian_migrant_crisis/</guid>
+      <description>For about the last two months, Lithuania has been in the throes of a migration crisis like it has never seen before.</description>
+    </item>
     
     <item>
       <title>Defending the Suwałki Gap</title>

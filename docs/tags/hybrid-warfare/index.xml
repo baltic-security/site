@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybrid Warfare on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/tags/hybrid-warfare/</link>
+    <description>Recent content in Hybrid Warfare on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/tags/hybrid-warfare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baltic Cyber Resilience Report Published</title>
+      <link>https://balticsecurity.eu/baltic-cyber-resilience-report/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/baltic-cyber-resilience-report/</guid>
+      <description>Baltic Security Foundation is proud to announce the publication of the Baltic Cyber Resilience Report.</description>
+    </item>
+    
+    <item>
+      <title>U.S. Perspectives on Nord Stream 2</title>
+      <link>https://balticsecurity.eu/perspectives_nord_stream2/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/perspectives_nord_stream2/</guid>
+      <description>U.S. President Joe Biden has claimed that Nord Stream 2, the controversial Russo-German pipeline project, is a “bad deal for Europe” and has stated his administration’s opposition to the project.</description>
+    </item>
+    
+  </channel>
+</rss>

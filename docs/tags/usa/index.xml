@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USA on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/tags/usa/</link>
+    <description>Recent content in USA on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/tags/usa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>University Book Donation</title>
+      <link>https://balticsecurity.eu/book_exchange/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/book_exchange/</guid>
+      <description>The Baltic Security Foundation team shares their most recent books to universities around the world to promote the studies of regional security.</description>
+    </item>
+    
+  </channel>
+</rss>

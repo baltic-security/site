@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USA on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/categories/usa/</link>
+    <description>Recent content in USA on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/categories/usa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transatlantic Security Exchange</title>
+      <link>https://balticsecurity.eu/transatlantic_security_exchange/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/transatlantic_security_exchange/</guid>
+      <description>The Baltic Security Foundation has launched the Transatlantic Security Exchange. The program brings together experts and researchers from Europe and America to focus on further studies of Baltic security in regional and international context.</description>
+    </item>
+    
+  </channel>
+</rss>

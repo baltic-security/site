@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regional Security on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/categories/regional-security/</link>
+    <description>Recent content in Regional Security on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/categories/regional-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zapad 2021: Spotlight on Belarus</title>
+      <link>https://balticsecurity.eu/zapad_2021/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/zapad_2021/</guid>
+      <description>For international observers, military exercises are a key litmus test of a country’s strengths and weaknesses.</description>
+    </item>
+    
+  </channel>
+</rss>

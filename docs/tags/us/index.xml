@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>US on Baltic Security Foundation</title>
@@ -6,11 +6,7 @@
     <description>Recent content in US on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://balticsecurity.eu/tags/us/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/tags/us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javelin Deliveries and the Prospects of Tank Warfare in the Baltics</title>
       <link>https://balticsecurity.eu/tank_warfare_baltics/</link>
