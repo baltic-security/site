@@ -81,5 +81,5 @@ Didi Kirsten Tatlow, Journalist, Germany <br>
 Full posters:
 
 ![BSSC Poster](../images/BSSC_3.jpg)
-![BSSC Poster](../images/BSSC_2.jpg)
+![BSSC Poster](../images/BSSC_labojums3.jpg)
 
