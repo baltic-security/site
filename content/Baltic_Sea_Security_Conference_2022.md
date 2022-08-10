@@ -30,7 +30,7 @@ _OLEVS NIKERS, President of the Baltic Security Foundation_
 
 **10:30 – 11:00** Registration and coffee <br>
 **11:00 – 11:30** Opening <br>
-**11:30 – 12:00** Keynote <br>
+**11:30 – 12:00** Keynote, Glen Grant, Baltic Security Foundation <br>
 **12:00 – 13:00** Panel discussion on education domain <br>
 Moderator: Otto Tabuns, Baltic Security Foundation <br>
 Lukas Andriukaitis, Civic Resilience Initiative, Lithuania <br>
