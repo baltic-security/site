@@ -1,27 +1,60 @@
 {{ define "main" }}
 
+<section>
+  <div>
+    <div>
+      <div class="mb-5">
+        <article class="card bg-dark text-center text-white border-0 rounded-0">
+            <img class="card-img rounded-0 img-fluid w-100" src="https://balticsecurity.eu/images/BSSC_1.jpg" alt="post-thumb">
+            <div class="card-img-overlay">
+            <div class="card-content">
+              <a class="btn btn-outline-light" href="https://balticsecurity.eu/baltic_sea_security_conference_2022/">Conference Information</a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <div
+  class="bg-image hover-overlay ripple shadow-1-strong rounded"
+  data-mdb-ripple-color="light"
+>
+<img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="w-100" alt="Louvre" />
+  <img class="img-fluid mb-4" src="https://balticsecurity.eu/images/BSSC_1.jpg" alt="Conference">
+  <a href="https://balticsecurity.eu/baltic_sea_security_conference_2022/"> 
+    <div class="mask" style="background-color: rgba(251, 251, 251, 0.2)"></div>
+  </a>
+</div> -->
+
   {{ if .Site.Params.homeLayoutToggle }}
   <!-- featured post -->
   <section>
     <div class="container-fluid p-sm-0">
       <div class="row featured-post-slider">
         {{ range (where .Site.RegularPages "Type" "featured")}}
-        <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-          <article class="card bg-dark text-center text-white border-0 rounded-0">
-            {{ if .Params.Featured_image }}
-              <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Featured_image | absURL}}" alt="post-thumb">
-            {{ else if .Params.Image }}
-              <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
-            {{ end }}
-              <div class="card-img-overlay">
-              <div class="card-content">
-                <p class="text-uppercase">{{.Params.Categories}}</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-                <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+          {{ $conference := printf "Baltic Sea Security Conference 2022" }}
+          {{ if eq $conference .Title }}
+
+          {{ else }}
+          <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
+            <article class="card bg-dark text-center text-white border-0 rounded-0">
+              {{ if .Params.Featured_image }}
+                <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Featured_image | absURL}}" alt="post-thumb">
+              {{ else if .Params.Image }}
+                <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
+              {{ end }}
+                <div class="card-img-overlay">
+                <div class="card-content">
+                  <p class="text-uppercase">{{.Params.Categories}}</p>
+                  <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
+                  <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+                </div>
               </div>
-            </div>
-          </article>
-        </div>
+            </article>
+          </div>
+          {{ end }}
         {{ end }}
       </div>
     </div>
