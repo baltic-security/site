@@ -7,28 +7,22 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
-    - uses: actions/checkout@v1                  
+    - uses: actions/checkout@v3                  
       with:
         submodules: true
-
-    - name: Install Ruby Dev                     
-      run: sudo apt-get install ruby-dev
-
-    - name: Install AsciiDoctor and Rouge
-      run: sudo gem install asciidoctor rouge
-
+        
     - name: Setup Hugo                           
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.68.0'
+        hugo-version: '0.91.2'
 
     - name: Build                                
-      run: hugo
+      run: hugo --minify
 
     - name: Deploy                               
-      uses: peaceiris/actions-gh-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
       env:
         PERSONAL_TOKEN: ${{ secrets.TOKEN }}
         PUBLISH_BRANCH: gh-pages
