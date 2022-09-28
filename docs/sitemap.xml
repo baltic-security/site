@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://balticsecurity.eu/baltic_sea_security_conference_2022/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://balticsecurity.eu/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://balticsecurity.eu/categories/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://balticsecurity.eu/categories/china/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://balticsecurity.eu/transatlantic_response_to_china/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://balticsecurity.eu/baltic_sea_security_conference_2022/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://balticsecurity.eu/categories/conference/</loc>

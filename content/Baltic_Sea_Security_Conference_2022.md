@@ -2,7 +2,7 @@
 title: "Baltic Sea Security Conference 2022"
 date: 2022-07-07
 description: "The Euroatlantic states sharing the Baltic Sea have been subject to persistent security threats that have made them seek international solutions to maintain peace and stability. Challenges associated with Russia have been at the forefront for decades and are so today with its war against Ukraine. Meanwhile over the last decade the regional presence of China has increased - welcomed by many but analyzed by few. The security implications are beyond national and require a focus across NATO to find the best response."
-type: "featured"
+type: "post"
 image: "images/BSSC_1.jpg"
 featured_image: "images/BSSC_4.jpg"
 categories: 
