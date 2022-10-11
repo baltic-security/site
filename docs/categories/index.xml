@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Baltic Security Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobility</title>
+      <link>https://balticsecurity.eu/categories/mobility/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/categories/mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USA</title>
+      <link>https://balticsecurity.eu/categories/usa/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/categories/usa/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>China</title>
       <link>https://balticsecurity.eu/categories/china/</link>
@@ -22,24 +40,6 @@
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://balticsecurity.eu/categories/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobility</title>
-      <link>https://balticsecurity.eu/categories/mobility/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/categories/mobility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>USA</title>
-      <link>https://balticsecurity.eu/categories/usa/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://balticsecurity.eu/categories/usa/</guid>
       <description></description>
     </item>
     
