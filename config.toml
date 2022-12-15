@@ -1,134 +1,304 @@
-baseURL = "https://balticsecurity.eu/"
-languageCode = "en-us"
+baseurl = "balticsecurity.eu"
 title = "Baltic Security Foundation"
-theme = "parsa-hugo"
-summaryLength = "10"
-paginate = 6
+theme = "HugoBalticTheme"
+themesDir = "themes"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+# number of words of summarized post content (default 70)
+summaryLength = 70
+# Define the number of posts per page
+paginate = 10
+# not pluralize title pages by default
+pluralizelisttitles = false
 
-publishDir = "docs"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
-  home = ["HTML", "AMP", "RSS", "JSON"]
-  page = ["HTML"]
+    home = ["HTML", "RSS", "JSON"]
 
-[markup.goldmark.renderer]
-unsafe= true
-
-# Plugins
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/headroom/headroom.js"
-  [[params.plugins.js]]
-  URL = "plugins/instafeed/instafeed.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/masonry/masonry.js"
-  [[params.plugins.js]]
-  URL = "plugins/reading-time/readingTime.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/smooth-scroll/smooth-scroll.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-  
-
-  
-# navigation
 [menu]
+###################################################### Second Dropdown Menu ######################################################
+[[menu.main]]
+    name       = "The Foundation"
+    identifier = "menu.foundation"
+    url        = "/images/team/about.jpg"
+    weight     = 1
+####################### Column #######################
+[[menu.main]]
+    name       = "About"
+    identifier = "section.about"
+    url        = ""
+    weight     = 10
+    parent     = "menu.foundation"
+    post       = 1
+[[menu.main]]
+    name       = "Team and Experts"
+    url        = "/team/"
+    weight     = 11
+    parent     = "section.about"
+[[menu.main]]
+    name       = "Internship and Research"
+    url        = "/internship/"
+    weight     = 12
+    parent     = "section.about"
+[[menu.main]]
+    name       = "Partners and Contact"
+    url        = "/contact/"
+    weight     = 13
+    parent     = "section.about"
     
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
+####################### Column #######################
+[[menu.main]]
+    name       = "Projects"
+    identifier = "section.projects"
+    url        = ""
+    weight     = 20
+    parent     = "menu.foundation"
+    post       = 1
+[[menu.main]]
+    name       = "Baltic Fund"
+    url        = "/baltic_fund/"
+    weight     = 21
+    parent     = "section.projects"
+[[menu.main]]
+    name       = "Baltic Sea Security Initiative"
+    url        = "/baltic_sea_security_initiative/"
+    weight     = 22
+    parent     = "section.projects"
+[[menu.main]]
+    name       = "Young Leaders Mobility & Transatlantic Exchange"
+    url        = "/categories/mobility/"
+    weight     = 23
+    parent     = "section.projects"
+[[menu.main]]
+    name       = "Other Activities"
+    url        = "/categories/activities/"
+    weight     = 24
+    parent     = "section.projects"
+####################### Column #######################
+[[menu.main]]
+    name       = "Conferences"
+    identifier = "section.conferences"
+    url        = ""
+    weight     = 30
+    parent     = "menu.foundation"
+    post       = 2
+[[menu.main]]
+    name       = "Baltic Sea Security 2022"
+    url        = "/baltic_sea_security_conference_2022/"
+    weight     = 31
+    parent     = "section.conferences"
+[[menu.main]]
+    name       = "Baltic Sea Security 2021"
+    url        = "/baltic_sea_security_conference/"
+    weight     = 32
+    parent     = "section.conferences"
+####################### Column #######################
+[[menu.main]]
+    name       = "Publications"
+    identifier = "section.publications"
+    parent     = "menu.foundation"
+    weight     = 40
+    url        = ""
+    post       = 2
+[[menu.main]]
+    name       = "CRI Disinformation Toolkit"
+    parent     = "section.publications"
+    weight     = 41
+    url        = "https://drive.google.com/file/d/1E68wLVaUC6Qsb_B1_4z9yXYjdwiKYR4Y/view?usp=sharing"
+[[menu.main]]
+    name       = "Baltic Sea Security Initiative Report"
+    parent     = "section.publications"
+    weight     = 42
+    url        = "https://drive.google.com/file/d/1votJ_us9lguC1mxZYvl1yh7O3Ll6fqzT/view?usp=sharing"
+[[menu.main]]
+    name       = "Security Strategy Report"
+    parent     = "section.publications"
+    weight     = 43
+    url        = "https://jamestown.org/wp-content/uploads/2021/05/Baltic-Sea-Security_-Regional-and-Sectoral-Perspectives-web.pdf?x11483"
+[[menu.main]]
+    name       = "Interoperability Report"
+    parent     = "section.publications"
+    weight     = 44
+    url        = "https://jamestown.org/wp-content/uploads/2019/09/Baltic-Security-Strategy-Report-2019.pdf?x46659"
+[[menu.main]]
+    name       = "Cyber Resilience Report"
+    parent     = "section.publications"
+    weight     = 45
+    url        = "https://jamestown.org/wp-content/uploads/2019/08/Baltic-Interoperability-Report-Final-2.pdf?x46659"
+[[menu.main]]
+    name       = "BSF Newsletters 2019"
+    parent     = "section.publications"
+    weight     = 46
+    url        = "https://raw.githubusercontent.com/baltic-security/Library/main/BSF_Newsletters_2019.pdf"
 
-  [[menu.main]]
-  name = "Publications"
-  URL = "publications"
-  weight = 3
+###################################################### Second Dropdown Menu ######################################################
+[[menu.main]]
+    name       = "Cybersecurity & OSINT"
+    identifier = "menu.hub"
+    url        = "https://github.com/baltic-security"
+    weight     = 2
+    
+[[menu.main]]
+    name       = "Articles and News"
+    identifier = "menu.articles"
+    url        = "/articles/"
+    weight     = 3
 
-  [[menu.main]]
-  name = "Support & Partners"
-  URL = "support"
-  weight = 4
-
-  #[[menu.main]]
-  #name = "Partners"
-  #URL = "partners"
 
 [params]
-logo = "images/BSF-1.png"
-home = "Home"
-# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
-homeLayoutToggle = true
-# Meta data
-description = "Baltic Security Foundation"
-# about author
-author = "Baltic Security Foundation"
-#authorImage = "images/banner-img.png"
-shortDescription = "Baltic Security Foundation"
-# Contact Form Action
-#contactFormAction = "images/banner-img.png"
-# Google Analitycs
-#googleAnalitycsID = "Your ID"
-# copyright
-copyright = "BSF. Designed by Andreis Purim."
-
-  # Preloader
-  [params.preloader]
-  enable = true
-  
-  # search
-  [params.search]
-  enable = true
-
-  # Instagram feed
-  [params.instafeed]
-  enable = false
-  userID = "4044026246"
-  accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
-
-  # footer
-  [params.footer]
-
-    #address
-    [[params.footer.addresses]]
-    address = "Riga, Latvia"
-    
-
-    
+    viewMorePostLink = "/articles/"
+    author = "BSF Team"
+    defaultKeywords = ["Baltic", "Security", "Foundation"]
+    mainSections = ["articles"]
+    defaultDescription = "Baltic Security Foundation website"
+    # Social media
+    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    default_sharing_image = "img/sharing-default.png"
+    style = "default"
 
 
-  # social site
-  [[params.social]]
-  icon = "ti-facebook"
-  URL = "https://www.facebook.com/bsf.eu/"
-  
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  URL = "https://twitter.com/SecurityBaltic"
-  
-  #[[params.social]]
-  #icon = "ti-linkedin"
-  #URL = "#"
-  
-  #[[params.social]]
-  #icon = "ti-github"
-  #URL = "#"
+    # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
+    enableGoogleMaps = false
+    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+    latitude = "56.95408603813795"
+    longitude = "24.123611167552582"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 50 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - register your account to https://formspree.io/register
+    # - login and create new form
+    # - set your form's endpoint url under 'formspree_action' below
+    # - upload the generated site to your server
+    # - test a dummy email yourself
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io endpoint url
+    # formspree_action = "https://formspree.io/sample/of/endpoint"
+    contact_form_ajax = false
+
+    # Formspree form supports Google reCAPTCHA Key (type v2).
+    # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
+    #
+    # By default, Formspree use a redirect page for recaptcha widget.
+    # If you use a recaptcha widget in your contact page, you should do next steps.
+    # (if you don't want, skip these steps)
+    #
+    #   1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
+    #   2. select reCAPTCHA v2 and checkbox widget type.
+    #   3. remember site key and secret key.
+    #   4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
+    #   5. change `enableRecaptchaInContactForm` is to true
+    #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
+    #
+    enableRecaptchaInContactForm = false
+    googleRecaptchaKey = "site_key_for_google_recaptcha"
+
+    about_us = "<p>The Baltic Security Foundation (BSF), established in 2019, promotes the security and defense of the Baltic Sea region.</p>"
+    copyright = "Copyright (c) Baltic Security Foundation; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+    dropdown_mouse_over = true
+
+    disabled_logo = true
+    logo_text = "Baltic Security Foundation"
+
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
+    contact_url = "/contact"
+    address = """<p>
+        Write us an e-mail:
+        <br><i>info@balticsecurity.eu</i>
+        <br>Write us on Messenger
+        <br>Follow us on Facebook
+        <br>Follow us on Twitter
+        <br>
+      </p>
+      """
+[permalinks]
+    # articles = "/articles/:year/:month/:day/:filename/"
+    articles = "/:filename/"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carouselCustomers]
+    items = 6
+    auto_play = false
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.carouselTestimonials]
+    items = 4
+    auto_play = false
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.features]
+    enable = true
+    cols = 3 # Default: 3, Available values 2,3,4,6
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more information take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more information take a look at the README.
+    title = "Experts"
+    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consectetur volutpat lectus nec viverra. Vestibulum tincidunt interdum mauris, sit amet mattis metus vestibulum vitae."
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more information take a look at the README.
+    title = "Our Partners"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "Our Recent Articles"
+    # subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    hide_summary = false
+
+[params.footer.recent_posts]
+    enable = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
