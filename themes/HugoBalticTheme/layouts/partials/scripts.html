@@ -8,13 +8,13 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
 {{ if and .Site.Params.enableGoogleMaps .Site.Params.googleMapsApiKey }}
 <script src="//maps.googleapis.com/maps/api/js?key={{.Site.Params.googleMapsApiKey}}&v=3.exp"></script>
-<script src="{{ "js/hpneo.gmaps.js" | relURL }}"></script>
-<script src="{{ "js/gmaps.init.js" | relURL }}"></script>
+<script src="{{ "js/hpneo.gmaps.js" | absURL }}"></script>
+<script src="{{ "js/gmaps.init.js" | absURL }}"></script>
 {{ end }}
 {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
 <script src="//www.google.com/recaptcha/api.js" async defer></script>
 {{ end }}
-<script src="{{ "js/front.js" | relURL }}"></script>
+<script src="{{ "js/front.js" | absURL }}"></script>
 
 <!-- owl carousel -->
-<script src="{{ "js/owl.carousel.min.js" | relURL }}"></script>
+<script src="{{ "js/owl.carousel.min.js" | absURL }}"></script>

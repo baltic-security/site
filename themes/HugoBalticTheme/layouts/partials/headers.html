@@ -20,16 +20,16 @@
 <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.11.2/css/all.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <!-- CSS animations  -->
-<link href="{{ "css/animate.css" | relURL }}" rel="stylesheet">
+<link href="{{ "css/animate.css" | absURL }}" rel="stylesheet">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
-  <link href="{{ "css/style" | relURL }}.{{ . }}.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ "css/style" | absURL }}.{{ . }}.css" rel="stylesheet" id="theme-stylesheet">
 {{ else }}
-  <link href="{{ "css/style.default.css" | relURL }}" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ end }}
 
 <!-- Custom stylesheet - for your changes -->
-<link href="{{ "css/custom.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+<link href="{{ "css/custom.css" | absURL }}?{{ now.Unix }}" rel="stylesheet">
 
 <!-- Responsivity for older IE -->
 {{ `
@@ -40,15 +40,15 @@
 ` | safeHTML }}
 
 <!-- Favicon and Apple touch icons-->
-<link rel="shortcut icon" href="{{ "images/other/favicon.ico" | relURL }}" type="image/x-icon" />
-<link rel="apple-touch-icon" href="{{ "images/other/apple-touch-icon.png" | relURL }}" />
+<link rel="shortcut icon" href="{{ "images/other/favicon.ico" | absURL }}" type="image/x-icon" />
+<link rel="apple-touch-icon" href="{{ "images/other/apple-touch-icon.png" | absURL }}" />
 
 <!-- owl carousel CSS -->
-<link href="{{ "css/owl.carousel.css" | relURL }}" rel="stylesheet">
-<link href="{{ "css/owl.theme.css" | relURL }}" rel="stylesheet">
+<link href="{{ "css/owl.carousel.css" | absURL }}" rel="stylesheet">
+<link href="{{ "css/owl.theme.css" | absURL }}" rel="stylesheet">
 
 <!-- RSS feed -->
-<link rel="alternate" href="{{ "/index.xml" | relURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+<link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
 <!-- Facebook OpenGraph tags -->
 {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
