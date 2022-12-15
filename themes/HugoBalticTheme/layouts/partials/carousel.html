@@ -1,0 +1,56 @@
+<section>
+    <video class="video-bg" autoplay muted loop>
+        <source src="images/other/bg.mp4" type="video/mp4" />
+    </video>
+    <div class="container">
+        <div class="col-md-12">
+            <p class="lead">
+              Estabilished in 2019, <b>The Baltic Security Foundation (BSF)</b> promotes the security and defense of the Baltic Sea region.
+            </p>
+            <p class="lead">
+              The Foundation is a result of the <b>Baltic Security Strategy Project (2017-2019)</b> that gathered experts on defence, societal security and economic security to assess the shared challenges for the Baltic States and recommend solutions.
+            </p>
+            <p class="lead">
+              BSF gathers Baltic experts and security experts from the region and beyond. It provides a platform for discussion and research, expert networking, expert mobility, and promotes finding and advocating for solutions that lead to a stronger regional security in military and other areas. 
+            </p>
+        </div>
+    </div>
+</section>
+
+{{ if default true .Site.Params.CarouselHomepage.enable }}
+{{ if isset .Site.Data "carousel" }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+<section>
+    <!--<div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel"
+                data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
+                data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
+                data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    {{ if .href }}
+                    <a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}">
+                    {{ end }}
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>{{ .title | safeHTML }}</h1>
+                                {{ .description | safeHTML }}
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="{{ .image }}" alt="">
+                            </div>
+                        </div>
+                    {{ if .href }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>-->
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

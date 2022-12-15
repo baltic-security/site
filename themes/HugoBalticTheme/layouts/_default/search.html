@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+  <body>
+    <div id="all">
+      {{ partial "nav.html" . }}
+      {{ partial "breadcrumbs.html" . }}
+        <div id="content">
+            <div class="container">
+            <div class="row">
+                <!-- *** LEFT COLUMN *** -->
+                <div class="col-md-9" id="blog-listing-medium">
+                    Test
+                    <script id="search-result-template" type="text/x-js-template">
+                        <div id="summary-${key}">
+                            <h3><a href="${link}">${title}</a></h3>
+                            <p>${snippet}</p>
+                            <p>
+                                <small>
+                                    ${ isset tags }Tags: ${tags}<br>${ end }
+                                </small>
+                            </p>
+                        </div>
+                    </script>
+                </div>
+            </div>
+        </div>
+        {{ partial "footer.html" . }}
+    </div>
+    {{ partial "scripts.html" . }}
+    </body>
+</html>
+      
