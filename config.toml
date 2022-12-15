@@ -1,4 +1,4 @@
-baseurl = "balticsecurity.eu"
+baseurl = "balticsecurity.eu/"
 title = "Baltic Security Foundation"
 theme = "HugoBalticTheme"
 themesDir = "themes"

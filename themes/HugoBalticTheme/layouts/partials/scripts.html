@@ -14,7 +14,7 @@
 {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
 <script src="//www.google.com/recaptcha/api.js" async defer></script>
 {{ end }}
-<script src="{{ "js/front.js" | absURL }}"></script>
+<script src="{{ "js/front.js" | relURL }}"></script>
 
 <!-- owl carousel -->
-<script src="{{ "js/owl.carousel.min.js" | absURL }}"></script>
+<script src="{{ "js/owl.carousel.min.js" | relURL }}"></script>
