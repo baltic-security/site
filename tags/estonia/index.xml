@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Estonia on Baltic Security Foundation</title><link>https://balticsecurity.eu/tags/estonia/</link><description>Recent content in Estonia on Baltic Security Foundation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/tags/estonia/index.xml" rel="self" type="application/rss+xml"/><item><title>Estonia’s New Anti-Ship Missiles: Crucial Naval Capability and Overdue Strategic Shift to Sea</title><link>https://balticsecurity.eu/estonia_new_anti-ship_missile/</link><pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate><guid>https://balticsecurity.eu/estonia_new_anti-ship_missile/</guid><description>Earlier this month, the Estonian Center for Defense Investment (ECDI) announced the purchase of Blue Spear 5G SSM land-to-sea missile systems from Israel.</description></item><item><title>Spring Storm Exercises Demonstrate Ongoing Commitment to Deterrence, Readiness</title><link>https://balticsecurity.eu/spring_storm/</link><pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate><guid>https://balticsecurity.eu/spring_storm/</guid><description>Each year, Estonia hosts Spring Storm (Kevadtorm), bringing together forces from all across NATO to conduct field and live-fire exercises.</description></item><item><title>Javelin Deliveries and the Prospects of Tank Warfare in the Baltics</title><link>https://balticsecurity.eu/tank_warfare_baltics/</link><pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate><guid>https://balticsecurity.eu/tank_warfare_baltics/</guid><description>At the beginning of this month, the U.S. delivered 128 javelin anti-tank missiles to Estonia, part of ongoing cooperation between the two countries.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estonia on Baltic Security Foundation</title>
+    <link>https://balticsecurity.eu/tags/estonia/</link>
+    <description>Recent content in Estonia on Baltic Security Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://balticsecurity.eu/tags/estonia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estonia’s New Anti-Ship Missiles: Crucial Naval Capability and Overdue Strategic Shift to Sea</title>
+      <link>https://balticsecurity.eu/estonia_new_anti-ship_missile/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/estonia_new_anti-ship_missile/</guid>
+      <description>Earlier this month, the Estonian Center for Defense Investment (ECDI) announced the purchase of Blue Spear 5G SSM land-to-sea missile systems from Israel.</description>
+    </item>
+    
+    <item>
+      <title>Spring Storm Exercises Demonstrate Ongoing Commitment to Deterrence, Readiness</title>
+      <link>https://balticsecurity.eu/spring_storm/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/spring_storm/</guid>
+      <description>Each year, Estonia hosts Spring Storm (Kevadtorm), bringing together forces from all across NATO to conduct field and live-fire exercises.</description>
+    </item>
+    
+    <item>
+      <title>Javelin Deliveries and the Prospects of Tank Warfare in the Baltics</title>
+      <link>https://balticsecurity.eu/tank_warfare_baltics/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://balticsecurity.eu/tank_warfare_baltics/</guid>
+      <description>At the beginning of this month, the U.S. delivered 128 javelin anti-tank missiles to Estonia, part of ongoing cooperation between the two countries.</description>
+    </item>
+    
+  </channel>
+</rss>
