@@ -30,7 +30,7 @@ He is a member of Latvian Association of Political Scientists and the Associatio
 
 #### Otto Tabuns, Director
 
-Mr. Otto Tabuns is the founding director of the Baltic Security Foundation. He is the co-editor of two books (together with Mr. Olevs Nikers) and author of several publications on national and re- gional security, and is a lecturer of international security and policy debate at the Riga Graduate School of Law. Additionally, Otto is the permanent co-host of the Latvia Weekly broadcast in English on current affairs in his country.
+Mr. Otto Tabuns is the founding director of the Baltic Security Foundation. He is the co-editor of two books (together with Mr. Olevs Nikers) and author of several publications on national and regional security, and is a lecturer of international security and policy debate at the Riga Graduate School of Law. Additionally, Otto is the permanent co-host of the Latvia Weekly broadcast in English on current affairs in his country.
 
 Following his studies in diplomacy at the University of Latvia, and of international law at the Riga Graduate School of Law, Otto worked in the Latvian public service in the fields of strategic communications, defense planning, and crisis management for five years. He is a recipient of the Vītolu Foundation scholarship for international studies, and has been the first participant from Latvia in the MIRAI exchange program by the Ministry of Foreign Affairs of Japan. He has also participated in the SUSI foreign policy scholars program by the United States Department of State at the University of Delaware. 
 

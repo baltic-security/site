@@ -276,12 +276,13 @@ publishDir = "docs"
     subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consectetur volutpat lectus nec viverra. Vestibulum tincidunt interdum mauris, sit amet mattis metus vestibulum vitae."
 
 [params.see_more]
-    enable = false
+    enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Between Brussels and Beijing"
+    subtitle = "Our new book on the transatlantic response to China"
+    link_url = "/between_brussels_and_beijing/"
+    link_text = "Read here!"
+    image = "/images/between_brussels_and_beijing_bg.jpg"
 
 [params.clients]
     enable = true

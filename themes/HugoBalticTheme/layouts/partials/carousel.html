@@ -1,7 +1,9 @@
 <section>
-    <video class="video-bg" autoplay muted loop>
-        <source src="images/other/bg.mp4" type="video/mp4" />
-    </video>
+    <div class="text-center">
+        <video style="width:90vw" autoplay muted loop>
+            <source src="images/other/bg.mp4" type="video/mp4" />
+        </video>
+    </div>
     <div class="container">
         <div class="col-md-12">
             <p class="lead">
@@ -14,13 +16,44 @@
               BSF gathers Baltic experts and security experts from the region and beyond. It provides a platform for discussion and research, expert networking, expert mobility, and promotes finding and advocating for solutions that lead to a stronger regional security in military and other areas. 
             </p>
         </div>
+        <div class="text-center">
+            <a href="/internship/" class="btn btn-template-primary" role="button">Read our objectives and join the BSF!</a>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-md-6">
+                <div class="media">
+                    <div class="media-left media-middle">
+                        <img src="images/team/olev.jpg" class="img-circle" style="width: 100px;" alt="Olevs" />
+                    </div>
+                    <div class="media-body media-middle"> 
+                        <p style="font-size: 2rem;"><b>Olevs Nikers</b>, President</p>
+                        <p>Senior analyst at the Jamestown Foundation. Former chief expert at the Ministry of Defense of Latvia (2001-2019).</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="media">
+                    <div class="media-left media-middle">
+                        <img src="images/team/otto_squared.jpg" class="img-circle" style="width: 100px;" alt="Otto" />
+                    </div>
+                    <div class="media-body media-middle">
+                        <p style="font-size: 2rem;"><b>Otto Tabuns</b>, Director</p>
+                        <p>Foreign and security policy expert at the Latvian government for 10 years. Co-host of the “Latvia Weekly” political news program.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="padding-top: 2rem; text-align: center;">
+            <a href="/team/" class="btn btn-template-primary" role="button">Meet our team and experts!</a>
+        </div>
+        <hr />
     </div>
 </section>
 
 {{ if default true .Site.Params.CarouselHomepage.enable }}
 {{ if isset .Site.Data "carousel" }}
 {{ if gt (len .Site.Data.carousel) 0 }}
-<section>
     <!--<div class="home-carousel">
         <div class="dark-mask"></div>
         <div class="container">
@@ -50,7 +83,6 @@
             </div>
         </div>
     </div>-->
-</section>
 {{ end }}
 {{ end }}
 {{ end }}
