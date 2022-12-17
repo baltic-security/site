@@ -6,7 +6,7 @@ title = "Team and Experts"
 
 Olevs Nikers, _**President**_ <br>
 Otto Tabuns, _**Director**_ <br>
-Andreis Purim, _**AI & Cybersecurity Junior Researcher**_ <br>
+Andreis Purim, _**AI & Cybersecurity Expert**_ <br>
 Bobby Brooks, _**U.S. Strategy and Outreach Consultant**_ <br>
 Matthew Thomas, _**Editor**_ <br>
 Glen Grant, _**Senior Expert**_ <br>

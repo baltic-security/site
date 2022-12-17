@@ -111,6 +111,11 @@ publishDir = "docs"
     url        = ""
     post       = 2
 [[menu.main]]
+    name       = "Between Brussels and Beijing"
+    parent     = "section.publications"
+    weight     = 40
+    url        = "https://jamestown.org/product/now-available-between-brussels-and-beijing-the-transatlantic-response-to-the-chinese-presence-in-the-baltic-sea-region/"
+[[menu.main]]
     name       = "CRI Disinformation Toolkit"
     parent     = "section.publications"
     weight     = 41
@@ -142,12 +147,7 @@ publishDir = "docs"
     url        = "https://raw.githubusercontent.com/baltic-security/Library/main/BSF_Newsletters_2019.pdf"
 
 ###################################################### Second Dropdown Menu ######################################################
-[[menu.main]]
-    name       = "Cybersecurity & OSINT"
-    identifier = "menu.hub"
-    url        = "https://github.com/baltic-security"
-    weight     = 2
-    
+
 [[menu.main]]
     name       = "Articles and News"
     identifier = "menu.articles"
