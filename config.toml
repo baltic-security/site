@@ -41,18 +41,18 @@ publishDir = "docs"
     parent     = "menu.foundation"
     post       = 1
 [[menu.main]]
-    name       = "Team and Experts"
-    url        = "/team/"
+    name       = "About the Foundation"
+    url        = "/about/"
     weight     = 11
     parent     = "section.about"
 [[menu.main]]
-    name       = "Internship and Research"
-    url        = "/internship/"
+    name       = "Team and Experts"
+    url        = "/team/"
     weight     = 12
     parent     = "section.about"
 [[menu.main]]
-    name       = "Partners and Contact"
-    url        = "/contact/"
+    name       = "Contact and Donate"
+    url        = "/about/#contact"
     weight     = 13
     parent     = "section.about"
     
@@ -207,27 +207,34 @@ publishDir = "docs"
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>The Baltic Security Foundation (BSF), established in 2019, promotes the security and defense of the Baltic Sea region.</p>"
-    copyright = "Copyright (c) Baltic Security Foundation; all rights reserved."
+    about_us = """
+        <p>The Baltic Security Foundation (BSF), established in 2019, promotes the security and defense of the Baltic Sea region.</p>
+        <p>
+            Write us an e-mail:
+            <br><i><b><a href="mailto:info@balticsecurity.eu">info@balticsecurity.eu</a></b></i>
+            <br>Follow us on <b><a href="https://www.facebook.com/bsf.eu">Facebook</a></b>
+            <br>Follow us on <b><a href="https://twitter.com/securitybaltic">Twitter</a></b>
+            <br>
+        </p>
+        """
+    copyright = "Copyright (c) Baltic Security Foundation (Nodibinājums \"Baltijas drošības fonds\"); all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
-    dropdown_mouse_over = true
+    dropdown_mouse_over = false
 
     disabled_logo = true
     logo_text = "Baltic Security Foundation"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    contact_url = "/contact"
-    address = """<p>
-        Write us an e-mail:
-        <br><i>info@balticsecurity.eu</i>
-        <br>Write us on Messenger
-        <br>Follow us on Facebook
-        <br>Follow us on Twitter
-        <br>
-      </p>
+    address = """
+        <p>
+        <b>Account holder:</b> Nodibinājums "Baltijas drošības fonds" (registration number: 40008288809) <br/>
+        <b>Name and address of the bank:</b> Swedbank, Balasta dambis 15, Riga, LV-1048, Latvija <br/>
+        <b>BIC/SWIFT code:</b> HABALV22 <br/>
+        <b>Account Number:</b> LV47HABA0551046920884 <br/>
+        </p>
       """
 [permalinks]
     # articles = "/articles/:year/:month/:day/:filename/"

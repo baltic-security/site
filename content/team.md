@@ -2,20 +2,22 @@
 title = "Team and Experts"
 +++
 
-### Our Team
+<hr />
+<h2 style="text-align: center">Our Team</h2>
+<hr />
 
-Olevs Nikers, _**President**_ <br>
-Otto Tabuns, _**Director**_ <br>
-Andreis Purim, _**AI & Cybersecurity Expert**_ <br>
-Bobby Brooks, _**U.S. Strategy and Outreach Consultant**_ <br>
-Matthew Thomas, _**Editor**_ <br>
-Glen Grant, _**Senior Expert**_ <br>
-Sofiia Garmash, _**Assistant Country Manager: Ukraine**_
+- Olevs Nikers, _**President**_
+- Otto Tabuns, _**Director**_
+- Matthew Thomas, _**Editor**_
+- Andreis Purim, _**AI & Cybersecurity Expert**_ 
+- Glen Grant, _**Senior Expert**_
+- Sofiia Garmash, _**Assistant Country Manager: Ukraine**_
 
------------
-<img src="../images/team/olev.jpg" alt="Olev Nikers" style="width:100px;"/>
+---
 
-#### Olevs Nikers, President
+<img src="../images/team/olev.jpg" alt="Olev Nikers" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
+
+<p style="font-size: 3rem;"><b>Olevs Nikers</b>, President</p>
 
 Mr. Olevs Nikers is President of the Baltic Security Foundation and a senior analyst at the Jamestown Foundation, a Washington, D.C. based think tank. He has led the Baltic Security Strategy Project supported by the Baltic-American Freedom Foundation and the Jamestown Foundation (2017-2019) and currently he is Director of the Baltic Sea Security Initiative. From 2001 to 2019 Olevs has worked at the Ministry of Defense of Latvia. Among his other responsibilities, in a position 
 of Chief Expert he has been responsible for preparing the Latvian military Contingent for International Peace keeping missions, as well as planning, coordinating and implementing International Development and Logistics projects for the International Security Assistance Force in Afghanistan.
@@ -24,11 +26,11 @@ Olevs holds a Master's degree in Political Science from University of Latvia (20
 
 He is a member of Latvian Association of Political Scientists and the Association for Advancement of Baltic Studies.
 
------------
+---
 
-<img src="../images/team/otto.jpg" alt="Otto Tabuns" style="width:100px;"/>
+<img src="../images/team/otto_squared.jpg" alt="Otto Tabuns" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
 
-#### Otto Tabuns, Director
+<p style="font-size: 3rem;"><b>Olevs Nikers</b>, Director</p>
 
 Mr. Otto Tabuns is the founding director of the Baltic Security Foundation. He is the co-editor of two books (together with Mr. Olevs Nikers) and author of several publications on national and regional security, and is a lecturer of international security and policy debate at the Riga Graduate School of Law. Additionally, Otto is the permanent co-host of the Latvia Weekly broadcast in English on current affairs in his country.
 
@@ -38,9 +40,9 @@ Between 2017 and 2019, Otto was Executive Director of the Baltic Security Strate
 
 -----------
 
-<img src="../images/team/matthew.jpg" alt="Matthew Thomas" style="width:100px;"/>
+<img src="../images/team/matthew.jpg" alt="Matthew Thomas" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
 
-#### Matthew Thomas
+<p style="font-size: 3rem;"><b>Matthew Thomas</b>, Editor</p>
 
 Mr. Matthew Thomas is a Russia and post-Soviet area specialist. He works extensively with issues relating to hybrid warfare, intelligence, and diplomacy, and has served on projects dealing with NATO, Russia, and the Baltic States. He received his B.A. in International Studies and Modern Languages - Russian and his Master of International Affairs degrees from Texas A&M University. While at Texas A&M, he held numerous leadership positions in that institution’s Corps of Cadets, serving as Corps Scholastic Officer his senior year. He is a member of Dobro Slovo National Slavic Honor Society and a Glasscock Award recipient. He has previously served as a Project Assistant on the Baltic Security Strategy Project and has presented at Atlantic Council on the subject: How can NATO best respond to threats from a resurgent Russia over the next five years? 
 
@@ -48,30 +50,29 @@ With Baltic Security Foundation, Mr. Thomas serves as an expert contributor and 
 
 -----------
 
-<img src="../images/team/andreis.jpg" alt="Andreis Purim" style="width:100px;"/>
+<img src="../images/team/andreis.jpg" alt="Andreis Purim" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
 
-#### Andreis Purim
+<p style="font-size: 3rem;"><b>Andreis Purim</b>, AI & Cybersecurity Expert</p>
 
-Mr. Andreis Purim/Andrejs Puriņš is a Computer Engineer specializing in Cyber-defense. He graduated as an Electronic Technician at the Federal University of Technology - Paraná. There, he participated in numerous projects, including developing autonomous robots in partnership with the Advanced Laboratory of Robotics and Embedded Systems. He also became a Junior Researcher at the National Council for Scientific and Technological Development.
+Mr. Andreis Purim/Andrejs Puriņš is a Latvian-Brazilian Computer Engineer specializing in AI & Cyberdefense and OSINT. An Electronic Technician by the Federal University of Technology - Paraná, he participated in numerous projects, including developing autonomous robots in partnership with the Advanced Laboratory of Robotics and Embedded Systems and a Junior Researcher at the National Council for Scientific and Technological Development. He worked in Industrial Automation and R&D.
 
-Andreis previously worked with Industrial Automation and Research and Development before enrolling at the University of Campinas (UNICAMP). At UNICAMP, he focuses two main areas: Cryptography and Data Science. He serves as a Liaison Officer for Baltic Security Foundation in Latin America, and contributes as an expert on Computer Science.
+In 2018, Andreis enrolled at the University of Campinas and is currently a double-degree student at the École Centrale de Lille. He serves as a Liaison Officer for Baltic Security Foundation in South America, and as an expert on Computer Science.
 
-Andreis was born in Curitiba, from one of the first Latvian families to arrive in Brazil, and has long worked to preserve his Latvian heritage. He is the Head of the Media Department of the Brazilian Association of Latvian Culture and worked extensively with the Latvian Consulate and the Latvian Association of Latin America and the Caribbean.
-
+He is the Head of the Media Department of the Brazilian Association of Latvian Culture and worked extensively with the Latvian Consulate and the Latvian Association of Latin America and the Caribbean - amongst other organizations. He is also a reservist in the Latvian Armed Forces.
 
 -----------
 
-<img src="../images/team/glen.jpg" alt="Glen Grant" style="width:100px;"/>
+<img src="../images/team/glen.jpg" alt="Glen Grant" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
 
-#### Glen Grant
+<p style="font-size: 3rem;"><b>Glen Grant</b>, Senior Expert</p>
 
 Mr. Glen Grant worked as a defence and reform expert in Ukraine working for the Ukrainian Institute for the Future. He is also a Senior Fellow in the UK Institute for Statecraft on their Building Integrity Initiative countering Russian influence. Glen graduated from the Royal Military Academy Sandhurst, the Junior Staff Course Warminster and the Joint Staff Defence College at the Royal Naval College Greenwich. His key work in the last twenty years has been delivering reform and change for defence and security organisations in Europe. He has worked in the Defence Ministries of Ukraine, Latvia, Estonia, Bulgaria, Macedonia, Montenegro, Moldova, Poland, Albania, Kosovo, Slovenia, Serbia and Chile.  As a business consultant he has worked with telecoms, agriculture, publishing and manufacturing. During his 37 year military career Glen commanded the UK Military Prison and an Artillery battery of 8 tracked guns. He worked on the operational and policy staffs in many different British and NATO Headquarters and MOD UK. This work involved him supporting many operations including both Gulf wars, Bosnia and Kosovo. He was Defence Attaché in Finland, Estonia and Latvia. In 2016 Glen was Project Manager in MOD Ukraine running a one year UK funded project “Reform of Defence Housing” and in January 2018 published a groundbreaking paper on reform of the Ukraine military in Kiev Post. He is a skilled change manager with a Masters degree in the Leadership of Innovation and Change from York St John University in UK.  Glen lives in Latvia and is a faculty member of Riga Business School lecturing on the Bachelor of Business Administration course in Strategy, HRM, Crisis Management and Entrepreneurship.
 
 -----------
 
-<img src="../images/team/sofiia.jpg" alt="Sofiia Garmash" style="width:100px;"/>  
+<img src="../images/team/sofiia.jpg" alt="Sofiia Garmash" style="width:100px; border-radius:10px; float: left; margin: 10px"/>  
 
-#### Sofiia Garmash
+<p style="font-size: 3rem;"><b>Sofiia Garmash</b>, Assistant Country Manager: Ukraine</p>
 
 Ms. Sofiia Garmash currently is studying at the Riga Business School. From 2018 she interned at PSI CRO, Jones Lang LaSalle, TRK Engineerintg and Vivid Tech which involved a curial experience of teamwork and set-up of international standards.
 
