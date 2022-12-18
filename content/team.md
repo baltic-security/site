@@ -62,7 +62,7 @@ He is the Head of the Media Department of the Brazilian Association of Latvian C
 
 -----------
 
-<img src="../images/team/glen.jpg" alt="Glen Grant" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
+<img src="../images/team/glengrant.jpg" alt="Glen Grant" style="width:100px; border-radius:10px; float: left; margin: 10px"/>
 
 <p style="font-size: 3rem;"><b>Glen Grant</b>, Senior Expert</p>
 
