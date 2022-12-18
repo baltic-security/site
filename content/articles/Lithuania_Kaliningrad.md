@@ -2,7 +2,7 @@
 title="Lithuania-Kaliningrad Transit Row: A Broader EU and NATO Perspective"
 date=2022-06-30
 image="https://www.lrt.lt/img/2022/03/25/1224332-326766-756x425.jpg"
-authors = ["BSF Team"]
+authors = ["Matthew Thomas"]
 categories = ["Policy"]
 tags = ["NATO","EU","Russia"]
 +++

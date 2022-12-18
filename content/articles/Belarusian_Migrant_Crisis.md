@@ -2,7 +2,7 @@
 title="The Belarusian Migrant Crisis in Broader Geopolitical Context"
 date=2021-07-29
 image="https://www.lrt.lt/img/2020/10/08/736712-933756-756x425.jpg"
-authors = ["BSF Team"]
+authors = ["Matthew Thomas"]
 categories = ["Policy"]
 tags = ["NATO","EU"]
 +++
