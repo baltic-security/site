@@ -1,7 +1,7 @@
 +++
 title="Ukraine-Baltic Energy Cooperation in the Context of Russian Hybrid Aggression"
 date=2021-01-21
-image="https://static.ukrinform.com/photos/2019_01/thumb_files/630_360_1548870988-869.jpg"
+image="https://www.atlanticcouncil.org/wp-content/uploads/2022/02/18867280344_b7535bce5e_o.jpg"
 authors = ["Iryna Zaporizka"]
 categories = ["Policy"]
 tags = ["Energy"]
@@ -53,6 +53,6 @@ connecting the gas supply infrastructure between the Baltic States and Central a
 
 and ensuring the possibility of obtaining new partners to balance Russian influence and diversify hydrocarbons import sources; this cooperation might be established with the North Sea countries from the Baltics’ side, and relations with the Central Asian states can be strengthened to import hydrocarbons through Ukraine (primarily from Kazakhstan).
 
-Cover photo: Ukrainian gas transmission infrastructure [Credit](https://www.ukrinform.net/rubric-economy/3045361-tso-of-ukraine-ukrenergo-to-cooperate-on-developing-ukrainian-energy-infrastructure.html)
+Cover photo: Image by K. Reichert. Creative Commons [Credit](https://www.atlanticcouncil.org/wp-content/uploads/2022/02/18867280344_b7535bce5e_o.jpg)
 
 **By Iryna Zaporizka, Senior Fellow of the Ukrainian foreign policy think tank [ADASTRA](https://adastra.org.ua/)**
