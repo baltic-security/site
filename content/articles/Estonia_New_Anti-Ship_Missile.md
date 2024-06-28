@@ -1,7 +1,7 @@
 +++
 title="Estonia’s New Anti-Ship Missiles: Crucial Naval Capability and Overdue Strategic Shift to Sea"
 date=2021-10-29
-image="https://www.naval-technology.com/wp-content/uploads/sites/15/2021/10/Navy2-3.jpg"
+image=""
 authors = ["Matthew Thomas"]
 categories = ["Security"]
 tags = ["Naval"]
@@ -19,5 +19,5 @@ For all three Baltic states, and NATO as a whole, this new development is a crit
 
 By filling in crucial gaps in coastal defense capabilities, Estonia is leading the way forward for a more complete deterrence posture. Latvia and Lithuania should seek to follow its example. Even if they do not seek to obtain anti-ship missile systems, the other two Baltic states should begin shifting their focus to sea as well, while continuing to maintain what they have achieved with their ground forces. Developing effective capacity to defend against threats in the maritime domain will provide a more complete and balanced deterrence posture and help prevent the contingency of a Russian Anaconda Plan against the Baltics. For the Baltics, naval advancement is long overdue, and apathy about the maritime domain must give way to better strategic thinking. Baltic Security Foundation is invested in being part of this effort, through research and publications both past and future. Hopefully, Estonia’s apparent shift in priorities will inspire greater urgency in the other two to put an end to sea blindness and challenge Russia’s ability to maintain a favorable status quo. 
 
-Cover Photo: Blue Spear (5G SSM) missile system. Credit: IAI. Accessed via [Naval Technology](https://www.naval-technology.com/news/proteus-equip-blue-spear-missiles-estonia/)
+Cover Photo: 
 
