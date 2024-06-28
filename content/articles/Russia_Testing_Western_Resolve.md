@@ -1,7 +1,7 @@
 +++
 title="Russia Testing Western Resolve: How will the West Respond?"
 date=2021-12-04
-image="https://static.themoscowtimes.com/image/article_1360/4b/TASS_48151610.jpg"
+image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapad_2021_multiple_rocket_launcher_firing_%2528Obuz-Lesnovsky%2529.jpg&psig=AOvVaw0lhBkbPKj3IY7dR0NpOS1w&ust=1719639274642000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiZvebJ_YYDFQAAAAAdAAAAABAO"
 authors = ["Matthew Thomas"]
 categories = ["Security"]
 tags = ["NATO"]
@@ -25,4 +25,4 @@ On a more positive note, and to its credit, the Biden administration has rebuffe
 
 As Russia seeks to reverse the post-Cold War order, it is looking for windows of opportunity to play the aggressor with impunity. The West needs a strong, unified, and credible deterrent to prevent further adventurism by Moscow. That strength, unity, and credibility need to be demonstrated in Poland, Lithuania, Latvia, and Ukraine. In all these places, Russia’s actions are unacceptable and must be countered. Disunity on the migrant crisis and appeasement on Ukraine will only embolden Russia to go after more that does not rightly belong to it. 
 
-Cover Photo: Russian and Belarusian forces take part in Zapad-2021, a large-scale annual military exercise, at the Mulino training ground in Russia - September 2021. [Credit (Vadim Savitskiy/Russian Defense Ministry Press Service via AP)](https://www.themoscowtimes.com/2021/09/23/zapad-2021-what-we-learned-from-russias-massive-military-drills-a75127)
+Cover Photo: Russian and Belarusian forces take part in Zapad-2021, a large-scale annual military exercise, at the Mulino training ground in Russia - September 2021. Creative Commons. [Credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapad_2021_multiple_rocket_launcher_firing_%2528Obuz-Lesnovsky%2529.jpg&psig=AOvVaw0lhBkbPKj3IY7dR0NpOS1w&ust=1719639274642000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiZvebJ_YYDFQAAAAAdAAAAABAO)
