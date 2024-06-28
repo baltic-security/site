@@ -1,7 +1,7 @@
 +++
 title="Trust, but Deter: How to Ensure Security Despite Russian Treaty Violations"
 date=2020-08-27
-image="https://gdb.rferl.org/4001076F-528B-4625-9F85-B1C4E52C8547_w1023_r1_s.jpg"
+image="https://upload.wikimedia.org/wikipedia/commons/3/38/Bundesarchiv_Bild_183-H27337%2C_Moskau%2C_Stalin_und_Ribbentrop_im_Kreml.jpg"
 authors = ["Matthew Thomas"]
 categories=["Security"]
 tags=["Russia","NATO"]
@@ -23,6 +23,6 @@ In the context of Baltic security, and security in Eastern Europe writ-large, it
 
 A well-crafted treaty with sufficient enforcement mechanisms may be useful for a time, but will be hard to achieve and will eventually go the way of INF, ceasing to be effective and needing abrogation or replacement. For NATO, the best bet in Eastern Europe is to pursue diplomatic avenues where possible, but be prepared for the eventual expiration of their efficacy. How can NATO be prepared? By putting forth a strong deterrence posture and a formidable defense. In other words, make the consequences for violation unacceptably costly for Russia. 
 
-Cover Photo: Soviet and German dignitaries, as well as Foreign Ministers von Ribbentrop (Germany) and Molotov (USSR) and Josef Stalin, at the signing of the Molotov-Ribbentrop Pact. Source: [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/MolotovRibbentrop_The_Night_Stalin_And_Hitler_Redrew_The_Map_Of_Europe/1804154.html)
+Cover Photo: Josef Stalin and German Foreign Minister von Ribbentrop at the signing of the Molotov-Ribbentrop Pact. Creative Commons. Source: (https://upload.wikimedia.org/wikipedia/commons/3/38/Bundesarchiv_Bild_183-H27337%2C_Moskau%2C_Stalin_und_Ribbentrop_im_Kreml.jpg)
 
 **By [Matthew Thomas](../our_team)**
