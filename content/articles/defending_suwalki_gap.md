@@ -1,7 +1,7 @@
 ﻿+++
 title="Defending the Suwałki Gap"
 date=2020-02-27
-image="https://foreignpolicy.com/wp-content/uploads/2022/03/nato-poland-suwalki-corridor.jpg?w=1000"
+image="https://www.flickr.com/photos/nato/35313607832"
 authors = ["Matthew Thomas"]
 categories=["Security"]
 tags=["NATO","EU"]
@@ -29,8 +29,8 @@ Two key considerations must be brought up here: first, NATO can gain a serious t
 
 The Suwałki Gap presents both strategic challenges and strategic opportunities. If NATO can secure the Gap, it can maintain the vital overland supply line from Poland to the Baltics. Further, it can use the Gap to hamper Russian activities and capabilities around Kaliningrad and Belarus. From Polish acquisition of F-35 jets and Lithuanian acquisition of Joint Light Tactical Vehicles (JLTVs), to cooperation on the joint Polish-Lithuanian brigade to defend the Suwałki Gap, we have seen many positive measures for improving regional defense. But there is certainly more work to be done. It would be reasonable to expand the number of joint brigades; one probably is not enough. Secondly, infrastructural improvements are needed to ensure NATO tanks can cross bridges safely. NATO should invest in air defense and surveillance systems, and should seek to improve situational awareness locally in the Suwałki region. Finally, NATO needs to train and prepare for operations in the unique conditions the terrain, soil, climate, and infrastructure provide in order to improve overall readiness. As the only land route between the Baltics and the rest of NATO, this small piece of territory bears outsized significance for military operations in the Baltic theater. NATO must maintain it.
 
-Cover photo: Polish-Lithuanian border <br>
-Photo credit: Stratfor Worldview, worldview.stratfor.com
+Cover photo: NATO exercises in the Suwalki Gap Region. Published by NATO. Creative Commons. [Credit](https://www.flickr.com/photos/nato/35313607832) <br>
+
 
 -------
 _Sources:_
