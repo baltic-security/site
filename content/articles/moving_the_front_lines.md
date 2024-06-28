@@ -1,7 +1,7 @@
 +++
 title="Moving the Front Lines: Could Recent Moves in Europe Signal an Adjustment of U.S. Focus Eastward?"
 date=2020-07-31
-image="https://media.npr.org/assets/img/2020/06/24/gettyimages-1222645870_wide-dd6ca190639076920ef132c68eb06b604755d01f.jpg"
+image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fwhitehouse%2F48051964246%2Fin%2Fphotostream%2F&psig=AOvVaw0cANOYXmLk-m7YvypuMlF3&ust=1719642597680000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOigx4XW_YYDFQAAAAAdAAAAABAP"
 authors = ["Matthew Thomas"]
 categories=["Policy"]
 tags=["Transatlantic","NATO"]
@@ -35,5 +35,5 @@ Thus, moving troops from Germany to Poland makes strategic sense, regardless of 
 
 Much remains to be seen with respect to how many troops will be deploying further east. How many will go to Poland? Will Latvia receive any of the troops it wants? What kinds of capabilities will the U.S. focus on sending eastward? Whether or not this turns out to be good policy largely hinges on the answers to these questions. Do not expect answers soon, but keep observing. The U.S. may not be washing its hands of Europe after all. In fact, it is probably renewing its focus – this time to the east. 
 
-Cover Photo: U.S. President Donald Trump holds a joint news conference with Poland's President Andrzej Duda in the Rose Garden at the White House in Washington, DC, June 24, 2020. Credit: Carlos Barria/Reuters
+Cover Photo: U.S. President Donald Trump meets with Poland's President Andrzej Duda. [Creative Commons]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fwhitehouse%2F48051964246%2Fin%2Fphotostream%2F&psig=AOvVaw0cANOYXmLk-m7YvypuMlF3&ust=1719642597680000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOigx4XW_YYDFQAAAAAdAAAAABAP") 
 
