@@ -1,7 +1,7 @@
 +++
 title="Major Russian Invasion of Ukraine Imminent"
 date=2022-01-21
-image="https://www.atlanticcouncil.org/wp-content/uploads/2022/01/2021-12-05T233726Z_679349091_MT1EYEIM241791_RTRMADP_3_SATELLITE-IMAGE-OF-RUSSIA-TROOP-DEPLOYMENTS-NEAR-UKRAIN-scaled-e1642751508939-1024x576.jpg"
+image="https://commons.wikimedia.org/wiki/File:Troops_of_the_RKhBZ_of_the_Russian_army_at_the_exercises.png"
 authors = ["Matthew Thomas"]
 categories = ["Security"]
 tags = ["Russia","Ukraine"]
@@ -23,6 +23,6 @@ Meanwhile aid pours into Ukraine. God bless Kyiv if it can make effective use of
 
 Russia is presently moving troops and supplies from across its multiple military districts towards Ukraine, setting up snap exercises in Belarus, deploying over 140 warships for exercises across “all areas of responsibility,” increasing submarine activity in the Black Sea, and has conducted a major cyber-attack on Ukraine’s electrical, gas transmission, and financial systems. None of these things portend Moscow backing down. The writing is on the wall. How the West responds will have consequences that reverberate for generations. 
 
-Cover Photo: Satellite image of Russian troop buildup near Ukraine. [Credit](https://www.atlanticcouncil.org/blogs/new-atlanticist/russian-hybrid-threats-report-troops-arrive-in-belarus-as-propaganda-narratives-heat-up/)
+Cover Photo: Russian Army Exercises. Creative Commons. [Credit](https://commons.wikimedia.org/wiki/File:Troops_of_the_RKhBZ_of_the_Russian_army_at_the_exercises.png)
 
 **By [Matthew Thomas](../our_team)**
