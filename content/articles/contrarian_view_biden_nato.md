@@ -1,7 +1,7 @@
 +++
 title="A Contrarian View of Joe Biden and NATO"
 date=2021-02-27
-image="https://media.npr.org/assets/img/2021/01/27/gettyimages-462914112-biden-nato-chief_wide-4279df594bfb8d2e752993d6de11d532f3ffd0ab-s800-c85.webp"
+image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fnato%2F52181823950&psig=AOvVaw1isiwt_umsGI6pkDFZZGcM&ust=1719630078279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDn1bqn_YYDFQAAAAAdAAAAABAK"
 authors = ["Matthew Thomas"]
 categories = ["Policy"]
 tags = ["Transatlantic","NATO"]
@@ -33,4 +33,4 @@ Since Joe Biden was the leader on foreign policy in the Obama administration, Ea
 
 Joe Biden’s new administration is heralded by most as the return to an era of normal. He claims he will repair our alliances and combat Russia with a heavy emphasis on diplomacy. He rails against the alleged failures of the previous administration, many of which can be seen as categorically untrue, and claims that America is back. But what reason do we have to believe that this is so? I sincerely hope that I am wrong in this presentation, but amid the raucous applause and unquestioning approval of my peers and even those who are far superior in their expertise than me, I am deeply, gravely concerned that all this is but “sound and fury, signifying nothing.” If so, it is the Baltics and Eastern Europe that will suffer for it. Nonetheless, I present this contrarian view, in the hope that someone will stop and think, question, and speak. Let us not be caught off guard, disarmed by ourselves. 
 
-Cover Photo: Joe Biden at the Munich Security Conference in February 2015. [Credit](https://www.npr.org/sections/president-biden-takes-office/2021/01/27/961229767/in-edited-video-call-biden-assures-nato-chief-of-u-s-commitment)
+Cover Photo: Joe Biden with NATO Secretary General Jens Stoltenberg. [Credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fnato%2F52181823950&psig=AOvVaw1isiwt_umsGI6pkDFZZGcM&ust=1719630078279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDn1bqn_YYDFQAAAAAdAAAAABAK)
