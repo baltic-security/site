@@ -19,7 +19,7 @@ Lukashenko infamously quipped that “the country is not ready for a female pres
 ### The Lukashenko Ideology
 
 ![](https://i.insider.com/5f39485de89ebf001f0450f7?width=1000&format=jpeg&auto=webpr)
-President Alexander Lukashenko. Credits to Reuters.
+President Alexander Lukashenko. Credits to Reuters. ***Need to eliminate Reuters, Getty Images, AFP and replace with Creative Commons if possible.
 
 Alexander Lukashenko, sometimes called by western observers as the “Last Dictator of Europe”, is a former kolkhoz (Soviet collective farm) director. He was elected Deputy Supreme Council of the Republic of Belarus in 1990, gaining a reputation as a young anti-corruption crusader. 
 
