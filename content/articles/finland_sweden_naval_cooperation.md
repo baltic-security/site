@@ -1,7 +1,7 @@
 ﻿+++
 title="Interoperability at Sea: Sweden and Finland"
 date=2020-03-12
-image="https://www.shipspotting.com/photos/middle/1/6/3/2880361.jpg?cb=0"
+image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A05_FNS_Uusimaa_%252829611547274%2529.jpg&psig=AOvVaw1Fr5gt7rojO1kG4d2Sx03y&ust=1719643622776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCJkPPZ_YYDFQAAAAAdAAAAABAE"
 authors = ["Matthew Thomas"]
 categories=["Security"]
 tags=["Naval","NATO"]
@@ -26,5 +26,5 @@ All this brings up yet another question: how far should countries go pursuing in
 
 Greater cooperation between Finland and Sweden on military affairs reflects a newfound seriousness about defense matters in Helsinki and Stockholm. These two are an integral part of military operations in the Baltic Sea theater, and as such, this news is welcome on NATO’s northeastern flank. An increase in the deterrent capacity of both countries changes the strategic calculus in the region. Even more so, NATO accession would radically alter the operational theater, and the possibility should be given thorough consideration. But this is not the end; maritime capabilities, structures, and strategies all need serious improvements throughout the region. Without these, all the interoperability in the world will not save them. Indeed, for all its benefits, allies and partners in the region need to find the right balance on interoperability. Governments throughout the region must be willing to keep improving, with both the aim to prevent war and be prepared for it should it come. Complacency kills. 
 
-Cover image: FNS Uusimaa, ShipSpotting.com
+Cover image: FNS Uusimaa. Creative Commons. (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A05_FNS_Uusimaa_%252829611547274%2529.jpg&psig=AOvVaw1Fr5gt7rojO1kG4d2Sx03y&ust=1719643622776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCJkPPZ_YYDFQAAAAAdAAAAABAE)
 
