@@ -3,13 +3,12 @@ title: " Russia and the Baltics Since the Restoration of Independence"
 3date: 2025-17-08
 description: "On May 4, 1990, the Republic of Latvia declared its independence from the Soviet Union, ending fifty years of occupation that began in 1940."
 type: "post"
-image: "images/Russia_Baltics.png.png" 
-Category:
-"History" 
+image: "images/Russia_Baltics.png" 
+Category: "History" 
 tags:
 - “Baltics”
 - “History"
-- ---
+---
 On May 4, 1990, the Republic of Latvia declared its independence from the Soviet Union, ending fifty years of occupation that began in 1940.  Similarly, Lithuania and Estonia celebrated the 35th anniversary of their independence restoration in 2025 - Lithuania on March 11 and Estonia on March 30.  As the Baltic States mark over three decades of sovereignty following the dissolution of the Soviet Union, it becomes essential to analyze their evolving relationship with the Russian Federation, the Soviet Union’s successor state.  Despite each Baltic nation possessing a unique historical trajectory, their experiences share many parallels, particularly in how they have navigated their relations with their former occupier.
 
 1990-1994
@@ -20,7 +19,6 @@ The withdrawal of Russian forces from the Baltic States occurred gradually, with
 Despite the official end of Soviet military presence, Russia continued to assert influence over the region, especially through its criticism of the treatment of ethnic Russians of various international organizations, including the United Nations, the Organization for Security and Cooperation in Europe (OSCE), the Council of Europe, and the Organization for Baltic Sea States.  These appeals often framed the situation in the Baltics as a human rights crisis², with exaggerated claims that policies towards Russians were akin to apartheid or that there had been instances of genocide.
 
 The citizenship policies implemented by the Baltic States became a central focus of these criticisms.  Lithuania, in contrast to its Baltic counterparts, granted automatic citizenship to nearly all residents, including ethnic Russians.  However, Estonia and Latvia required  passing a language proficiency test in the national language and apply for naturalization.²  Russia utilized these differences as a key point in its diplomatic efforts, accusing the Baltic States of marginalizing ethnic Russians and creating a “second-class” status for them.  While these tensions were particularly pronounced in Latvia and Estonia due to the larger Russian-speaking populations, Lithuania also faced criticism, albeit to a lesser extent, due to its smaller Russian demographic.  Russia’s criticisms of these citizenship policies have continued to fuel diplomatic friction between the two sides, and the issue remains a point of contention.
-
 
 1995-2004
 
@@ -84,10 +82,6 @@ Conclusion
 	
 Over thirty years since reclaiming their independence, the Baltic states have moved from reluctant coexistence with Russia to firm estrangement.  What began as a fraught post-Soviet transition defined by troop withdrawals and disputes over citizenship has evolved into a relationship shaped by sharp geopolitical confrontation, particularly after Russia’s annexation of Crimea and its full-scale invasion of Ukraine.  Despite the pressures of geography and history, Latvia, Lithuania, and Estonia have charted a consistent course toward Euro-Atlantic integration, democratic consolidation, and strategic autonomy.These developments culminated in their recent energy decoupling from Russia.  In doing so, the Baltic states have not only reasserted their sovereignty but have emerged as some of the most vocal and resolute critics of Russian aggression in Europe, underscoring their transformation from Soviet republics to frontline defenders of Western values.
 
-
-
-
-
 Footnotes: 
 1.	Dmitri Trenin, Russian-Baltic Relations: A Decade after Separation, www.bmlv.gv.at/pdf_pool/publikationen/01_brs_04_rbr.pdf.
 
@@ -107,8 +101,7 @@ Footnotes:
 
 9.	Liudas Dapkus, “Baltic Nations Count Final Hours to Ending Electricity Ties to Russia,” AP News, 6 Feb. 2025, apnews.com/article/lithuania-baltics-russia-estonia-latvia-electricity-8a4da3b60cccf0c2fe7746496e941a71.
 
-Cover photo Wikipedia
-
+Cover photo: Wikipedia
 ...
 
-** by [Lillian Mullins] ** 
+**by [Lillian Mullins]** 
