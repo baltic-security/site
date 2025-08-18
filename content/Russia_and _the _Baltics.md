@@ -4,7 +4,7 @@ title: " Russia and the Baltics Since the Restoration of Independence"
 description: "On May 4, 1990, the Republic of Latvia declared its independence from the Soviet Union, ending fifty years of occupation that began in 1940."
 type: "post"
 image: "images/Russia_Baltics.png" 
-Category: "History" 
+Category: "Security" 
 tags:
 - “Baltics”
 - “History"
