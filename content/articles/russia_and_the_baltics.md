@@ -100,7 +100,7 @@ Over thirty years since reclaiming their independence, the Baltic states have mo
 
 9.	Liudas Dapkus, “Baltic Nations Count Final Hours to Ending Electricity Ties to Russia,” AP News, 6 Feb. 2025, apnews.com/article/lithuania-baltics-russia-estonia-latvia-electricity-8a4da3b60cccf0c2fe7746496e941a71.
 
-Cover photo: Wikipedia
+Cover photo: O.Nikers
 
 **by [Lillian Mullins]**
 
