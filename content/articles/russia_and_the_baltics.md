@@ -1,18 +1,16 @@
---- 
-title: " Russia and the Baltics Since the Restoration of Independence"
-date: 2025-18-08
-Description: "On May 4, 1990, the Republic of Latvia declared its independence from the Soviet Union, ending fifty years of occupation that began in 1940."
-type: "post"
-image: "images/Russia_Baltics.png" 
-Categories: 
-- "Security" 
-tags:
-- “Baltics”
-- “History"
----
++++
+title="Russia and the Baltics Since the Restoration of Independence"
+date=2025-18-08
+image="images/Russia_Baltics.png" 
+authors=["Lillian Mullins"]
+categories=["Security"]
+tags=[“Baltics”, “History"]
++++
+
+
 On May 4, 1990, the Republic of Latvia declared its independence from the Soviet Union, ending fifty years of occupation that began in 1940.  Similarly, Lithuania and Estonia celebrated the 35th anniversary of their independence restoration in 2025 - Lithuania on March 11 and Estonia on March 30.  As the Baltic States mark over three decades of sovereignty following the dissolution of the Soviet Union, it becomes essential to analyze their evolving relationship with the Russian Federation, the Soviet Union’s successor state.  Despite each Baltic nation possessing a unique historical trajectory, their experiences share many parallels, particularly in how they have navigated their relations with their former occupier.
 
-1990-1994
+# 1990-1994
 The relationship between the Baltic States and Russia has been marked by considerable tension since the dissolution of the Soviet Union.  Following the declaration of independence, the Baltic States were confronted with the presence of Soviet military forces who remained including personnel at the strategically significant skrunda-1 radar station.  Estonia had between 12,000 and 14,000 Russian soldiers, and Lithuania was home to approximately 20,000 to 22,000 Soviet military personnel.¹  These forces remained stationed in the Baltic states until 1994, despite the official declarations of independence.
 
 The withdrawal of Russian forces from the Baltic States occurred gradually, with Lithuania seeing the final pullout in 1993, followed by Estonia and Latvia in 1994.  This marked a significant moment in the post-Soviet transition¹, signaling the definitive end of Russian military influence in the region.  In the aftermath of this withdrawal, the Baltic States increasingly focused on consolidating their independence and reinforcing their commitment to Western integration, particularly  regarding  joining European institutions and securing membership in NATO.
@@ -21,7 +19,7 @@ Despite the official end of Soviet military presence, Russia continued to assert
 
 The citizenship policies implemented by the Baltic States became a central focus of these criticisms.  Lithuania, in contrast to its Baltic counterparts, granted automatic citizenship to nearly all residents, including ethnic Russians.  However, Estonia and Latvia required  passing a language proficiency test in the national language and apply for naturalization.²  Russia utilized these differences as a key point in its diplomatic efforts, accusing the Baltic States of marginalizing ethnic Russians and creating a “second-class” status for them.  While these tensions were particularly pronounced in Latvia and Estonia due to the larger Russian-speaking populations, Lithuania also faced criticism, albeit to a lesser extent, due to its smaller Russian demographic.  Russia’s criticisms of these citizenship policies have continued to fuel diplomatic friction between the two sides, and the issue remains a point of contention.
 
-1995-2004
+# 1995-2004
 
 Between 1995 and 2004, Latvia, Lithuania, and Estonia continued to navigate complex diplomatic terrain in their relationships with the Russian Federation.  This period was marked by the post-Soviet transition, the Baltic states’ pursuit of Euro-Atlantic integration, and Russia’s attempts to maintain regional influence.  While each Baltic state faced unique bilateral challenges, common threads included disputes over border treatment, continued tensions surrounding Russian-speaking minorities, and geopolitical friction stemming from NATO and EU enlargement. 
 
@@ -39,7 +37,7 @@ Lithuania’s tensions with Russia were less ethnopolitical and more logistical 
 
 By 2004, Lithuania emerged as one of the most vocal post-Soviet critics of Russian foreign policy.  Its accession to NATO and the EU, like Latvia and Estonia, was viewed by Russia as a strategic loss. However, Lithuania’s firm commitment to transatlantic institutions allowed it to assert a distinct foreign policy identity.
 
-2005-2015
+# 2005-2015
 
 Between 2005 and 2015, relations between the Baltic states and the Russian Federation transformed from cautious coexistence to open confrontation.  This period began with modest efforts at institutional engagement and culminated in stark geopolitical realignment.  
 
@@ -61,7 +59,7 @@ Lithuania was particularly vulnerable to Russian energy dominance, which Moscow 
 
 The Kaliningrad exclave, bordering Lithuania and Poland, remained a constant source of friction.  Russian officials periodically escalated tensions by threatening to deploy Iskander missiles to Kaliningrad in retaliation for NATO’s missile defense installations in Europe.  The region became a highlight in the broader East-West military standoff.⁷
 
-2016-present
+# 2016-present
 
 Latvia’s relations with Russia have undergone a sharp transformation since 2016, shaped by regional tensions, the invasion of Ukraine, and a push for energy and political independence.  In 2018, the Latvian parliament condemned Russia’s actions during the Kerch Strait incident, which signaled early alignment with broader European criticism of Russian aggression.  This foreshadowed a deeper rupture that would follow in 2022.
 
@@ -79,11 +77,11 @@ Estonia also intensified its defensive posture.  After the 2014 abduction of Est
 
 Diplomatic relations deteriorated further in early 2023 when Estonia expelled 21 Russian diplomats and technical staff.⁵  Russia retaliated by expelling Estonia’s ambassador, effectively downgrading relations.  In February 2024, tensions escalated further when Russia placed Estonian Prime Minister Kaja Kallas on a wanted list over the dismantling of Soviet monuments.  The culmination of years of distancing came in February 2025 when Estonia joined the other Baltic states in disconnecting from the Russian grid and joining the EU electricity system.⁹
 
-Conclusion
+# Conclusion
 	
 Over thirty years since reclaiming their independence, the Baltic states have moved from reluctant coexistence with Russia to firm estrangement.  What began as a fraught post-Soviet transition defined by troop withdrawals and disputes over citizenship has evolved into a relationship shaped by sharp geopolitical confrontation, particularly after Russia’s annexation of Crimea and its full-scale invasion of Ukraine.  Despite the pressures of geography and history, Latvia, Lithuania, and Estonia have charted a consistent course toward Euro-Atlantic integration, democratic consolidation, and strategic autonomy.These developments culminated in their recent energy decoupling from Russia.  In doing so, the Baltic states have not only reasserted their sovereignty but have emerged as some of the most vocal and resolute critics of Russian aggression in Europe, underscoring their transformation from Soviet republics to frontline defenders of Western values.
 
-Footnotes: 
+### Footnotes: 
 1.	Dmitri Trenin, Russian-Baltic Relations: A Decade after Separation, www.bmlv.gv.at/pdf_pool/publikationen/01_brs_04_rbr.pdf.
 
 2.	Nils Muižnieks (Ed.), The Geopolitics of History in Latvian-Russian Relations, 2011, www.lu.lv/fileadmin/user_upload/lu_portal/eng/news/The_Geopolitics_of_History_in_Latvian-Russian_Relations.pdf.
@@ -107,5 +105,6 @@ Cover photo: Wikipedia
 **by [Lillian Mullins]**
 
 ---
+
 
 
