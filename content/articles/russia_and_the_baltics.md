@@ -1,7 +1,7 @@
 +++
 title = "Russia and the Baltics Since the Restoration of Independence"
 date = 2025-08-18
-image = "Telefons 046.jpg"
+image = "Telefons_046.jpg"
 authors = ["Lillian Mullins"]
 categories = ["Security"]
 tags = ["Baltics", "History"]
