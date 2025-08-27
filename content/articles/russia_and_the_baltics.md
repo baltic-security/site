@@ -1,10 +1,10 @@
 +++
-title="Russia and the Baltics Since the Restoration of Independence"
-date=2025-18-08
-image="images/Russia_Baltics.png" 
-authors=["Lillian Mullins"]
-categories=["Security"]
-tags=[“Baltics”, “History"]
+title = "Russia and the Baltics Since the Restoration of Independence"
+date = 2025-08-18
+image = "images/Russia_Baltics.png"
+authors = ["Lillian Mullins"]
+categories = ["Security"]
+tags = ["Baltics", "History"]
 +++
 
 
