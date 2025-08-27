@@ -1,5 +1,5 @@
 +++
-title = "Baltic Defense Line: A Literature Review on Enhanced Latvian Fortifications along the Russian Border"
+title = "Baltic Defense Line: Review on Enhanced Latvian Fortifications along the Russian Border"
 date = 2025-08-27
 image = "images/Baltic_clouds.jpg"
 authors = ["Vienne Abrahamian"]
