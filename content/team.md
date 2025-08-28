@@ -19,12 +19,11 @@ title = "Team and Experts"
 
 <p style="font-size: 3rem;"><b>Olevs Nikers</b>, President</p>
 
-Mr. Olevs Nikers is President of the Baltic Security Foundation and a senior analyst at the Jamestown Foundation, a Washington, D.C. based think tank. He has led the Baltic Security Strategy Project supported by the Baltic-American Freedom Foundation and the Jamestown Foundation (2017-2019) and currently he is Director of the Baltic Sea Security Initiative. From 2001 to 2019 Olevs has worked at the Ministry of Defense of Latvia. Among his other responsibilities, in a position 
-of Chief Expert he has been responsible for preparing the Latvian military Contingent for International Peace keeping missions, as well as planning, coordinating and implementing International Development and Logistics projects for the International Security Assistance Force in Afghanistan.
+Mr. Olevs Nikers is co-founder of the Baltic Security Foundation, President and Member of the Board, Senior Fellow of the Jamestown Foundation (U.S.) and former advisor to the Minister of Defense of the Republic of Latvia. From 2001 to 2019, Mr. Nikers has worked at the Ministry of Defence of Latvia in position of chief expert. 
 
-Olevs holds a Master's degree in Political Science from University of Latvia (2001), as well as a Master's degree in International Relations from The Bush School of Government and Public Service, Texas, USA (2016). Currently he is studying at the Riga Stradins University's doctoral program in political science.
+Mr. Nikers has led the Baltic Security Strategy Project (2017 – 2019) supported by the Baltic-American Freedom Foundation and The Jamestown Foundation, and the Baltic Sea Security Initiative (2019 – 2021). He is author, co-author and editor of a series of publications in the field of regional security and international relations. 
 
-He is a member of Latvian Association of Political Scientists and the Association for Advancement of Baltic Studies.
+He is a graduate in international relations from The Bush School of Government and Public Service, Texas A&M University. In 2023 he was recipient of the Fulbright Scholar award – hosted as a resident fellow by the Institute for National Strategic Studies at the National Defense University, USA. As a PhD candidate at the Riga Stradiņš University, Mr. Nikers is focused on regional security politics and Transatlantic security.  
 
 ---
 
