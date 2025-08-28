@@ -1,7 +1,7 @@
 +++
 title = "Russia’s Rising Threat on Arctic Security"
 date = 2025-08-27
-image = "images/Arctics.jpg"
+image = "images/Arctics1.jpg"
 authors = ["Vienne Abrahamian"]
 categories = ["Security"]
 tags = ["Baltics", "NATO"]
