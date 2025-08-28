@@ -145,96 +145,168 @@ Whether or not the EU-Mercosur agreement is ratified, it will serve as a key ind
 
 # References   
 
-1 European Parliament Think Tank, “Ratification Scenarios for the EU–Mercosur Agreement,” (December 20, 2024), accessed June 30, 2025, EP Think Tank,
-https://epthinktank.eu/2024/12/20/ratification-scenarios-for-the-eu%E2%80%91mercosur-agreement/.
+1 European Parliament Think Tank, “Ratification Scenarios for the EU–Mercosur Agreement,” (December 20, 2024), accessed June 30, 2025, EP Think Tank, https://epthinktank.eu/2024/12/20/ratification-scenarios-for-the-eu%E2%80%91mercosur-agreement/.
+
 2 Mariana Fleischhauer Corrêa da Costa and Pietro Regazzoni, Now or Never: Unlocking the Economic and Geopolitical Potential of the EU-Mercosur Trade Deal, unpublished manuscript, Fundação Getulio Vargas, 2025.
+
 3 Gabriel Araujo, “Brazil’s Lula Urges Macron to Back EU‑Mercosur Trade Deal,” Reuters, June 5, 2025, accessed June 30, 2025,
-https://www.reuters.com/world/americas/brazils-lula-urges-macron-back-eu-mercosur-trade-deal-2025-06-05/.  4 Sofia Sanchez Manzanaro, “New Import Safeguards Under Discussion to Secure Mercosur Deal, French Agriculture Minister Says,” Euractiv, June 17, 2025, accessed June 30, 2025,
-https://www.euractiv.com/section/agriculture-food/news/new-import-safeguards-under-discussion-to-secure-mercos ur-deal-french-agriculture-minister-says/.
+https://www.reuters.com/world/americas/brazils-lula-urges-macron-back-eu-mercosur-trade-deal-2025-06-05/.
+
+4 Sofia Sanchez Manzanaro, “New Import Safeguards Under Discussion to Secure Mercosur Deal, French Agriculture Minister Says,” Euractiv, June 17, 2025, accessed June 30, 2025, https://www.euractiv.com/section/agriculture-food/news/new-import-safeguards-under-discussion-to-secure-mercos ur-deal-french-agriculture-minister-says/.
+
 5 Amandine Hess, "EU-Mercosur trade deal: Winners and losers in Europe," Euronews, November 19, 2024, https://www.euronews.com/business/2024/11/19/eu-mercosur-trade-deal-winners-and-losers-in-europe.
+
 6 Amandine Hess, "EU-Mercosur trade deal: Winners and losers in Europe," Euronews, November 19, 2024, https://www.euronews.com/business/2024/11/19/eu-mercosur-trade-deal-winners-and-losers-in-europe.
+
 7 France24, “Poland Joins France in Opposing EU–Mercosur Free Trade Agreement,” November 27, 2024, accessed June 30, 2025,
-https://www.france24.com/en/europe/20241127-poland-joins-france-in-opposing-eu-mercosur-free-trade-agreement.  8 European Parliament, Committee on Foreign Affairs Ordinary Meeting Hearing, June 23, 2025, 18:09, accessed June 30, 2025,
+https://www.france24.com/en/europe/20241127-poland-joins-france-in-opposing-eu-mercosur-free-trade-agreement. 
+
+8 European Parliament, Committee on Foreign Affairs Ordinary Meeting Hearing, June 23, 2025, 18:09, accessed June 30, 2025,
 https://multimedia.europarl.europa.eu/en/webstreaming/committee-on-foreign-affairs-ordinary-meeting-hearing_202 50623-1500-COMMITTEE-AFET.
-9 Polskie Radio, “Presidential Hopeful Vows to Defend Polish Farmers, Transport Firms,” March 31, 2025, accessed June 30, 2025,
-https://www.polskieradio.pl/395/7784/artykul/3503510,presidential-hopeful-vows-to-defend-polish-farmers-transpor t-firms.
+
+9 Polskie Radio, “Presidential Hopeful Vows to Defend Polish Farmers, Transport Firms,” March 31, 2025, accessed June 30, 2025, https://www.polskieradio.pl/395/7784/artykul/3503510,presidential-hopeful-vows-to-defend-polish-farmers-transpor t-firms.
+
 10 LRT, “Lithuania Is Against EU–Mercosur Trade Deal, Says Minister,” December 31, 2024, accessed June 30, 2025, https://www.lrt.lt/en/news-in-english/19/2449997/lithuania-is-against-eu-mercosur-trade-deal-says-minister.
-11 European People's Party (EPP), “Vaidere: Latvia Will Benefit from a Deal on World's Biggest Trade Agreement,” December 6, 2024, accessed June 30, 2025,
-https://www.eppgroup.eu/what-we-do/with-eu-countries/latvia/vaidere-latvia-will-benefit-from-the-biggest-trade-de al.
+
+11 European People's Party (EPP), “Vaidere: Latvia Will Benefit from a Deal on World's Biggest Trade Agreement,” December 6, 2024, accessed June 30, 2025, https://www.eppgroup.eu/what-we-do/with-eu-countries/latvia/vaidere-latvia-will-benefit-from-the-biggest-trade-de al.
+
 12 Latvian Ministry of Foreign Affairs, “On 23 April 2025, the State Secretary of the Ministry of Foreign Affairs, Andžejs Viļumsons, met with the non-resident Ambassador of Argentina to Latvia,” Facebook, April 23, 2025, accessed June 30, 2025,
 https://www.facebook.com/LatvianMFA/posts/on-23-april-2025-the-state-secretary-of-the-ministry-of-foreign-affair s-and%C5%BEejs-/1131321939024697/.
+
 13 Rūta Rudzīte, Public Relations Specialist, Public Relations Division, Ministry of Agriculture of Latvia, email to author, June 27, 2025.
+
 14 Notes from Poland, “Polish Farmers Hold Anti-EU Protest in Warsaw,” January 3, 2025, accessed June 30, 2025, https://notesfrompoland.com/2025/01/03/polish-farmers-hold-anti-eu-protest-in-warsaw/.
+
 15 LRT, “500 Tractors in Vilnius: Lithuanian Farmers Gear Up for Protest,” January 17, 2025, accessed June 30, 2025,
 https://www.lrt.lt/en/news-in-english/19/2177292/500-tractors-in-vilnius-lithuanian-farmers-gear-up-for-protest?srslt id=AfmBOorDFCttZ_BuNTY0BPvBQDd3KZ_QVbAQUej8Vyt8XNBrh2WuKQdt.
+
 16 European Rural Parliament, "About Us," accessed June 30, 2025, https://europeanruralparliament.com/about-us/.
+
 17 Ignas Hofmanas, Minister of Agriculture, Ministry of Agriculture of the Republic of Lithuania, accessed June 30, 2025, https://zum.lrv.lt/en/structure-and-contacts/management/ignas-hofmanas/.
-18 B. Schuh et al., The EU Farming Employment: Current Challenges and Future Prospects, Policy Department for Structural and Cohesion Policies, European Parliament, October 2019, 11, accessed June 30, 2025, https://www.europarl.europa.eu/RegData/etudes/STUD/2019/629209/IPOL_STU(2019)629209_EN.pdf. europarl.europa.eu+1europarl.europa.eu+1
+
+18 B. Schuh et al., The EU Farming Employment: Current Challenges and Future Prospects, Policy Department for Structural and Cohesion Policies, European Parliament, October 2019, 11, accessed June 30, 2025 https://www.europarl.europa.eu/RegData/etudes/STUD/2019/629209/IPOL_STU(2019)629209_EN.pdf.
+
 19 European Commission, Directorate‑General for Agriculture and Rural Development, Policy Brief: Impacts of EU Enlargement on Agriculture in Poland, November 2014, 11, accessed June 30, 2025, https://agriculture.ec.europa.eu/system/files/2019-11/policy-brief-enlargement-pl_2014_en_0.pdf.
+
 20 Statistics Lithuania (Official Statistics Portal), 2020 m. žemės ūkio surašymo rezultatai: pagrindiniai rezultatai Estijoje, Latvijoje ir Lietuvoje, accessed June 30, 2025,
-https://osp.stat.gov.lt/zus2020-rezultatai/zemes-ukio-surasymo-pagrindiniai-rezultatai-estijoje-latvijoje-ir-lietuvoje. 21 Zane Vārpiņa, Countries of Old Men? Demographic Challenges in Estonia, Latvia and Lithuania (Riga: Friedrich-Ebert-Stiftung, February 2018), 3, https://baltic.fes.de/fileadmin/user_upload/documents/FES_Countries_of_old_men_final.pdf.
+https://osp.stat.gov.lt/zus2020-rezultatai/zemes-ukio-surasymo-pagrindiniai-rezultatai-estijoje-latvijoje-ir-lietuvoje. 
+
+21 Zane Vārpiņa, Countries of Old Men? Demographic Challenges in Estonia, Latvia and Lithuania (Riga: Friedrich-Ebert-Stiftung, February 2018), 3, https://baltic.fes.de/fileadmin/user_upload/documents/FES_Countries_of_old_men_final.pdf.
+
 22 Ministry of Agriculture of the Republic of Latvia, “Baltic agriculture ministers agree on joint demands for the Common Agricultural Policy for the next EU planning period starting in 2028,” April 11, 2025, accessed June 30, 2025,
 https://www.zm.gov.lv/en/article/baltic-agriculture-ministers-agree-joint-demands-common-agricultural-policy-next- eu-planning-period-starting-2028
+
 23 H.E. Baiba Braže, Minister of Foreign Affairs of Latvia, "Statement by Latvia on behalf of the Baltic States (Estonia, Latvia and Lithuania) at the UN Security Council," New York, February 24, 2025, Permanent Mission of Latvia to the United Nations, accessed June 30, 2025,
 https://www2.mfa.gov.lv/en/newyork/news/72059-statement-by-latvia-on-behalf-of-the-baltic-states-estonia-latvia-a nd-lithuania-at-the-un-security-council-by-h-e-ms-baiba-braze/.
+
 24 Jerry Hendrix, “When Putin Invades the Baltics,” CNAS Commentary, February 12, 2018, accessed June 30, 2025, https://www.cnas.org/publications/commentary/when-putin-invades-the-baltics.
+
 25 Carnegie Endowment for International Peace, “How Eastern Europe Overhauled Its Natural Gas Market,” April 2025, accessed June 30, 2025,
 https://carnegieendowment.org/research/2025/04/how-eastern-europe-overhauled-its-natural-gas-market.
+
 26 Euractiv, “Lithuania Becomes First EU Country to Stop Russian Gas Imports,” published April 2, 2022, accessed June 30, 2025,
 https://www.euractiv.com/section/politics/short_news/lithuania-becomes-first-eu-country-to-stop-russian-gas-import s/. euractiv.comreuters.com+14euractiv.com+14euractiv.com+14.
+
 27 Carnegie Endowment for International Peace, “How Eastern Europe Overhauled Its Natural Gas Market.”
+
 28 Tom Bennett, “Baltic States Begin Historic Switch Away from Russian Power Grid,” BBC News, February 8, 2025, https://www.bbc.com/news/articles/c627d55v07go.
+
 29 European Commission, “Roadmap to Fully End EU Dependency on Russian Energy,” May 6, 2025, accessed June 30, 2025,
 https://commission.europa.eu/news-and-media/news/roadmap-fully-end-eu-dependency-russian-energy-2025-05-06
 _en.
+
 30 European Council, “Where Does the EU’s Gas Come From?” May 8, 2025, accessed June 30, 2025, https://www.consilium.europa.eu/en/infographics/where-does-the-eu-s-gas-come-from/#:~:text=Norway%20was%2 0the%20top%20supplier,the%20UK%2C%20Azerbaijan%20and%20Russia.
+
 31 Eurostat, “Fossil Fuel Reliance in EU Increased Slightly in 2022,” January 30, 2024, accessed June 30, 2025, https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240130-2.
+
 32 Aymeric Kouam, “Russian Fossil Fuel Phase-Out: An Imperative for the European Union,” Strategic Perspectives, March 24, 2025, https://strategicperspectives.eu/russian-fossil-fuel-phase-out/.
+
 33 Gonzalo Escribano and Ignacio Urbasos Arbeloa, “Why Latin America Matters to the EU on Energy: Diversific
+
 34 European Parliament, International Trade Committee, “INTA Committee Meeting,” June 24, 2025, accessed June 30, 2025,
 https://multimedia.europarl.europa.eu/en/webstreaming/inta-committee-meeting_20250624-0900-COMMITTEE-IN TA.
+
 35 Energy Monitor, “EU, OLADE Sign Memorandum to Strengthen Energy Cooperation,” May 27, 2025, https://www.energymonitor.ai/news/eu-olade-energy-cooperation/.
+
 36 Escribano and Arbeloa, “Why Latin America Matters to the EU on Energy.”
+
 37 CAF – Development Bank of Latin America, “The Mercosur‑EU Agreement and Decarbonization,” accessed June 30, 2025, https://www.caf.com/en/blog/the-mercosur-ue-agreement-and-decarbonization/.
+
 38 AST – Augstsprieguma tīkls, “Electricity Market Review: Year 2023,” accessed June 30, 2025, https://www.ast.lv/en/electricity-market-review?year=2023&month=13.ation, Transition Partners and New Value Chains”, Elcano Royal Institute, March 30, 2023, https://www.realinstitutoelcano.org/en/analyses/why-latin-america-matters-to-the-eu-on-energy/.
+
 39 GFSIS, “Energy Independence in the Baltic States: A Strategy against Russian Hybrid Threats,” March 17, 2025, accessed June 30, 2025,
 https://gfsis.org/en/energy-independence-in-the-baltic-states-a-strategy-against-russian-hybrid-threats/.
+
 40 European Commission, “EU‑Mercosur Partnership Agreement: Trade and Sustainable Development,” accessed June 30, 2025,
 https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-merc osur-agreement/factsheet-eu-mercosur-partnership-agreement-trade-and-sustainable-development_en.
+
 41 Marta Pacheco, “Why Is Lithium Crucial to the EU’s Green and Digital Transition?” Euronews, May 9, 2024, accessed June 30, 2025, https://www.euronews.com/green/2024/05/09/critical-raw-materials-lithium.
+
 42 Marc Jutten, EU–Latin America: Enhancing Cooperation on Critical Raw Materials, EPRS Briefing, European Parliament Research Service, December 13, 2024, accessed June 30, 2025, https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/767163/EPRS_BRI(2024)767163_EN.pdf.
+
 43 GMK Center, “EU Imported 5.34 Million Tons of Iron & Steel Products from Russia in 2024,” infographic, accessed June 30, 2025,
-https://gmk.center/en/infographic/eu-imported-5-34-million-tons-of-iron-steel-products-from-russia-in-2024/. 44 Observatory of Economic Complexity (OEC), “Brazil – Pig Iron Exports,” accessed June 30, 2025, https://oec.world/en/profile/bilateral-product/pig-iron/reporter/bra.
+https://gmk.center/en/infographic/eu-imported-5-34-million-tons-of-iron-steel-products-from-russia-in-2024/. 
+
+44 Observatory of Economic Complexity (OEC), “Brazil – Pig Iron Exports,” accessed June 30, 2025, https://oec.world/en/profile/bilateral-product/pig-iron/reporter/bra.
+
 45 Observatory of Economic Complexity (OEC), “Mercosur,” accessed June 30, 2025, https://oec.world/en/profile/international_organization/mercosur.
+
 46 “Ammonia Made from Russian Natural Gas Is Still Flowing into Lithuania, LRT Reports,” The Insider, May 26, 2025, https://theins.ru/en/news/281594.
+
 47 “Russian Fertilizer Exports to EU Jump 43% Year-on-Year,” The Moscow Times, October 9, 2024, https://www.themoscowtimes.com/2024/10/09/russian-fertilizer-exports-to-eu-jump-43-year-on-year-a86633.
+
 48 Joseph Glauber, David Laborde, Valeria Piñeiro, and Agustín Tejeda, “Can Agricultural Exports from Southern Cone Countries Make Up for Global Supply Disruptions Arising from the Russia-Ukraine War?” International Food Policy Research Institute (IFPRI), November 14, 2022,
 https://www.ifpri.org/blog/can-agricultural-exports-southern-cone-countries-make-global-supply-disruptions-arising
 -russia/.
+
 49 Gediminas Varvuolis, “Lithuanian MPs Debate Potential Sanctions Against Russia, Belarus,” LRT.lt, June 16, 2025,
-https://www.lrt.lt/en/news-in-english/19/2591736/lithuanian-mps-debate-potential-sanctions-against-russia-belarus. 50 Gediminas Varvuolis, “Russia Sanctions Extension Opposed by Some Lithuanian MPs Over Agricultural Imports,” LRT.lt, March 19, 2025,
+https://www.lrt.lt/en/news-in-english/19/2591736/lithuanian-mps-debate-potential-sanctions-against-russia-belarus.
+
+50 Gediminas Varvuolis, “Russia Sanctions Extension Opposed by Some Lithuanian MPs Over Agricultural Imports,” LRT.lt, March 19, 2025,
 https://archyvai.lrt.lt/en/news-in-english/19/2515426/russia-sanctions-extension-opposed-by-some-lithuanian-mps-o ver-agricultural-imports 
+
 51 “Ammonia Made from Russian Natural Gas,” The Insider.
-52 Gunnar Prause, Eunice O. Olaniyi, and Wolfgang Gerstlberger, “Ammonia Production as Alternative Energy for the Baltic Sea Region,” Energies 16, no. 4 (2023): 1831, https://doi.org/10.3390/en16041831.= 
+
+52 Gunnar Prause, Eunice O. Olaniyi, and Wolfgang Gerstlberger, “Ammonia Production as Alternative Energy for the Baltic Sea Region,” Energies 16, no. 4 (2023): 1831, https://doi.org/10.3390/en16041831.
+
 53 Julian Atchison, “Ammonia Exports from Brazil Taking Shape,” Ammonia Energy Association, February 13, 2023,
 https://ammoniaenergy.org/articles/ammonia-exports-from-brazil-taking-shape/#:~:text=Exports%20to%20the%20P ort%20of,Trammo%20DMCC%20and%20Varo%20Energy 
+
 54 Gabriel Malheiros, “EU Eyes Mercosur Deal; Green Hydrogen Plant in Piauí,” DatamarNews, November 21, 2023, https://www.datamarnews.com/noticias/eu-eyes-mercosur-deal-green-hydrogen-plant-in-piaui/ 
+
 55 Julian Atchison, “Yara to Offtake Renewable Fertiliser from ATOME,” Ammonia Energy Association, July 24, 2024, https://ammoniaenergy.org/articles/yara-to-offtake-renewable-fertiliser-from-atome/.
+
 56 Bronis Ropė, “Transit of Grain from Russia through the EU,” European Parliament, February 14, 2024, https://www.europarl.europa.eu/doceo/document/E-9-2024-000492_EN.html 
+
 57 “Lithuania Will Check from Which Regions Russian Grain Is Delivered to the Port of Klaipeda,”
 UkrAgroConsult, December 23, 2024,
 https://ukragroconsult.com/en/news/lithuania-will-check-from-which-regions-russian-grain-is-delivered-to-the-port- of-klaipeda/ 
-58 “Latvia Bans Grain Imports from Russia, Belarus,” LSM.lv, February 22, 2024, https://eng.lsm.lv/article/economy/economy/22.02.2024-latvia-bans-grain-imports-from-russia-belarus.a544005/. 59 “Brazil’s Wheat Economy from Production to Consumption,” BBM Magazine, May 22, 2025, https://magazinebbm.com/blog/brazils-wheat-economy-from-production-to-consumption-3843 
+
+58 “Latvia Bans Grain Imports from Russia, Belarus,” LSM.lv, February 22, 2024, https://eng.lsm.lv/article/economy/economy/22.02.2024-latvia-bans-grain-imports-from-russia-belarus.a544005/. 
+
+59 “Brazil’s Wheat Economy from Production to Consumption,” BBM Magazine, May 22, 2025, https://magazinebbm.com/blog/brazils-wheat-economy-from-production-to-consumption-3843 
+
 60 John Reidy, “Brazil Seeks Wheat Self-Sufficiency,” World Grain, July 4, 2024, https://www.world-grain.com/articles/20184-brazil-seeks-wheat-self-sufficiency 
+
 61 “Brazil’s Wheat Economy from Production to Consumption,” BBM Magazine, May 22, 2025, https://magazinebbm.com/blog/brazils-wheat-economy-from-production-to-consumption-3843 
+
 62 Karolis Šimas, “Lithuania Shifts Grain Exports to Africa and the Americas amid Volatile Global Conditions,” Miller Magazine, December 22, 2024, https://millermagazine.com/blog/lithuania-shifts-grain-exports-to-africa-and-the-americas-amid-volatile-global-cond itions-6057 
-63 “EU Trade Relations with Mercosur,” European Commission, accessed June 30, 2025, https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur_en. 64 “International Trade in Goods by Partner,” Eurostat, accessed June 30, 2025, https://ec.europa.eu/eurostat/statistics-explained/index.php/International_trade_in_goods_by_partner.
+
+63 “EU Trade Relations with Mercosur,” European Commission, accessed June 30, 2025, https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur_en. 
+
+64 “International Trade in Goods by Partner,” Eurostat, accessed June 30, 2025, https://ec.europa.eu/eurostat/statistics-explained/index.php/International_trade_in_goods_by_partner.
+
 65 https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250620-3
+
 66 “Factsheet: EU–Mercosur Partnership Agreement – Opening Opportunities for European Farmers,” European Commission, accessed June 30, 2025, https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-merc osur-agreement/factsheet-eu-mercosur-partnership-agreement-opening-opportunities-european-farmers_en 
+
 67 “airBaltic and SÚA Líneas Aéreas Enter a Strategic Partnership in Latin America,” airBaltic, January 28, 2025, https://company.airbaltic.com/en/newsroom?press=2025/airbaltic-and-sua-lineas-aereas-enter-a-strategic-partnership-in-latin-america 
+
 68 “Estonia Strengthens Business Relations with Latin America through e-Residency,” The Baltic Times, May 22, 2025,
 https://www.baltictimes.com/estonia_strengthens_business_relations_with_latin_america_through_e-residency/?utm_source=chatgpt.com 
+
 69 European Parliament, Committee on Foreign Affairs Ordinary Meeting Hearing.
+
 70 Fleishhauer Corrêa da Costa and Regazzoni, Now or Never.
 
 
