@@ -33,51 +33,74 @@ Salmanis’ Death’s Head will, for now, continue to face the Russian Embassy, 
 # References
 
 1 LETA, “Latvia Considers Shutting Down Russian Embassy: What Political Consequences Could This Cause?”,
-BNN News (Baltic News Network), August 6, 2024, online edition,
-https://bnn-news.com/latvia-considers-shutting-down-russian-embassy-what-political-consequences-could-this-caus e-259524 bnn-news.com.
+BNN News (Baltic News Network), August 6, 2024, online edition, https://bnn-news.com/latvia-considers-shutting-down-russian-embassy-what-political-consequences-could-this-caus e-259524 bnn-news.com.
+
 2 LSM (Latvian Public Broadcasting), “Latvia Expels Three Russian Diplomats,” eng.lsm.lv, March 18, 2022, 15:04, https://eng.lsm.lv/article/politics/diplomacy/latvia-expels-three-russian-diplomats.a448540/.
-3 Ministry of Foreign Affairs of the Republic of Latvia, “Latvia Lowers Level of Diplomatic Relations with the Russian Federation,” January 23, 2023,
-https://www.mfa.gov.lv/en/article/latvia-lowers-level-diplomatic-relations-russian-federation.
-4 Matīss Arnicāns, “Latvia Was Not Prepared to Send New Ambassador to Russia: LTV’s De Facto,” eng.lsm.lv, January 30, 2023,
+
+3 Ministry of Foreign Affairs of the Republic of Latvia, “Latvia Lowers Level of Diplomatic Relations with the Russian Federation,” January 23, 2023, https://www.mfa.gov.lv/en/article/latvia-lowers-level-diplomatic-relations-russian-federation.
+
+4 Matīss Arnicāns, “Latvia Was Not Prepared to Send New Ambassador to Russia: LTV’s De Facto,” eng.lsm.lv, January 30, 2023
+
 5 Arnicāns, “Latvia Was Not Prepared.”
+
 6 Le Monde, “Russia, Estonia Expel Ambassadors in Tit-for-Tat Move,” Le Monde, January 23, 2023, https://www.lemonde.fr/en/international/article/2023/01/23/russia-estonia-expel-ambassadors-in-tit-for-tat-move_60 12718_4.html.
+
 7 UN News, “UN Suspends Russia from Human Rights Council over Ukraine Abuses,” UN News, April 7, 2022, https://news.un.org/en/story/2022/04/1115482.
+
 8 Ministry of Foreign Affairs of the Republic of Latvia, Annual Report of the Minister of Foreign Affairs on the Activities of the Ministry of Foreign Affairs in 2022, April 2023, https://www.mfa.gov.lv/en/media/7965/download?attachment#:~:text=The%20Latvian%20Embassy%20in%20Russ ia,can%20continue%20their%20professional%20activities.
+
 9 Embassy of the Russian Federation in Latvia, “Diplomatic Staff,” accessed July 8, 2025, https://latvia.mid.ru/en/embassy/members/.
+
 10 BNS, “Three Belarusians Named Suspects in 2021 Ryanair Plane Grounding Case,” LRT English, September 6, 2024,
 https://www.lrt.lt/en/news-in-english/19/2354291/three-belarusians-named-suspects-in-2021-ryanair-plane-groundin g-case. en.wikipedia.org+12lrt.lt+12aviation24.be+12
+
 11 Elmārs Barkāns, “FOTOREPORTĀŽA: kā izskatās visu pamestā Baltkrievijas vēstniecība Rīgā,” Jauns.lv, June 1, 2021, 11:02,
 https://jauns.lv/raksts/zinas/445899-fotoreportaza-ka-izskatas-visu‑pamesta‑baltkrievijas‑vestnieciba‑riga.
+
 12 Ministry of Foreign Affairs of the Republic of Latvia, “Belarus,” Ministry of Foreign Affairs of the Republic of
 Latvia, accessed July 9, 2025, https://www2.mfa.gov.lv/en/belarus.
+
 13 Embassy of the Republic of Belarus to the Republic of Latvia, “Contacts,” accessed July 10, 2025, https://latvia.mfa.gov.by/en/embassy/.
+
 14 Latvian Public Broadcasting, “Baltics Requested to Close Consulates in Russia,” eng.lsm.lv, April 21, 2022, https://eng.lsm.lv/article/politics/diplomacy/baltics-requested-to-close-consulates-in-russia.a453331/.
+
 15 Communications Group, Ministry of Foreign Affairs of the Republic of Latvia, email to the author, July 9, 2025.
+
 16 Baltic News Network, “Latvia Considers Shutting Down Russian Embassy.”
+
 17 Baltic News Network, “Latvia Considers Shutting Down Russian Embassy.”
+
 18 Sandis Šrāders, The Little Lady that Could: Small Latvia Rejoins the Euro‑Atlantic Community (PhD diss., Old Dominion University, Spring 2017), DOI: 10.25777/h8f1‑sm87
+
 19 Sandis Šrāders (Research Fellow, Latvian Institute of International Affairs; Lecturer in Russian Military and
 Strategic Studies, Baltic Defence College), phone interview with the author, July 8, 2025.
-20 Latvian Public Broadcasting, “Russian Diplomat Presented with Protest Note over Drone Incursion,” eng.lsm.lv, September 9, 2024,
-https://eng.lsm.lv/article/politics/diplomacy/09.09.2024-russian-diplomat-presented-with-protest-note-over-drone-in cursion.a568010/.
-21 Ministry of Foreign Affairs of Estonia, “Ministry of Foreign Affairs Summons Russian chargé d’affaires over Airspace Violation,” vm.ee, June 25, 2025,
-https://www.vm.ee/en/news/ministry-foreign-affairs-summons-russian-charge-daffaires-over-airspace-violation.
+
+20 Latvian Public Broadcasting, “Russian Diplomat Presented with Protest Note over Drone Incursion,” eng.lsm.lv, September 9, 2024, https://eng.lsm.lv/article/politics/diplomacy/09.09.2024-russian-diplomat-presented-with-protest-note-over-drone-in cursion.a568010/.
+
+21 Ministry of Foreign Affairs of Estonia, “Ministry of Foreign Affairs Summons Russian chargé d’affaires over Airspace Violation,” vm.ee, June 25, 2025, https://www.vm.ee/en/news/ministry-foreign-affairs-summons-russian-charge-daffaires-over-airspace-violation.
+
 22 BNS, “Eleven Damaged Cables in 15 Months: What Is Happening in Baltic Sea?,” LRT English, January 30, 2025,
 https://www.lrt.lt/en/news-in-english/19/2472575/eleven-damaged-cables-in-15-months-what-is-happening-in-baltic
 -sea.
+
 23 Deborah Cole, “Beware Unkempt Tourists: Latvia Tells Citizens How to Spot Russian Spies,” The Guardian, May 15, 2025,
 https://www.theguardian.com/world/2025/may/15/latvia-shares-spy-spotting-guide-to-help-public-expose-russian-sa boteurs.
-24 AFP, “Lithuania’s Capital City Unveils War Evacuation Plan Amid Fears of Russian Aggression,” The Moscow Times, April 23, 2025,
-https://www.themoscowtimes.com/2025/04/23/lithuanias-capital-city-unveils-war-evacuation-plan-amid-fears-of-rus sian-aggression-a88849.
+24 AFP, “Lithuania’s Capital City Unveils War Evacuation Plan Amid Fears of Russian Aggression,” The Moscow Times, April 23, 2025, https://www.themoscowtimes.com/2025/04/23/lithuanias-capital-city-unveils-war-evacuation-plan-amid-fears-of-rus sian-aggression-a88849.
+
 25 Giedrė Peseckytė, “Baltic Countries Team Up on Mass Evacuation Plans as Russian Threat Grows,” Politico, June 13, 2025,
-https://www.politico.eu/article/baltics-cross-border-evacuation-russia-lithuania-latvia-estonia-ukraine-military-eu/. e 26 LSM.lv – Latvian Public Broadcasting, "Latvian Is the Mother Tongue of 64% of the Population of Latvia," LSM.lv, October 24, 2023,
-https://eng.lsm.lv/article/society/society/24.10.2023-latvian-is-the-mother-tongue-of-64-of-the-population-of-latvia.a 528983/.
-27 Latvia Ministry of Foreign Affairs, “Society Integration in Latvia,” Ministry of Foreign Affairs of the Republic of Latvia, accessed July 10, 2025,
-https://www.mfa.gov.lv/en/society-integration-latvia#:~:text=According%20to%20the%20data%20in,of%20the%20 Republic%20of%20Latvia.
+https://www.politico.eu/article/baltics-cross-border-evacuation-russia-lithuania-latvia-estonia-ukraine-military-eu/. e 
+
+26 LSM.lv – Latvian Public Broadcasting, "Latvian Is the Mother Tongue of 64% of the Population of Latvia," LSM.lv, October 24, 2023, https://eng.lsm.lv/article/society/society/24.10.2023-latvian-is-the-mother-tongue-of-64-of-the-population-of-latvia.a 528983/.
+
+27 Latvia Ministry of Foreign Affairs, “Society Integration in Latvia,” Ministry of Foreign Affairs of the Republic of Latvia, accessed July 10, 2025, https://www.mfa.gov.lv/en/society-integration-latvia#:~:text=According%20to%20the%20data%20in,of%20the%20 Republic%20of%20Latvia.
+
 28 Marija Andrejeva, “‘Express Your Loyalty’: Russian Speakers In Latvia Face Language Test — Or Deportation,”
 Radio Free Europe/Radio Liberty, September 16, 2024, accessed July 10, 2025, https://www.rferl.org/a/russia-latvia-residents-deportation/33116047.html.
+
 29 Minority Rights Group International, “Russians in Latvia,” Minority Rights (updated March 2018), accessed July 10, 2025, https://minorityrights.org/communities/russians-4/.
+
 30 Andrejeva, “‘Express Your Loyalty’.”
+
 31 Krišs Salmanis, email message to author, July 5, 2025.
 
 Cover photo: Olevs Nikers
