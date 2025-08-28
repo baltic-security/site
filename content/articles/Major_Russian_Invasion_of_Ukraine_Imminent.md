@@ -1,7 +1,7 @@
 +++
 title="Major Russian Invasion of Ukraine Imminent"
 date=2022-01-21
-image="https://commons.wikimedia.org/wiki/File:Troops_of_the_RKhBZ_of_the_Russian_army_at_the_exercises.png"
+image = "images/War.jpg"
 authors = ["Matthew Thomas"]
 categories = ["Security"]
 tags = ["Russia","Ukraine"]
@@ -23,6 +23,7 @@ Meanwhile aid pours into Ukraine. God bless Kyiv if it can make effective use of
 
 Russia is presently moving troops and supplies from across its multiple military districts towards Ukraine, setting up snap exercises in Belarus, deploying over 140 warships for exercises across “all areas of responsibility,” increasing submarine activity in the Black Sea, and has conducted a major cyber-attack on Ukraine’s electrical, gas transmission, and financial systems. None of these things portend Moscow backing down. The writing is on the wall. How the West responds will have consequences that reverberate for generations. 
 
-Cover Photo: Russian Army Exercises. Creative Commons. [Credit](https://commons.wikimedia.org/wiki/File:Troops_of_the_RKhBZ_of_the_Russian_army_at_the_exercises.png)
+Cover Photo: Olevs Nikers
+
 
 **By [Matthew Thomas](../our_team)**
