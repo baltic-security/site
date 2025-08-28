@@ -1,7 +1,7 @@
 +++
 title = "A Piece of Moscow in Latvia: a Deeper Look at the Russian Embassy in Riga"
 date = 2025-08-28
-image = "images/rusembassy.jpg"
+image = "images/ruemb.jpg"
 authors = ["Grace Zagoria"]
 categories = ["Security"]
 tags = ["Baltics", "History", "Russia", "War in Ukraine"]
