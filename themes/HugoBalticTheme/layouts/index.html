@@ -4,6 +4,8 @@
     {{ partial "headers.html" . }}
   </head>
   <body>
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v23.0"></script>
     <div id="all">
         {{ partial "nav.html" . }}
         {{ partial "carousel.html" . }}
@@ -17,4 +19,9 @@
     <!-- /#all -->
     {{ partial "scripts.html" . }}
   </body>
+
+<style>
+/* Break out of a centered theme container for a “full-bleed” look */
+.fb-fullbleed { width: 100vw; margin-left: calc(50% - 50vw); padding: 0 4vw; box-sizing: border-box; }
+</style>
 </html>
