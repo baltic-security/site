@@ -1,7 +1,7 @@
 +++
 title="The Bush School students visit Norwegian Embassy in Riga"
 date=2025-10-30
-image="images/Nor1.jpg"
+image="image1 (1)jpg."
 authors = ["O.Nikers"]
 categories = ["News"]
 tags = ["Transatlantic Security Exchange"]
